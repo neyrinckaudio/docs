@@ -7,20 +7,6 @@ V-Control Pro is a Mac and Windows application that connects control surfaces to
 [See the full compatibility list](https://neyrinck.com/vcpro-compatibility/){ .md-button }
 
 
-# Setting Up Midi Controllers
-#### Command 8, FaderPort, ioStation 24c
-
-For surfaces that use MIDI to connect to a computer, follow these instructions to add a surface to V-Control Pro.
-
-* Open the V-Control Pro Setups Window.
-* Click on + Add New under the Controllers section. 
-* Click on the item with the name of the Midi controller you are using. Now the surface should be shown in the Controllers section of Setups.
-* Click on the surface in the Controllers section of Setups and set the Midi input and output ports that it is using. The ports might have been automatically set, but you should confirm the ports are correct.
-
-
-<a id="setting-up-pro-tools"></a>
-
-
 # Setting Up Pro Tools
 
 V-Control Pro uses the HUI protocol with Pro Tools Studio/Ultimate to provide for 8, 16, 24, or 32 channels of control. The Pro Tools Midi Peripherals window must be configured to use V-Control Pro's virtual Midi ports for Pro Tools to communicate with V-Control Pro.

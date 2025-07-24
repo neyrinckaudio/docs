@@ -19,6 +19,7 @@ nav:
     - FaderPort V2 / iOStation 24c: './vcontrolpro/documentation/FaderPort-V2-iOStation-24c.md'
     - Using MIDI Mode: './vcontrolpro/documentation/Using-MIDI-Mode.md'
     - Setting Up Ethernet Controllers: './vcontrolpro/documentation/Setting-Up-Ethernet-Controllers.md'
+    - Setting Up Midi Controllers: './vcontrolpro/documentation/Setting-Up-Midi-Controllers.md'
 
 
 markdown_extensions:
