@@ -3,14 +3,16 @@ site_description: Our detailed Neyrinck Audio User Guide provides step-by-step i
 
 theme:
   name: material
-
+  features:
+    - navigation.tabs
 nav:
   - Home: 'index.md'
-  - Welcome To V-Control Pro: './vcontrolpro/documentation/index.md'
-  - Quick Start Guide: './vcontrolpro/documentation/Quick-Start-Guide.md'
-  - Install And Run V-Control Pro : './vcontrolpro/documentation/Install-and-Run-V-Control-Pro.md'
-  - V-Control Pro Licensing: './vcontrolpro/documentation/V-Control-Pro-Licensing.md'
-  - Digidesign Control 24: './vcontrolpro/documentation/Digidesign-Control-24.md'
+  - V-Control Pro:
+    - Welcome To V-Control Pro: './vcontrolpro/documentation/index.md'
+    - Quick Start Guide: './vcontrolpro/documentation/Quick-Start-Guide.md'
+    - Install And Run V-Control Pro : './vcontrolpro/documentation/Install-and-Run-V-Control-Pro.md'
+    - V-Control Pro Licensing: './vcontrolpro/documentation/V-Control-Pro-Licensing.md'
+    - Digidesign Control 24: './vcontrolpro/documentation/Digidesign-Control-24.md'
 
 
 markdown_extensions:
