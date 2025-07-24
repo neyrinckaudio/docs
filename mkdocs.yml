@@ -33,6 +33,7 @@ nav:
       - LUNA: './vcontrolpro/documentation/LUNA.md'
       - MIO Console: './vcontrolpro/documentation/MIO-Console.md'
       - Adobe Audition: './vcontrolpro/documentation/Adobe-Audition.md'
+      - Premiere Pro: './vcontrolpro/documentation/Premiere-Pro.md'
 
 
 markdown_extensions:
