@@ -9,7 +9,7 @@ Many DAWs and media applications use the Mackie Control protocol to support cont
 * [FL Studio](#setting-up-flstudio)
 * [LUNA](#setting-up-luna)
 * [MIO Console](#setting-up-mioconsole)
-* [Mixbus](#setting-up-mixbus)
+* [MixBus](#setting-up-mixbus)
 * [Premiere Pro](#setting-up-premiere)
 * [Reaper](#setting-up-reaper)
 * [Reason](#setting-up-reason)
