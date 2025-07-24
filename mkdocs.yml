@@ -10,6 +10,7 @@ nav:
   - Quick Start Guide: './vcontrolpro/documentation/Quick-Start-Guide.md'
   - Install And Run V-Control Pro : './vcontrolpro/documentation/Install-and-Run-V-Control-Pro.md'
   - V-Control Pro Licensing: './vcontrolpro/documentation/V-Control-Pro-Licensing.md'
+  - Digidesign Control 24: './vcontrolpro/documentation/Digidesign-Control-24.md'
 
 
 markdown_extensions:
