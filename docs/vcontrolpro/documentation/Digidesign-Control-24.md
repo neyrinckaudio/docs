@@ -21,4 +21,4 @@ Set up Cubase / Nuendo for Control 24 as described in [Setting Up Cubase/Nuendo]
 ## Digital Performer
 Set up the DAW for Control 24 using three Mackie Control banks as described in [Setting Up Mackie Control](#setting-up-mackie).
 
-Please see the Control 24 feature charts online at [Feature Charts – C24](https://neyrinck.com/help-category/v-control-pro-help/)
+Please see the Control 24 feature charts online at [Feature Charts – C24](https://neyrinck.com/help-category/v-control-pro-help/).
