@@ -14,6 +14,7 @@ nav:
     - V-Control Pro Licensing: './vcontrolpro/documentation/V-Control-Pro-Licensing.md'
     - Digidesign Control 24: './vcontrolpro/documentation/Digidesign-Control-24.md'
     - Avid/Digidesign C|24: './vcontrolpro/documentation/Avid-Digidesign-C24.md'
+    - Digidesign Pro Control: './vcontrolpro/documentation/Digidesign-Pro-Control.md'
 
 
 markdown_extensions:
