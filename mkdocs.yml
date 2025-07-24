@@ -40,6 +40,7 @@ nav:
       - FL Studio: './vcontrolpro/documentation/FL-Studio.md'
       - FMOD Studio: './vcontrolpro/documentation/FMOD-Studio.md'
       - Wwise: './vcontrolpro/documentation/Wwise.md'
+      - DaVinci Resolve: './vcontrolpro/documentation/DaVinci-Resolve.md'
 
 
 markdown_extensions:

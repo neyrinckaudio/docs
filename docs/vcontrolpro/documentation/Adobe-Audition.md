@@ -18,7 +18,7 @@ In the Configure Mackie Controller window, click on Add and set up as:
 * MIDI Output Device: V-Control XT2
 * Repeat this step replacing V-Control XT2 with V-Control XT3 and V-Control XT4 for 32 tracks total.
 
-!!!note
+!!! note
     For the Channel/Bank Select buttons to function, there needs to be more created audio tracks in the session than the amount of tracks setup for V-Control Pro to control.
 
 For example, if V-Control Pro is setup for 16 tracks of control in Audition, then there would need to be at least 17 created tracks in the session for the Channel/Bank select buttons to work.

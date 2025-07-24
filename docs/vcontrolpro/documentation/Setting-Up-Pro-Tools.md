@@ -16,7 +16,6 @@ V-Control Pro must be set up in the Pro Tools peripherals window. Depending on h
 
 ![16 Channel Surfaces](./images/ptmidi2.png "16 Channel Surfaces")
 
-
 ### 24 Channel Surfaces
 
 ![24 Channel Surfaces](./images/ptmidi3.png "24 Channel Surfaces")
