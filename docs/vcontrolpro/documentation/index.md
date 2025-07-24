@@ -7,57 +7,6 @@ V-Control Pro is a Mac and Windows application that connects control surfaces to
 [See the full compatibility list](https://neyrinck.com/vcpro-compatibility/){ .md-button }
 
 
-## Studio One 
-V-Control Pro must be set up in the External Devices window in the Studio One Preferences.  Depending on how many banks are being used, the configuration will vary.
-
-#### 8 Channel Surfaces
-Launch Studio One
-In the Studio One top menu bar select: Studio One / Preferences...
-Select External Device on the preferences window
-Select "Add Device" and choose the following:
-Mackie/Control
-Receive From: V-Control
-Send To: V-Control
-
-<img src="./images/s1dev1.png" style="width:50%"></img>
-
-#### 16 Channel Surfaces
-Follow instructions for 8 Channel setup, then add the following:
-Select “Add Device” and choose the following:
-Mackie/Control
-Receive From: V-Control XT2
-Send to: V-Control XT2
-
-<img src="./images/s1dev2.png" style="width:50%"></img>
-
-(Optional) Rename the 2nd controller by selecting it and clicking on Edit…
-Click on Placement and drag the devices
-
-<img src="./images/s1name2.png" style="width:50%"></img>
-
-Click on Placement and drag the devices from the Ungrouped section to Grouped in the desired configuration:
-
-<img src="./images/s1group2.png" style="width:50%"></img>
-
-#### 24 Channel Surfaces
-Follow instructions for the 8 and 16 Channel setup, then add the following:
-Select "Add Device" and choose the following:
-Mackie/Control
-Receive From: V-Control XT3
-Send To: V-Control XT3
-
-<img src="./images/s1dev3.png" style="width:50%"></img>
-
-(Optional) Rename the 3rd controller by selecting it and clicking Edit..
-
-<img src="./images/s1name2.png" style="width:50%"></img>
-
-Click on Placement and move the controllers from the Ungrouped section to the Grouped section in the desired configuration.
-
-<img src="./images/s1group2.png" style="width:50%"></img>
-
-<a id="setting-up-mixbus"></a>
-
 ## MixBus
 V-Control Pro must be set up in the Control Surface Preferences window in MixBus.  Depending on how many banks are being used, the configuration will vary.
 8 Channel 

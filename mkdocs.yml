@@ -24,6 +24,7 @@ nav:
     - Setting Up Logic Pro X: './vcontrolpro/documentation/Setting-Up-Logic-Pro-X.md'
     - Setting Up Cubase / Nuendo: './vcontrolpro/documentation/Setting-Up-Cubase-Nuendo.md'
     - Setting Up Mackie Control DAWs: './vcontrolpro/documentation/Setting-Up-Mackie-Control-DAWs.md'
+    - Studio One: './vcontrolpro/documentation/Studio-One.md'
 
 
 markdown_extensions:
