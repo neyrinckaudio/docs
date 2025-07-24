@@ -7,17 +7,6 @@ V-Control Pro is a Mac and Windows application that connects control surfaces to
 [See the full compatibility list](https://neyrinck.com/vcpro-compatibility/){ .md-button }
 
 
-## Tracktion
-
-* Click on the "Settings" tab and select "MIDI Devices" on the side bar.
-* Enable V-Control for the Input and Output.
-* Select "Control Surfaces" on the side bar.
-* Select "Mackie Control Universal and configure as follows:
-Input Device: V-Control
-Output Device: V-Control
-
-<a id="setting-up-sonar"></a>
-
 ## Sonar
 
 * In the Sonar top menu bar go to: Edit / Preferences / Control Surfaces...

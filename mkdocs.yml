@@ -35,6 +35,7 @@ nav:
       - Adobe Audition: './vcontrolpro/documentation/Adobe-Audition.md'
       - Premiere Pro: './vcontrolpro/documentation/Premiere-Pro.md'
       - Reason Setup: './vcontrolpro/documentation/Reason-Setup.md'
+      - Tracktion: './vcontrolpro/documentation/Tracktion.md'
 
 
 markdown_extensions:
