@@ -4,23 +4,24 @@ V-Control Pro must be set up in the External Devices window in the Studio One Pr
 
 ## 8 Channel Surfaces
 
-Launch Studio One
-In the Studio One top menu bar select: Studio One / Preferences...
-Select External Device on the preferences window
-Select "Add Device" and choose the following:
-Mackie/Control
-Receive From: V-Control
-Send To: V-Control
+- Launch Studio One
+- In the Studio One top menu bar select: Studio One / Preferences...
+- Select External Device on the preferences window
+- Select "Add Device" and choose the following:
+    - Mackie/Control
+    - Receive From: V-Control
+    - Send To: V-Control
 
 ![8 Channel Surfaces](./images/s1dev1.png "8 Channel Surfaces")
 
 ## 16 Channel Surfaces
 
 Follow instructions for 8 Channel setup, then add the following:
-Select “Add Device” and choose the following:
-Mackie/Control
-Receive From: V-Control XT2
-Send to: V-Control XT2
+
+- Select “Add Device” and choose the following:
+    - Mackie/Control
+    - Receive From: V-Control XT2
+    - Send to: V-Control XT2
 
 ![16 Channel Surfaces](./images/s1dev2.png "16 Channel Surfaces")
 
@@ -38,10 +39,11 @@ Click on Placement and drag the devices from the Ungrouped section to Grouped in
 ## 24 Channel Surfaces
 
 Follow instructions for the 8 and 16 Channel setup, then add the following:
-Select "Add Device" and choose the following:
-Mackie/Control
-Receive From: V-Control XT3
-Send To: V-Control XT3
+
+- Select "Add Device" and choose the following:
+- Mackie/Control
+- Receive From: V-Control XT3
+- Send To: V-Control XT3
 
 ![24 Channel Surfaces](./images/s1dev3.png "24 Channel Surfaces")
 
