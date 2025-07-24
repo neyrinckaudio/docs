@@ -21,6 +21,8 @@ nav:
     - Setting Up Ethernet Controllers: './vcontrolpro/documentation/Setting-Up-Ethernet-Controllers.md'
     - Setting Up Midi Controllers: './vcontrolpro/documentation/Setting-Up-Midi-Controllers.md'
     - Setting Up Pro Tools: './vcontrolpro/documentation/Setting-Up-Pro-Tools.md'
+    - Setting Up Logic Pro X: './vcontrolpro/documentation/Setting-Up-Logic-Pro-X.md'
+    - Setting Up Cubase / Nuendo: './vcontrolpro/documentation/Setting-Up-Cubase-Nuendo.md'
 
 
 markdown_extensions:
