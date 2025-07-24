@@ -25,6 +25,9 @@ nav:
     - Setting Up Cubase / Nuendo: './vcontrolpro/documentation/Setting-Up-Cubase-Nuendo.md'
     - Setting Up Mackie Control DAWs: './vcontrolpro/documentation/Setting-Up-Mackie-Control-DAWs.md'
     - Studio One: './vcontrolpro/documentation/Studio-One.md'
+    - MixBus: './vcontrolpro/documentation/MixBus.md'
+    - Reaper: './vcontrolpro/documentation/Reaper.md'
+    - Digital Performer: './vcontrolpro/documentation/Digital-Performer.md'
 
 
 markdown_extensions:
