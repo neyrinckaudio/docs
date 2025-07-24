@@ -15,6 +15,7 @@ nav:
     - Digidesign Control 24: './vcontrolpro/documentation/Digidesign-Control-24.md'
     - Avid/Digidesign C|24: './vcontrolpro/documentation/Avid-Digidesign-C24.md'
     - Digidesign Pro Control: './vcontrolpro/documentation/Digidesign-Pro-Control.md'
+    - Avid D-Command: './vcontrolpro/documentation/Avid-D-Command.md'
 
 
 markdown_extensions:
