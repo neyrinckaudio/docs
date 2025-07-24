@@ -36,6 +36,7 @@ nav:
       - Premiere Pro: './vcontrolpro/documentation/Premiere-Pro.md'
       - Reason Setup: './vcontrolpro/documentation/Reason-Setup.md'
       - Tracktion: './vcontrolpro/documentation/Tracktion.md'
+      - Sonar: './vcontrolpro/documentation/Sonar.md'
 
 
 markdown_extensions:

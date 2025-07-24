@@ -6,18 +6,6 @@ V-Control Pro is a Mac and Windows application that connects control surfaces to
 
 [See the full compatibility list](https://neyrinck.com/vcpro-compatibility/){ .md-button }
 
-
-## Sonar
-
-* In the Sonar top menu bar go to: Edit / Preferences / Control Surfaces...
-* Configure for Connected Controllers/Surfaces as follows:
-Controller/Surface: Mackie Control
-In Port: V-Control
-Out Port: V-Control
-
-<img src="./images/sonar.png" style="width:75%"></img>
-
-<a id="setting-up-flstudio"></a>
 ## FL Studio
 
 * Go To Options and select MIDI Settings (F10)
@@ -28,7 +16,6 @@ Out Port: V-Control
 
 NOTE: FL Studio only supports one device for setup. It is not possible to setup for more than 8 tracks of control through V-Control Pro.
 
-<a id="setting-up-fmod"></a>
 
 ## FMOD Studio
 
