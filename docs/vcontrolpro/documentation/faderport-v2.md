@@ -15,7 +15,7 @@ V-Control Pro supercharges the single fader FaderPort V2 / iOStation 24c for use
 
 * In the Pro Tools MIDI Input Devices Window, disable the Faderport. It is connected with V-control Pro and can cause conflict if enabled in Pro Tools as well.
 
-* Set up Pro Tools for 1, 2, 3, or 4 HUI banks as described in [Setting Up Pro Tools](./Setting-Up-Pro-Tools.md). The number of HUI bank channels must match the number of channels configured in the previous steps.
+* Set up Pro Tools for 1, 2, 3, or 4 HUI banks as described in [Setting Up Pro Tools](./pro-tools.md). The number of HUI bank channels must match the number of channels configured in the previous steps.
 
 ## Fast Focus and Refocus with FaderPort V2/iOStation 24c
 
