@@ -8,6 +8,7 @@ nav:
   - Home: 'index.md'
   - Welcome To V-Control Pro: './vcontrolpro/documentation/index.md'
   - Quick Start Guide: './vcontrolpro/documentation/quick-start-guide.md'
+  - Install And Run V-Control Pro : './vcontrolpro/documentation/install-and-run-v-control-pro.md'
 
 markdown_extensions:
   - attr_list
