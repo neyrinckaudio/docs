@@ -6,33 +6,6 @@ V-Control Pro is a Mac and Windows application that connects control surfaces to
 
 [See the full compatibility list](https://neyrinck.com/vcpro-compatibility/){ .md-button }
 
-
-# Setting Up Pro Tools
-
-V-Control Pro uses the HUI protocol with Pro Tools Studio/Ultimate to provide for 8, 16, 24, or 32 channels of control. The Pro Tools Midi Peripherals window must be configured to use V-Control Pro's virtual Midi ports for Pro Tools to communicate with V-Control Pro.
-
-#### Setting the Midi Peripherals
-
-V-Control Pro must be set up in the Pro Tools peripherals window. Depending on how many banks are being used, the configuration will vary. 
-
-* In the Pro Tools top menu bar select: Setup / Peripherals. Select the MIDI Controllers tab
-
-#### 8 Channel Surfaces
-
-<img src="./images/ptmidi1.png" style="width:50%"></img>
-
-#### 16 Channel Surfaces
-<img src="./images/ptmidi2.png" style="width:50%"></img>
-
-#### 24 Channel Surfaces
-<img src="./images/ptmidi3.png" style="width:50%"></img>
-
-#### 32 Channel Surfaces
-<img src="./images/ptmidi4.png" style="width:50%"></img>
-
-
-<a id="setting-up-logic"></a>
-
 # Setting Up Logic Pro X
 
 Logic Pro will not be detected until it has connected to a control surface supported by V-Control Pro with Logic Pro. Follow these steps to connect it to a control surface.
