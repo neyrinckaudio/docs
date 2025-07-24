@@ -34,6 +34,7 @@ nav:
       - MIO Console: './vcontrolpro/documentation/MIO-Console.md'
       - Adobe Audition: './vcontrolpro/documentation/Adobe-Audition.md'
       - Premiere Pro: './vcontrolpro/documentation/Premiere-Pro.md'
+      - Reason Setup: './vcontrolpro/documentation/Reason-Setup.md'
 
 
 markdown_extensions:
