@@ -29,6 +29,8 @@ nav:
       - MixBus: './vcontrolpro/documentation/MixBus.md'
       - Reaper: './vcontrolpro/documentation/Reaper.md'
       - Digital Performer: './vcontrolpro/documentation/Digital-Performer.md'
+      - Ableton Live: './vcontrolpro/documentation/Ableton-Live.md'
+      - LUNA: './vcontrolpro/documentation/LUNA.md'
 
 
 markdown_extensions:
