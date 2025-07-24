@@ -3,9 +3,13 @@ title: Neyrinck Audio
 markdown_extensions:
   - attr_list
 theme:
-  
+  # name: readthedocs
 features:
     - navigation.sections
     - navigation.expand
 hide:
   - toc
+
+nav:
+  - Home: 'index.md'
+  - V-Control Pro: './vcontrolpro/documentation/index.md'
