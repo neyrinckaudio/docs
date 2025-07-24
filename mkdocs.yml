@@ -38,6 +38,8 @@ nav:
       - Tracktion: './vcontrolpro/documentation/Tracktion.md'
       - Sonar: './vcontrolpro/documentation/Sonar.md'
       - FL Studio: './vcontrolpro/documentation/FL-Studio.md'
+      - FMOD Studio: './vcontrolpro/documentation/FMOD-Studio.md'
+      - Wwise: './vcontrolpro/documentation/Wwise.md'
 
 
 markdown_extensions:
