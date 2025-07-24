@@ -1,5 +1,5 @@
 site_name: Neyrinck User Guides
-site_description: Our detailed Neyrinck Audio User Guide provides step-by-step instructions for setting up and using V-Control Pro with your DAW. Learn how to connect control surfaces like D-Command and FaderPort to Pro Tools, Cubase, Logic Pro X, and more. Discover advanced MIDI mapping techniques, troubleshooting tips, and optimize your audio production workflow. Perfect for sound engineers, music producers, and audio professionals seeking to enhance their studio experience with powerful control surface integration.
+site_description: User Guides for Neyrinck Audio products.
 
 theme:
   name: material
