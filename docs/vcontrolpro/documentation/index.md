@@ -6,18 +6,7 @@ V-Control Pro is a Mac and Windows application that connects control surfaces to
 
 [See the full compatibility list](https://neyrinck.com/vcpro-compatibility/){ .md-button }
 
-# Setting Up Ethernet Controllers
 
-#### C24, Control 24, Pro Control, D-Command
-
-For surfaces that use Ethernet to connect to a computer, follow these instructions to add a surface to V-Control Pro.
-
-* Open the V-Control Pro Setups Window.
-* Click on + Add New under the Controllers section and select Add Ethernet Device…
-* With the Ethernet Browser window open, ensure the correct Network is selected that the surface is connected to.
-* Wait up to ten seconds for the surface to be recognized. When it appears, select it and click Add.
-
-<a id="setting-up-midi"></a>
 # Setting Up Midi Controllers
 #### Command 8, FaderPort, ioStation 24c
 
@@ -30,6 +19,8 @@ For surfaces that use MIDI to connect to a computer, follow these instructions t
 
 
 <a id="setting-up-pro-tools"></a>
+
+
 # Setting Up Pro Tools
 
 V-Control Pro uses the HUI protocol with Pro Tools Studio/Ultimate to provide for 8, 16, 24, or 32 channels of control. The Pro Tools Midi Peripherals window must be configured to use V-Control Pro's virtual Midi ports for Pro Tools to communicate with V-Control Pro.
@@ -41,6 +32,7 @@ V-Control Pro must be set up in the Pro Tools peripherals window. Depending on h
 * In the Pro Tools top menu bar select: Setup / Peripherals. Select the MIDI Controllers tab
 
 #### 8 Channel Surfaces
+
 <img src="./images/ptmidi1.png" style="width:50%"></img>
 
 #### 16 Channel Surfaces

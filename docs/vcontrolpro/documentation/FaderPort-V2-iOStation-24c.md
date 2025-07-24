@@ -4,7 +4,7 @@ V-Control Pro supercharges the single fader FaderPort V2 / iOStation 24c for use
 
 * It is VERY important the Faderport V2 / iOStation 24c is in Studio One Operation mode and NOT in HUI mode. This allows V-Control Pro to customize how FaderPort maps to Pro Tools.
 
-* Add the device as a controller in the V-Control Pro Setups window as described in [Setting Up MIDI Controllers](#setting-up-midi).
+* Add the device as a controller in the V-Control Pro Setups window as described in [Setting Up MIDI Controllers](./Using-MIDI-Mode.md).
 
 * Configure V-Control Pro to map the FaderPort V2 / iOStation 24c to 8, 16, 24, or 32 channels.
     * Open the V-Control Pro Setups window.
@@ -26,4 +26,3 @@ When a track is selected within the controlled banks, press the channel button t
 
 Please see the FAderPort V2 / ioSTation 24c feature charts online at [Feature Charts](https://neyrinck.com/help-category/v-control-pro-help/).
 
-<a id="setting-up-midimode"></a>

@@ -1,6 +1,6 @@
 # Digidesign Control 24
 
-First, you must add Control 24 as a controller in the V-Control Pro Setups window as described in [Setting Up Ethernet Controllers](#setting-up-ethernet).
+First, you must add Control 24 as a controller in the V-Control Pro Setups window as described in [Setting Up Ethernet Controllers](./Setting-Up-Ethernet-Controllers.md).
 
 ## Pro Tools
 Set up Pro Tools for three HUI banks as described in [Setting Up Pro Tools](#setting-up-pro-tools).

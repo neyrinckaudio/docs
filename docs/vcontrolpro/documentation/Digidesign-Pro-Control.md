@@ -1,6 +1,6 @@
 # Digidesign Pro Control
 
-V-Control Pro supports Pro Control Main and Faderpack devices. Up to four devices can be used, except for Logic where just one Main and one Faderpack can be used. First, you must add the Pro Control devices as controllers in the V-Control Pro Setups window as described in [Setting Up Ethernet Controllers](#setting-up-ethernet).
+V-Control Pro supports Pro Control Main and Faderpack devices. Up to four devices can be used, except for Logic where just one Main and one Faderpack can be used. First, you must add the Pro Control devices as controllers in the V-Control Pro Setups window as described in [Setting Up Ethernet Controllers](./Setting-Up-Ethernet-Controllers.md).
 
 ## Pro Tools
 Set up Pro Tools for 1, 2, 3, or 4 HUI banks as described in [Setting Up Pro Tools](#setting-up-pro-tools). Each Pro Control device counts as one 8-channel bank.
