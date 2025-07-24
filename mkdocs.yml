@@ -9,8 +9,8 @@ nav:
   - Home: 'index.md'
   - V-Control Pro:
     - Welcome To V-Control Pro: './vcontrolpro/documentation/index.md'
-    - Quick Start Guide: './vcontrolpro/documentation/Quick-Start-Guide.md'
-    - Install And Run V-Control Pro : './vcontrolpro/documentation/Install-and-Run-V-Control-Pro.md'
+    - Quick Start Guide: './vcontrolpro/documentation/quick-start-guide.md'
+    - Install And Run V-Control Pro : './vcontrolpro/documentation/install-and-run-v-control-pro.md'
     - V-Control Pro Licensing: './vcontrolpro/documentation/V-Control-Pro-Licensing.md'
     - Digidesign Control 24: './vcontrolpro/documentation/Digidesign-Control-24.md'
     - Avid/Digidesign C|24: './vcontrolpro/documentation/Avid-Digidesign-C24.md'
