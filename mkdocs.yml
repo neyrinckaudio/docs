@@ -1,4 +1,4 @@
-site_name: Neyrinck Audio
+site_name: Neyrinck User Guides
 site_description: Our detailed Neyrinck Audio User Guide provides step-by-step instructions for setting up and using V-Control Pro with your DAW. Learn how to connect control surfaces like D-Command and FaderPort to Pro Tools, Cubase, Logic Pro X, and more. Discover advanced MIDI mapping techniques, troubleshooting tips, and optimize your audio production workflow. Perfect for sound engineers, music producers, and audio professionals seeking to enhance their studio experience with powerful control surface integration.
 
 theme:
@@ -12,35 +12,38 @@ nav:
     - Quick Start Guide: './vcontrolpro/documentation/quick-start-guide.md'
     - Install And Run V-Control Pro : './vcontrolpro/documentation/install-and-run-v-control-pro.md'
     - V-Control Pro Licensing: './vcontrolpro/documentation/V-Control-Pro-Licensing.md'
-    - Digidesign Control 24: './vcontrolpro/documentation/Digidesign-Control-24.md'
-    - Avid/Digidesign C|24: './vcontrolpro/documentation/Avid-Digidesign-C24.md'
-    - Digidesign Pro Control: './vcontrolpro/documentation/Digidesign-Pro-Control.md'
-    - Avid D-Command: './vcontrolpro/documentation/Avid-D-Command.md'
-    - FaderPort V2 / iOStation 24c: './vcontrolpro/documentation/FaderPort-V2-iOStation-24c.md'
+    - Setting Up Control Surfaces:
+      - Setting Up Ethernet Controllers: './vcontrolpro/documentation/Setting-Up-Ethernet-Controllers.md'
+      - Setting Up Midi Controllers: './vcontrolpro/documentation/Setting-Up-Midi-Controllers.md'
+      - Digidesign Control 24: './vcontrolpro/documentation/Digidesign-Control-24.md'
+      - Avid/Digidesign C|24: './vcontrolpro/documentation/Avid-Digidesign-C24.md'
+      - Digidesign Pro Control: './vcontrolpro/documentation/Digidesign-Pro-Control.md'
+      - Avid D-Command: './vcontrolpro/documentation/Avid-D-Command.md'
+      - FaderPort V2 / iOStation 24c: './vcontrolpro/documentation/FaderPort-V2-iOStation-24c.md'
+    - Setting Up DAWs / Media Apps:
+      - Pro Tools: './vcontrolpro/documentation/Setting-Up-Pro-Tools.md'
+      - Logic Pro X: './vcontrolpro/documentation/Setting-Up-Logic-Pro-X.md'
+      - Cubase / Nuendo: './vcontrolpro/documentation/Setting-Up-Cubase-Nuendo.md'
+      - Mackie Control DAWs:
+        - Getting Started: './vcontrolpro/documentation/Setting-Up-Mackie-Control-DAWs.md'
+        - Ableton Live: './vcontrolpro/documentation/Ableton-Live.md'
+        - Adobe Audition: './vcontrolpro/documentation/Adobe-Audition.md'
+        - DaVinci Resolve: './vcontrolpro/documentation/DaVinci-Resolve.md'
+        - Digital Performer: './vcontrolpro/documentation/Digital-Performer.md'
+        - FL Studio: './vcontrolpro/documentation/FL-Studio.md'
+        - FMOD Studio: './vcontrolpro/documentation/FMOD-Studio.md'
+        - LUNA: './vcontrolpro/documentation/LUNA.md'
+        - MIO Console: './vcontrolpro/documentation/MIO-Console.md'
+        - MixBus: './vcontrolpro/documentation/MixBus.md'
+        - Premiere Pro: './vcontrolpro/documentation/Premiere-Pro.md'
+        - Reaper: './vcontrolpro/documentation/Reaper.md'
+        - Reason: './vcontrolpro/documentation/Reason-Setup.md'
+        - Sonar: './vcontrolpro/documentation/Sonar.md'
+        - Studio One: './vcontrolpro/documentation/Studio-One.md'
+        - Tracktion: './vcontrolpro/documentation/Tracktion.md'
+        - Wwise: './vcontrolpro/documentation/Wwise.md'
     - Using MIDI Mode: './vcontrolpro/documentation/Using-MIDI-Mode.md'
-    - Setting Up Ethernet Controllers: './vcontrolpro/documentation/Setting-Up-Ethernet-Controllers.md'
-    - Setting Up Midi Controllers: './vcontrolpro/documentation/Setting-Up-Midi-Controllers.md'
-    - Setting Up Pro Tools: './vcontrolpro/documentation/Setting-Up-Pro-Tools.md'
-    - Setting Up Logic Pro X: './vcontrolpro/documentation/Setting-Up-Logic-Pro-X.md'
-    - Setting Up Cubase / Nuendo: './vcontrolpro/documentation/Setting-Up-Cubase-Nuendo.md'
-    - Setting Up Mackie Control DAWs:
-      - Getting Started: './vcontrolpro/documentation/Setting-Up-Mackie-Control-DAWs.md'
-      - Ableton Live: './vcontrolpro/documentation/Ableton-Live.md'
-      - Adobe Audition: './vcontrolpro/documentation/Adobe-Audition.md'
-      - DaVinci Resolve: './vcontrolpro/documentation/DaVinci-Resolve.md'
-      - Digital Performer: './vcontrolpro/documentation/Digital-Performer.md'
-      - FL Studio: './vcontrolpro/documentation/FL-Studio.md'
-      - FMOD Studio: './vcontrolpro/documentation/FMOD-Studio.md'
-      - LUNA: './vcontrolpro/documentation/LUNA.md'
-      - MIO Console: './vcontrolpro/documentation/MIO-Console.md'
-      - MixBus: './vcontrolpro/documentation/MixBus.md'
-      - Premiere Pro: './vcontrolpro/documentation/Premiere-Pro.md'
-      - Reaper: './vcontrolpro/documentation/Reaper.md'
-      - Reason: './vcontrolpro/documentation/Reason-Setup.md'
-      - Sonar: './vcontrolpro/documentation/Sonar.md'
-      - Studio One: './vcontrolpro/documentation/Studio-One.md'
-      - Tracktion: './vcontrolpro/documentation/Tracktion.md'
-      - Wwise: './vcontrolpro/documentation/Wwise.md'
+    
 
 
 markdown_extensions:
