@@ -17,6 +17,7 @@ nav:
     - Digidesign Pro Control: './vcontrolpro/documentation/Digidesign-Pro-Control.md'
     - Avid D-Command: './vcontrolpro/documentation/Avid-D-Command.md'
     - FaderPort V2 / iOStation 24c: './vcontrolpro/documentation/FaderPort-V2-iOStation-24c.md'
+    - Using MIDI Mode: './vcontrolpro/documentation/Using-MIDI-Mode.md'
 
 
 markdown_extensions:

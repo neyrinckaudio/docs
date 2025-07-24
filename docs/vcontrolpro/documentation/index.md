@@ -6,15 +6,6 @@ V-Control Pro is a Mac and Windows application that connects control surfaces to
 
 [See the full compatibility list](https://neyrinck.com/vcpro-compatibility/){ .md-button }
 
-# Using MIDI Mode
-
-V-Control Pro provides a virtual MIDI port named "V-Control MIDI Mode" that lets control surfaces send and receive MIDI CC messages to applications and plugins that provide custom MIDI mapping. At the time of this writing, Pro Control, Control 24, C24, and D-Command provide MIDI Mode.
-
-When a surface is not connected to a DAW, V-Control Pro defaults the surface to MIDI mode.
-
-Learn more about [MIDI Mode here](https://neyrinck.com/midimode/).
-
-<a id="setting-up-ethernet"></a>
 # Setting Up Ethernet Controllers
 
 #### C24, Control 24, Pro Control, D-Command
@@ -63,6 +54,7 @@ V-Control Pro must be set up in the Pro Tools peripherals window. Depending on h
 
 
 <a id="setting-up-logic"></a>
+
 # Setting Up Logic Pro X
 
 Logic Pro will not be detected until it has connected to a control surface supported by V-Control Pro with Logic Pro. Follow these steps to connect it to a control surface.
