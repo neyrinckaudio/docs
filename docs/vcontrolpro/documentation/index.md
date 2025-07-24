@@ -7,45 +7,6 @@ V-Control Pro is a Mac and Windows application that connects control surfaces to
 [See the full compatibility list](https://neyrinck.com/vcpro-compatibility/){ .md-button }
 
 
-## Reaper
-
-#### 8 Channel
-
-* In the Reaper top menu bar go to: Reaper / Preferences...
-* Navigate to the Control/OSC/Web section of the Preferences window.
-* Click on Add to bring up the Control surface setup window.
-* Select the following in the Control Surface Settings Window:
-Control Surface Mode: Mackie Control Universal
-MIDI Input: V-Control
-MIDI Output: V-Control
-
-<img src="./images/reaper1.png" style="width:50%"></img>
-
-#### 16 Channel
-
-* Click on Add again to bring up a new window:
-* Select the following in the Control Surface Settings Window to add the 2nd bank:
-* Control Surface Mode: Mackie Control Extender
-MIDI Input: V-Control XT2
-MIDI Output: V-Control XT2
-Surface Offset (Tracks): 8
-
-<img src="./images/reaper2.png" style="width:50%"></img>
-
-#### 24 Channel
-
-* Click on Add again to bring up a 3rd new window:
-* Select the following in the Control Surface Settings Window to add the 3rd bank:
-* Control Surface Mode: Mackie Control Extender
-MIDI Input: V-Control XT3
-MIDI Output: V-Control XT3
-Surface Offset (Tracks): 16
-
-<img src="./images/reaper3.png" style="width:50%"></img>
-
-
-<a id="setting-up-tracktion"></a>
-
 ## Tracktion
 
 * Click on the "Settings" tab and select "MIDI Devices" on the side bar.

@@ -13,6 +13,8 @@ V-Control Pro must be set up in the Control/OSC/Web section of the Preferences w
     - MIDI Input: V-Control
     - MIDI Output: V-Control
 
+![Reaper - 8 Channel](./images/reaper1.png "Reaper - 8 Channel")
+
 ## 16 Channel
 
 Follow the instructions for 8 Channel setup then do the following:
@@ -23,6 +25,8 @@ Follow the instructions for 8 Channel setup then do the following:
     - MIDI Input: V-Control XT2
     - MIDI Output: V-Control XT2
     - Surface Offset (Tracks): 8
+
+![Reaper - 16 Channel](./images/reaper2.png "Reaper - 16 Channel")
 
 ## 24 Channel
 
@@ -35,3 +39,4 @@ Follow the instructions for 16 Channels then do the following:
     - MIDI Output: V-Control XT3
     - Surface Offset (Tracks): 16
 
+![Reaper - 24 Channel](./images/reaper3.png "Reaper - 24 Channel")
