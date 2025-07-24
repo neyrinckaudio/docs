@@ -31,8 +31,13 @@ nav:
       - Digital Performer: './vcontrolpro/documentation/Digital-Performer.md'
       - Ableton Live: './vcontrolpro/documentation/Ableton-Live.md'
       - LUNA: './vcontrolpro/documentation/LUNA.md'
+      - MIO Console: './vcontrolpro/documentation/MIO-Console.md'
+      - Adobe Audition: './vcontrolpro/documentation/Adobe-Audition.md'
 
 
 markdown_extensions:
   - attr_list
   - meta
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
