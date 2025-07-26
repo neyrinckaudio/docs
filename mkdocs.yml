@@ -14,6 +14,7 @@ nav:
     - Install And Run V-Control Pro : './vcontrolpro/documentation/install-and-run-v-control-pro.md'
     - V-Control Pro Licensing: './vcontrolpro/documentation/v-control-pro-licensing.md'
     - Setting Up Control Surfaces:
+      - Overview: './vcontrolpro/documentation/controllers-overview.md'
       - Setting Up Ethernet Controllers: './vcontrolpro/documentation/ethernet-controllers.md'
       - Setting Up Midi Controllers: './vcontrolpro/documentation/midi-controllers.md'
       - Digidesign Control 24: './vcontrolpro/documentation/control-24.md'
