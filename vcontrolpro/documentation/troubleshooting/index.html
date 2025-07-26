@@ -14,7 +14,7 @@
         <link rel="prev" href="../midi-mode/">
       
       
-        <link rel="next" href="../../../spill/guide/">
+        <link rel="next" href="../getting-help/">
       
       
       <link rel="icon" href="../../../assets/images/favicon.png">
@@ -1408,6 +1408,30 @@
     </span>
   </a>
   
+    <nav class="md-nav" aria-label="Troubleshooting Ethernet">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#ethernet-led-indicator" class="md-nav__link">
+    <span class="md-ellipsis">
+      Ethernet LED Indicator
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#the-add-ethernet-device-window-does-not-show-the-surface" class="md-nav__link">
+    <span class="md-ellipsis">
+      The Add Ethernet Device... Window Does Not Show The Surface
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
         
       </ul>
@@ -1415,10 +1439,42 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#contact-customer-support" class="md-nav__link">
+    <span class="md-ellipsis">
+      Contact Customer Support
+    </span>
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
       
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../getting-help/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Additional Resources
+    
+  </span>
+  
+
+      </a>
     </li>
   
 
@@ -1925,11 +1981,14 @@
 <h4 id="troubleshooting-controllers-that-are-not-connected">Troubleshooting Controllers That Are Not Connected</h4>
 <p>If the Setups window shows your surface name as "grayed out," then it is indicating the surface is not detected.</p>
 <ul>
-<li>Look for <a href="ethernet-issues">Ethernet Issues</a></li>
+<li>Try <a href="#ethernet-issues">Troubleshooting Ethernet Issues</a></li>
 <li>Review the <a href="../ethernet-controllers/">Ethernet Controllers Section</a></li>
 </ul>
 <p><a id="ethernet-issues"></a></p>
 <h4 id="troubleshooting-ethernet">Troubleshooting Ethernet</h4>
+<p><a id="ethernet-led"></a></p>
+<h5 id="ethernet-led-indicator">Ethernet LED Indicator</h5>
+<p>Ethernet control surfaces have an LED indicator on the rear panel next to the ethernet cable jack. This LED indicates if an ethernet connection is active.</p>
 <ul>
 <li>Check the rear panel of your control surface to make sure an ethernet cable is connected.</li>
 <li>Check the rear panel of your control surface to make sure the LED indicator at the ethernet connector indicates activity. If the LED does not indicate activity, then there are several possible probelms:<ul>
@@ -1939,6 +1998,19 @@
 </ul>
 </li>
 </ul>
+<h5 id="the-add-ethernet-device-window-does-not-show-the-surface">The Add Ethernet Device... Window Does Not Show The Surface</h5>
+<p>When you select the <b>Add Ethernet Device...</b> option in the <b>Add new...</b> controller window, V-Control Pro monitors a network to detect if a surface is available. If no surface is seen, you will need to check a few things:</p>
+<ul>
+<li>Is the <a href="#ethernet-led">Ethernet LED Indicator</a> on the surface active?</li>
+<li>Is the ethernet port enabled in the computer?<ul>
+<li>For Mac OS, open System Settings / Network. If the ethernet port is colored red, then it is not enabled. Using a low cost network switch between the computer and surface usually solves this.</li>
+<li>For Windows, make sure the "Npcap" utility is installed. Learn more about <a href="../ethernet-controllers/#networking">Mac OS and Windows Networking</a></li>
+<li>For Windows, make sure the "Win10Pcap" utility is NOT installed.</li>
+</ul>
+</li>
+</ul>
+<h2 id="contact-customer-support">Contact Customer Support</h2>
+<p>If you need assistance not covered in this User Guide, </p>
 
 
 
