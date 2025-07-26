@@ -49,7 +49,32 @@ V-Control Pro will only work if your control surface is added and is detected to
 * Click the <b>Add new...</b> button in the Controllers section at the lower left of the Setups window.
 * Select the type of surface you are adding. For more information see 
 
-
 <a id="verify-connected"></a>
 
 #### Verify Your Control Surface Is Connected
+
+* Launch V-Control Pro.
+* Select the V-Control Pro <b>Setups...</b> menu item to open the Setups window.
+* Look at the Controllers section of the Setups window
+    * If the control surface name is "grayed out," then it is not connected.
+        *  Try looking at 
+    * If the control surface name is "bold," then it is connected 
+
+#### Troubleshooting Controllers That Are Not Connected
+
+If the Setups window shows your surface name as "grayed out," then it is indicating the surface is not detected.
+
+* Look for [Ethernet Issues](ethernet-issues)
+* Review the [Ethernet Controllers Section](../ethernet-controllers/)
+
+<a id="ethernet-issues"></a>
+
+#### Troubleshooting Ethernet
+
+* Check the rear panel of your control surface to make sure an ethernet cable is connected.
+* Check the rear panel of your control surface to make sure the LED indicator at the ethernet connector indicates activity. If the LED does not indicate activity, then there are several possible probelms:
+    * The ethernet cable is faulty. Try using a different cable.
+    * The ethernet cable is not connected at both ends.
+    * The control surface hardware has an issue.
+
+
