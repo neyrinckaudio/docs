@@ -46,6 +46,13 @@ nav:
     - Using MIDI Mode: './vcontrolpro/documentation/midi-mode.md'
     
 
+  - Plug-Ins:
+    - Spill:
+      - Welcome To Spill: './spill/guide/index.md'
+      - Quick Start Guide: './spill/guide/quick-start-guide.md'
+      - Installation And Setup: './spill/guide/install-and-setup.md'
+      - Activating the License: './spill/guide/licensing.md'
+      - Using the spill/guide Plug-In: './spill/guide/usage.md'
 
 markdown_extensions:
   - attr_list
