@@ -53,6 +53,11 @@ nav:
       - Installation And Setup: './spill/guide/install-and-setup.md'
       - Activating the License: './spill/guide/licensing.md'
       - Using the spill/guide Plug-In: './spill/guide/usage.md'
+  - iPad Apps:
+    - V-Console:
+      - Welcome To V-Console: './vconsole/guide/index.md'
+    - V-Panner:
+      - Welcome To V-Panner: './vpanner/guide/index.md'
 
 markdown_extensions:
   - attr_list
