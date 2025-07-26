@@ -45,8 +45,7 @@ nav:
         - Tracktion: './vcontrolpro/documentation/tracktion.md'
         - Wwise: './vcontrolpro/documentation/wwise.md'
     - Using MIDI Mode: './vcontrolpro/documentation/midi-mode.md'
-    
-
+    - Troubleshooting: './vcontrolpro/documentation/troubleshooting.md'
   - Plug-Ins:
     - Spill:
       - Welcome To Spill: './spill/guide/index.md'
