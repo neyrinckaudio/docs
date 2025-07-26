@@ -15,7 +15,7 @@ Most ethernet hardware automatically detects the type of cable. But older ports 
 
 We recommend you use an ethernet switch in your control surface network. They work with any ethernet cable and and provide fast, efficient connections with both types of ethernet cables. The original ethernet hardware in the 1990s used simple ethernet "hubs" to connect multiple devices to a network. But these hubs were very inefficint because all the devices were physically connected to each other and the computer had to tell devices to "retry" when data "collisons" happened and the type of cable was very important. Ethernet "switches" were invented that solve these problems. The switch automatically connects one device at a time to the network so that no collisions happen with any type of cable. Modern ethernet switches are very low cost and fast. Internet routers also act as switches.
 
-# Mac OS and Windows Networking
+## Mac OS and Windows Networking
 
 Legacy Digidesign and Avid ethernet-based surfaces use a fast, non-standard protocol using Ethernet 2 packets. They do not use modern TCP/IP networking.
 
