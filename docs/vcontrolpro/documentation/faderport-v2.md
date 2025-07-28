@@ -2,7 +2,11 @@
 
 V-Control Pro supercharges the single fader FaderPort V2 / iOStation 24c for use with Pro Tools.
 
-* It is VERY important the Faderport V2 / iOStation 24c is in Studio One Operation mode and NOT in HUI mode. This allows V-Control Pro to customize how FaderPort maps to Pro Tools.
+!!! warning "Set FaderPort Mode To Studio One Mode"
+    It is VERY important the Faderport 8 / 16 is in Studio One Operation mode and NOT in HUI mode. This allows V-Control Pro to customize how FaderPort 8 / 16 maps to Pro Tools.
+
+!!! warning "Disable FaderPort MIDI Input"
+    In the Pro Tools MIDI Input Devices Window, disable the Faderport. It is used by V-control Pro and can cause conflict if enabled in Pro Tools as well.
 
 * Add the device as a controller in the V-Control Pro Setups window as described in [Setting Up MIDI Controllers](./midi-controllers.md).
 
@@ -13,8 +17,6 @@ V-Control Pro supercharges the single fader FaderPort V2 / iOStation 24c for use
     * Select 24 Channels in the Bank selection if using RAVEN or a 24 fader surface.
     * Select 8/16 Channels in the Bank selection if using an 8 or 16 fader surface.
 
-* In the Pro Tools MIDI Input Devices Window, disable the Faderport. It is connected with V-control Pro and can cause conflict if enabled in Pro Tools as well.
-
 * Set up Pro Tools for 1, 2, 3, or 4 HUI banks as described in [Setting Up Pro Tools](./pro-tools.md). The number of HUI bank channels must match the number of channels configured in the previous steps.
 
 ## Fast Focus and Refocus with FaderPort V2/iOStation 24c
@@ -24,5 +26,5 @@ When selecting a track within the controlled bank range, the Faderport will Fast
 When selecting a track outside of the controlled banks, the Channel button will immediately blink on the Faderport. Press it to ReFocus to that track for control.
 When a track is selected within the controlled banks, press the channel button to enable the wheel for navigation.
 
-Please see the FAderPort V2 / ioSTation 24c feature charts online at [Feature Charts](https://neyrinck.com/help-category/v-control-pro-help/).
+Please see the FaderPort V2 / ioStation 24c feature charts online at [Feature Charts](https://neyrinck.com/help-category/v-control-pro-help/).
 

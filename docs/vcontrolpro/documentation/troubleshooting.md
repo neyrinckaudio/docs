@@ -64,12 +64,17 @@ V-Control Pro will only work if your control surface is added and is detected to
 
 If the Setups window shows your surface name as "grayed out," then it is indicating the surface is not detected.
 
-* Look for [Ethernet Issues](ethernet-issues)
+* Try [Troubleshooting Ethernet Issues](#ethernet-issues)
 * Review the [Ethernet Controllers Section](../ethernet-controllers/)
 
 <a id="ethernet-issues"></a>
 
 #### Troubleshooting Ethernet
+
+<a id="ethernet-led"></a>
+
+##### Ethernet LED Indicator
+Ethernet control surfaces have an LED indicator on the rear panel next to the ethernet cable jack. This LED indicates if an ethernet connection is active.
 
 * Check the rear panel of your control surface to make sure an ethernet cable is connected.
 * Check the rear panel of your control surface to make sure the LED indicator at the ethernet connector indicates activity. If the LED does not indicate activity, then there are several possible probelms:
@@ -77,4 +82,12 @@ If the Setups window shows your surface name as "grayed out," then it is indicat
     * The ethernet cable is not connected at both ends.
     * The control surface hardware has an issue.
 
+##### The Add Ethernet Device... Window Does Not Show The Surface
 
+When you select the <b>Add Ethernet Device...</b> option in the <b>Add new...</b> controller window, V-Control Pro monitors a network to detect if a surface is available. If no surface is seen, you will need to check a few things:
+
+* Is the [Ethernet LED Indicator](#ethernet-led) on the surface active?
+* Is the ethernet port enabled in the computer?
+    * For Mac OS, open System Settings / Network. If the ethernet port is colored red, then it is not enabled. Using a low cost network switch between the computer and surface usually solves this.
+    * For Windows, make sure the "Npcap" utility is installed. Learn more about [Mac OS and Windows Networking](../ethernet-controllers/#networking)
+    * For Windows, make sure the "Win10Pcap" utility is NOT installed.

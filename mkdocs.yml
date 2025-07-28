@@ -22,6 +22,7 @@ nav:
       - Digidesign Pro Control: './vcontrolpro/documentation/pro-control.md'
       - Avid D-Command: './vcontrolpro/documentation/d-command.md'
       - FaderPort V2 / iOStation 24c: './vcontrolpro/documentation/faderport-v2.md'
+      - FaderPort 8 / 16: './vcontrolpro/documentation/faderport-8-16.md'
     - Setting Up DAWs / Media Apps:
       - Pro Tools: './vcontrolpro/documentation/pro-tools.md'
       - Logic Pro X: './vcontrolpro/documentation/logic-pro.md'
@@ -46,6 +47,7 @@ nav:
         - Wwise: './vcontrolpro/documentation/wwise.md'
     - Using MIDI Mode: './vcontrolpro/documentation/midi-mode.md'
     - Troubleshooting: './vcontrolpro/documentation/troubleshooting.md'
+    - Additional Resources: './vcontrolpro/documentation/getting-help.md'
   - Plug-Ins:
     - Spill:
       - Welcome To Spill: './spill/guide/index.md'
