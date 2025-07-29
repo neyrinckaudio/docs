@@ -2,6 +2,9 @@
 
 Ethernet is a common networking system for connecting devices to a computer's ethernet port. Modern ethernet is very high speed and can manage many devices on a network such as routers, switches, and ethernet-based control surfaces. V-Control Pro supports ethernet control surfaces for fast and reliable connectivity.
 
+!!! warning "Windows 10, 11 Systems - Npcap Utility Required"
+    The Windows OS does not provide for Ethernet 2 connectivity. You must install the "Npcap" utility so that V-Control Pro can connect to legacy hardware. V-Control Pro will message you if "Npcap" is not installed and will point you to a free utility for you to install. At the time of this writing, it is available at [NPcap.com](https://npcap.com/#download)
+
 ## Ethernet Cables
 
 One confusing thing about ethernet is that an ethernet cable connector uses one wire for transmitting data and one for receiving data. There are two types of ethernet cables.
@@ -22,7 +25,7 @@ We recommend you use an ethernet switch in your control surface network. They wo
 Legacy Digidesign and Avid ethernet-based surfaces use a fast, non-standard protocol using Ethernet 2 packets. They do not use modern TCP/IP networking.
 
 * Mac OS - For Mac OS, V-Control Pro does not need to use any special drivers for connecting to legacy hardware.
-* Windows - The Windows OS does not provide for Ethernet 2 connectivity. You must install the "Npcap" utility so that V-Control Pro can connect to legacy hardware. V-Control Pro will message you if "Npcap" is not installed and will point you to a free utility for you to install. At the time of this writing, it is avau=ialble at [NPcap.com](https://npcap.com/#download)
+* Windows - The Windows OS does not provide for Ethernet 2 connectivity. You must install the "Npcap" utility so that V-Control Pro can connect to legacy hardware. V-Control Pro will message you if "Npcap" is not installed and will point you to a free utility for you to install. At the time of this writing, it is available at [NPcap.com](https://npcap.com/#download)
 
 ## Adding An Ethernet Control Surface
 
