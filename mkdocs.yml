@@ -10,6 +10,7 @@ nav:
   - Home: 'index.md'
   - V-Control Pro:
     - Welcome To V-Control Pro: './vcontrolpro/documentation/index.md'
+    - System Requirements: './vcontrolpro/documentation/requirements.md'
     - Quick Start Guide: './vcontrolpro/documentation/quick-start-guide.md'
     - Install And Run V-Control Pro : './vcontrolpro/documentation/install-and-run-v-control-pro.md'
     - V-Control Pro Licensing: './vcontrolpro/documentation/v-control-pro-licensing.md'
