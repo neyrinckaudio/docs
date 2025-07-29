@@ -16,6 +16,7 @@ V-Control Pro must be set up in the Pro Tools peripherals window. Depending on h
 * D-Command Main
 * Pro Control Main
 * FaderPort 8 (Pro Tools 2023+)
+* Digidesign 003
 ![8 Channel Surfaces](./images/ptmidi1.png "8 Channel Surfaces")
 
 ### 16 Channel Surfaces
