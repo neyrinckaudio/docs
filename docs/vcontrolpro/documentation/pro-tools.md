@@ -2,8 +2,17 @@
 
 V-Control Pro uses the HUI protocol with Pro Tools Studio/Ultimate to provide for 8, 16, 24, or 32 channels of control. The Pro Tools Midi Peripherals window must be configured to use V-Control Pro's virtual Midi ports for Pro Tools to communicate with V-Control Pro.
 
+!!! warning "Enable Midi Ports In Pro Tools"
+    V-Control Pro provides virtual Midi ports for Pro Tools to use. These ports must be enabled for Midi input.
+
 !!! warning "FaderPort 8/16 With Pro Tools 2022 And Earlier"
     FaderPort 8/16 setup depends upon which version of Pro Tools you are using. Please see the special setup information for FaderPort 8/16 with Pro Tools 2022 and earlier.
+
+## Enable V-Control Pro Virtual Midi Ports
+
+* In Pro Tools, select the menu Setup / MIDI / MIDI Input Devices
+* Enable the <b>V-Control, V-Control XT-2, V-Control XT-3, V-Control XT-4</b> and <b>V-Pan</b> ports.
+* Do not enable the <b>V-Control Midi Mode</b> port.
 
 ## Setting the Midi Peripherals
 

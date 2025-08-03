@@ -5,7 +5,7 @@
 
 V-Control Pro needs to be licensed for most systems, using either a trial license or a purchased license. [Learn more about Licensing](../v-control-pro-licensing/)
 
-!!! note
+!!! note "RAVEN Info"
     RAVEN users do not need to use a V-Control Pro license.
 
 #### Check If V-Control Pro Is Licensed
@@ -91,3 +91,23 @@ When you select the <b>Add Ethernet Device...</b> option in the <b>Add new...</b
     * For Mac OS, open System Settings / Network. If the ethernet port is colored red, then it is not enabled. Using a low cost network switch between the computer and surface usually solves this.
     * For Windows, make sure the "Npcap" utility is installed. Learn more about [Mac OS and Windows Networking](../ethernet-controllers/#networking)
     * For Windows, make sure the "Win10Pcap" utility is NOT installed.
+
+## Step 3 - Windows OS Issues
+
+Windows OS users have been able to solve problems using one or more of these steps.
+
+#### Updating To V-Control Pro 3 From V-Control Pro
+
+Some DAWs, especially Pro Tools on Windows, keep track of MIDI ports by number rather than by name. V-Control Pro 3 changed the ports and Pro Tools can get confused if you are updating V-Control Pro.
+
+* Quit Pro Tools
+* Trash Pro Tools Prefs
+* Launch Pro Tools
+* Reset Pro Tools Midi Input Enables.
+* Reset Pro Tools Midi Peripherals.
+
+#### Updating To Windows 11 From Windows 10
+
+Some users have seen an issuee wher V-Control Pro is unable to launch when updating a WIndows 10 system to Windows 11.
+
+* Install Windows 11 from scratch
