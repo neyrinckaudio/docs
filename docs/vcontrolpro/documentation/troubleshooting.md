@@ -3,7 +3,7 @@
 <a id="step-1"></a>
 ## Step 1 - Verify The License
 
-V-Control Pro needs to be licensed for most systems, using either a trial license or a purchased license. [Learn more about Licensing](../v-control-pro-licensing/)
+V-Control Pro needs to be licensed for most systems, using either a trial license or a purchased license. [Learn more about Licensing](./v-control-pro-licensing.md)
 
 !!! note "RAVEN Info"
     RAVEN users do not need to use a V-Control Pro license.
@@ -23,7 +23,7 @@ V-Control Pro needs to be licensed for most systems, using either a trial licens
     * You can purchase a license at the [Neyrinck Store](https://neyrinck.com/store/).
     
 * Activating A License
-    * After getting a license deposited to your iLok user account, you must [activate the license](../v-control-pro-licensing/#license-activate).
+    * After getting a license deposited to your iLok user account, you must [activate the license](./v-control-pro-licensing.md/#license-activate).
     * After activating, verify that V-Control Pro is licensed.
         * Quit V-Control Pro.
         * Go back to [Step 1 - Verify The License](#step-1)
@@ -65,7 +65,7 @@ V-Control Pro will only work if your control surface is added and is detected to
 If the Setups window shows your surface name as "grayed out," then it is indicating the surface is not detected.
 
 * Try [Troubleshooting Ethernet Issues](#ethernet-issues)
-* Review the [Ethernet Controllers Section](../ethernet-controllers/)
+* Review the [Ethernet Controllers Section](./ethernet-controllers.md)
 
 <a id="ethernet-issues"></a>
 
@@ -89,7 +89,7 @@ When you select the <b>Add Ethernet Device...</b> option in the <b>Add new...</b
 * Is the [Ethernet LED Indicator](#ethernet-led) on the surface active?
 * Is the ethernet port enabled in the computer?
     * For Mac OS, open System Settings / Network. If the ethernet port is colored red, then it is not enabled. Using a low cost network switch between the computer and surface usually solves this.
-    * For Windows, make sure the "Npcap" utility is installed. Learn more about [Mac OS and Windows Networking](../ethernet-controllers/#networking)
+    * For Windows, make sure the "Npcap" utility is installed. Learn more about [Mac OS and Windows Networking](./ethernet-controllers.md/#networking)
     * For Windows, make sure the "Win10Pcap" utility is NOT installed.
 
 ## Step 3 - Windows OS Issues

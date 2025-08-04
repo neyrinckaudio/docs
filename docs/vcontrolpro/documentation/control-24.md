@@ -1,5 +1,7 @@
 # Digidesign Control 24
 
+Control 24 is a popular control surface
+
 !!! info "Control Features"
     Please see the Control 24 feature charts online at [Feature Charts – Control 24](https://neyrinck.com/help-category/v-control-pro-help/).
 

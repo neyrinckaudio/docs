@@ -11,22 +11,22 @@ V-Control Pro is a Mac OS / Windows application that connects control surfaces t
 ## Legacy Ethernet and MIDI Surfaces
 Digidesign and Avid manufactured several control surfaces that only connected to older versions of Pro Tools HD / Ultimate. V-Control Pro connects these surfaces to all modern versions of Pro Tools Studio and Pro Tools Ultimate. And V-Control Pro connects these surfaces to all popular audio, video, and MIDI applications such as Logic Pro, Cubase, Nuendo, Studio One, and many more.
 
-* [D-Command](./d-command/)
-* [C24](./c24/)
-* [Control 24](./control-24/)
-* [Pro Control](./pro-control/)
-* [Command 8](./command8)
+* [D-Command](./d-command.md)
+* [C24](./c24.md)
+* [Control 24](./control-24.md)
+* [Pro Control](./pro-control.md)
+* [Command 8](./command8.md)
 
 ## Supercharged For Pro Tools
 V-Control Pro connects modern surfaces to Pro Tools for much better control than is normally provided.
 
-* [Presonus FaderPort V2](./faderport-v2)
-* [Presonus ioStation 24c](./faderport-v2)
-* [Presonus FaderPort 8 / 16](./faderport-8-16)
+* [Presonus FaderPort V2](./faderport-v2.md)
+* [Presonus ioStation 24c](./faderport-v2.md)
+* [Presonus FaderPort 8 / 16](./faderport-8-16.md)
 
 ## iPad Apps
 V-Control Pro connects modern surfaces to Pro Tools for much better control than is normally provided.
 
-* [V-Console](./faderport-v2)
-* [V-Control Pro V 1.9](./faderport-v2)
+* [V-Console iPad App](./v-console.md)
+* [V-Control Pro iPad App](./v-control-pro-ipad.md)
 

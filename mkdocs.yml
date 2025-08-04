@@ -27,6 +27,8 @@ nav:
       - Digidesign 003: './vcontrolpro/documentation/digidesign-003.md'
       - FaderPort V2 / iOStation 24c: './vcontrolpro/documentation/faderport-v2.md'
       - FaderPort 8 / 16: './vcontrolpro/documentation/faderport-8-16.md'
+      - V-Console: './vcontrolpro/documentation/v-console.md'
+      - V-Control Pro iPad App: './vcontrolpro/documentation/v-control-pro-ipad.md'
     - Setting Up DAWs / Media Apps:
       - Pro Tools: './vcontrolpro/documentation/pro-tools.md'
       - Logic Pro X: './vcontrolpro/documentation/logic-pro.md'

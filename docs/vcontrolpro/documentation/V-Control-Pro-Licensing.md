@@ -6,6 +6,17 @@ V-Control Pro supports different licenses depending on your system requirements.
 
 [See the license option list](https://neyrinck.com/vcpro-compatibility/){ .md-button }
 
+* Get A License
+
+    * You can get a trial license at the [Neyrinck Trial License Page](https://neyrinck.com/v-control-pro-trial/).
+    * You can purchase a license at the [Neyrinck Store](https://neyrinck.com/store/).
+
+!!! note "RAVEN Info"
+    RAVEN users do not need to use a V-Control Pro license.
+
+!!! note "Legacy iPad App V 1.9 Info"
+    The original V-Control Pro iPad app (version 1.9) users do not need to use a V-Control Pro license.
+
 <a id="license-activate"></a>
 ## Activating A License
 When you purchase a license or you request a trial license, a license will be deposited to your iLok user account. To use a licensee, it must be activated. You can activate a trial or purchased license in two ways:
