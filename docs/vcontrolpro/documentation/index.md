@@ -24,3 +24,9 @@ V-Control Pro connects modern surfaces to Pro Tools for much better control than
 * [Presonus ioStation 24c](./faderport-v2)
 * [Presonus FaderPort 8 / 16](./faderport-8-16)
 
+## iPad Apps
+V-Control Pro connects modern surfaces to Pro Tools for much better control than is normally provided.
+
+* [V-Console](./faderport-v2)
+* [V-Control Pro V 1.9](./faderport-v2)
+
