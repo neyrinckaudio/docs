@@ -1,5 +1,7 @@
 # V-Console iPad App
 
+V-Console is an iPad app that provides touch sensitive remote control of media applications.
+
 ### Setup
 
 #### Pro Tools
