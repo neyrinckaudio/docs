@@ -16,5 +16,5 @@ jobs:
         password: ${{ secrets.FTPPASSWORD }}
         protocol: ftp
         server-dir: public_html/
-        local-dir: ./sites/
+        local-dir: ./site/
         dry-run: true
