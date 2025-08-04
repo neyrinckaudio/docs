@@ -3,19 +3,19 @@
 ### Setup
 
 #### Pro Tools
-Set up Pro Tools for one HUI bank as described in [Setting Up Pro Tools](./pro-tools.md).
+Set up Pro Tools for one or two HUI bank as described in [Setting Up Pro Tools](./pro-tools.md).
 
 #### Logic Pro X
 
-Set up Logic Pro X for Command 8 as described in [Setting Up Logic Pro](./logic-pro.md).
+Set up Logic Pro X for V-Console as described in [Setting Up Logic Pro](./logic-pro.md).
 
 #### Cubase/Nuendo
 
-Set up Cubase / Nuendo for Command 8 as described in [Setting Up Cubase/Nuendo](./cubase-nuendo.md).
+Set up Cubase / Nuendo for V-Console 8 as described in [Setting Up Cubase/Nuendo](./cubase-nuendo.md).
 
 #### Mackie Control DAWs
 
-Set up the DAW for C24 using three Mackie Control banks as described in [Setting Up Mackie Control](./mackie-control.md).
+Set up the DAW for V-Console using one or two Mackie Control banks as described in [Setting Up Mackie Control](./mackie-control.md).
 
 * [Adobe Audition](./adobe-audition.md)
 * [Ableton Live](./ableton-live.md)
