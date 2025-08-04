@@ -17,4 +17,4 @@ jobs:
         protocol: ftp
         server-dir: public_html/
         local-dir: ./site/
-        dry-run: true
+        dry-run: false
