@@ -17,10 +17,21 @@ Set up Logic Pro X for D-Command as described in [Setting Up Logic Pro](./logic-
 #### Cubase/Nuendo
 Set up Cubase / Nuendo for D-Command as described in [Setting Up Cubase/Nuendo](./cubase-nuendo.md).
 
-#### Ableton Live
-#### Studio One
-#### LUNA
-#### MixBus
-#### Digital Performer
+#### Mackie Control DAWs
+
 Set up the DAW for D-Command using 1 or 3 Mackie Control banks as described in [Setting Up Mackie Control](./mackie-control.md). Each eight strips counts as one 8-channel bank.
 
+* [Adobe Audition](./adobe-audition.md)
+* [Ableton Live](./ableton-live.md)
+* [Digital Performer](./digital-performer.md)
+* [FMOD](./fmod-studio.md)
+* [FL Studio](./fl-studio.md)
+* [LUNA](./luna.md)
+* [MIO Console](./mio-console.md)
+* [MixBus](./mixbus.md)
+* [Premiere Pro](./premiere-pro.md)
+* [Reaper](./reaper.md)
+* [Reason](./reason.md)
+* [Sonar](./sonar.md)
+* [Studio One](./studio-one.md)
+* [WWise](./wwise.md)

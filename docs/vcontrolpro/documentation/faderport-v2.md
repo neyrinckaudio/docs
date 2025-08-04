@@ -2,8 +2,8 @@
 
 V-Control Pro supercharges the single fader FaderPort V2 / iOStation 24c for use with Pro Tools.
 
-!!! warning "Set FaderPort Mode To Studio One Mode"
-    It is VERY important the Faderport 8 / 16 is in Studio One Operation mode and NOT in HUI mode. This allows V-Control Pro to customize how FaderPort 8 / 16 maps to Pro Tools.
+!!! warning "Set FaderPort Mode To Studio One Native Mode"
+    It is VERY important the Faderport is in Studio One operation mode and NOT in HUI mode. This allows V-Control Pro to customize how FaderPort maps to Pro Tools. 
 
 !!! warning "Disable FaderPort MIDI Input"
     In the Pro Tools MIDI Input Devices Window, disable the Faderport. It is used by V-control Pro and can cause conflict if enabled in Pro Tools as well.
@@ -12,6 +12,13 @@ V-Control Pro supercharges the single fader FaderPort V2 / iOStation 24c for use
     Please see the FaderPort V2 / ioStation 24c feature charts online at [Feature Charts](https://neyrinck.com/help-category/v-control-pro-help/).
 
 ### Setup
+
+* Set FaderPort to Native Mode using the Select Control menu.
+    * Power off the FaderPort 8/16
+    * Hold the first and second "Select" buttons on the FaderPort 8/16
+    * Power the FaderPort 8/16 back on
+    * Once the unit has powered up and displays "Select Control Mode" across the top of the scribble strips you can release the Select buttons
+    * Select Native Mode (Studio One)
 
 * Add the device as a controller in the V-Control Pro Setups window as described in [Setting Up MIDI Controllers](./midi-controllers.md).
 

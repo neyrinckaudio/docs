@@ -96,7 +96,7 @@ When you select the <b>Add Ethernet Device...</b> option in the <b>Add new...</b
 
 Windows OS users have been able to solve problems using one or more of these steps.
 
-#### Updating To V-Control Pro 3 From V-Control Pro
+#### Updating To V-Control Pro 3 From V-Control Pro 2
 
 Some DAWs, especially Pro Tools on Windows, keep track of MIDI ports by number rather than by name. V-Control Pro 3 changed the ports and Pro Tools can get confused if you are updating V-Control Pro.
 
@@ -111,3 +111,37 @@ Some DAWs, especially Pro Tools on Windows, keep track of MIDI ports by number r
 Some users have seen an issuee wher V-Control Pro is unable to launch when updating a WIndows 10 system to Windows 11.
 
 * Install Windows 11 from scratch
+
+## Resetting V-Control Pro 
+
+Some issues with Setup or mapping configuration can be resolved by deleting the V-Control Pro Preference files. Follow the steps to reset the V-Control Pro Settings.
+
+#### Resetting on OSX:
+
+* Quit V-Control Pro and any DAW currently open.
+* Go to the Finder Application
+* Click on Go in the top menu bar for the Finder and with the Alt/Option key held down select Library.
+* In the Finder window navigate to Application Support.
+* Find the V-Control Pro folder send it to the trash bin.
+* Empty Trash.
+* Launch V-Control Pro.
+* Open the Setups window.
+* Add your surface(s) again.
+* launch the DAW.
+
+#### Resetting on Windows:
+
+* Quit V-Control Pro and any DAW currently open.
+* Open the Windows Explorer
+* Enable to view hidden files and folders in Explorer.
+* Navigate to C:\Users\{User Account}\AppData\Roaming\Appliation Support
+* Find the V-Control Pro folder send it to the trash bin.
+* Empty Trash.
+* Launch V-Control Pro.
+* Open the Setups window.
+* Add your surface(s) again.
+* launch the DAW.
+
+## Hardware Surface Fader, Button, Light, And Display Issues
+
+If a control surface feature is not operating correctly, there might be a problem with the surface hardware. Some surfaces have built-in diagnostics that acan help diagnose these problems. Please search for the surface user guide online for more information.

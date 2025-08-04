@@ -18,12 +18,21 @@ Set up Logic Pro X for Control 24 as described in [Setting Up Logic Pro](./logic
 
 Set up Cubase / Nuendo for Control 24 as described in [Setting Up Cubase/Nuendo](./cubase-nuendo.md).
 
-#### Ableton Live
-#### Studio One
-#### LUNA
-#### MixBus
+#### Mackie Control DAWs
 
-#### Digital Performer
 Set up the DAW for Control 24 using three Mackie Control banks as described in [Setting Up Mackie Control](./mackie-control.md).
 
-P
+* [Adobe Audition](./adobe-audition.md)
+* [Ableton Live](./ableton-live.md)
+* [Digital Performer](./digital-performer.md)
+* [FMOD](./fmod-studio.md)
+* [FL Studio](./fl-studio.md)
+* [LUNA](./luna.md)
+* [MIO Console](./mio-console.md)
+* [MixBus](./mixbus.md)
+* [Premiere Pro](./premiere-pro.md)
+* [Reaper](./reaper.md)
+* [Reason](./reason.md)
+* [Sonar](./sonar.md)
+* [Studio One](./studio-one.md)
+* [WWise](./wwise.md)
