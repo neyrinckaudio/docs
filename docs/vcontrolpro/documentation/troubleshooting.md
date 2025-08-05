@@ -91,6 +91,12 @@ When you select the <b>Add Ethernet Device...</b> option in the <b>Add new...</b
     * For Mac OS, open System Settings / Network. If the ethernet port is colored red, then it is not enabled. Using a low cost network switch between the computer and surface usually solves this.
     * For Windows, make sure the "Npcap" utility is installed. Learn more about [Mac OS and Windows Networking](./ethernet-controllers.md/#networking)
     * For Windows, make sure the "Win10Pcap" utility is NOT installed.
+* Is a Firewall active?
+    * Open System Settings / Network / Firewall
+    * Disable Firewall if it is enabled.
+    * If you need to use a Firewall you will need to set options to allow your surface to operate on the network.
+        * Legacy Ethernet surfaces use Ethernet 2 packets with MAC hardware addressing.
+        * iPad apps use IP networking and zero configuration networking.
 
 ## Step 3 - Windows OS Issues
 
@@ -134,7 +140,7 @@ Some issues with Setup or mapping configuration can be resolved by deleting the 
 * Quit V-Control Pro and any DAW currently open.
 * Open the Windows Explorer
 * Enable to view hidden files and folders in Explorer.
-* Navigate to C:\Users\{User Account}\AppData\Roaming\Appliation Support
+* Navigate to C:\Users\{User Account}\AppData\Roaming\Application Support
 * Find the V-Control Pro folder send it to the trash bin.
 * Empty Trash.
 * Launch V-Control Pro.

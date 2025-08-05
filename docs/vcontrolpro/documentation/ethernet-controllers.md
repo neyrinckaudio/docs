@@ -5,6 +5,9 @@ Ethernet is a common networking system for connecting devices to a computer's et
 !!! warning "Windows 10, 11 Systems - Npcap Utility Required"
     The Windows OS does not provide for Ethernet 2 connectivity. You must install the "Npcap" utility so that V-Control Pro can connect to legacy hardware. V-Control Pro will message you if "Npcap" is not installed and will point you to a free utility for you to install. At the time of this writing, it is available at [NPcap.com](https://npcap.com/#download)
 
+!!! warning "Disable Or Configure Firewall"
+    Legacy ethernet surfaces will not be able to connect if a firewall is enabled on your computer. If you need to use a firewall it must be configured to allow Ethernet 2 messages to the hardware MAC address of the surface.
+
 ## Ethernet Cables
 
 One confusing thing about ethernet is that an ethernet cable connector uses one wire for transmitting data and one for receiving data. There are two types of ethernet cables.
