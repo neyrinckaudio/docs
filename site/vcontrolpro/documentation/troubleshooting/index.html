@@ -2253,7 +2253,7 @@
 <ul>
 <li>Is the <a href="#ethernet-led">Ethernet LED Indicator</a> on the surface active?</li>
 <li>Is the ethernet port enabled in the computer?<ul>
-<li>For Mac OS, open System Settings / Network. If the ethernet port is colored red, then it is not enabled. Using a low cost network switch between the computer and surface usually solves this.</li>
+<li>For Mac OS, open System Settings / Network. If the ethernet port is colored red, then it is not enabled. Using a low cost network switch between the computer and surface usually solves this. A "self-assigned IP address" is OK because legacy ethernet surfaces do not use TCP/IP networking.</li>
 <li>For Windows, make sure the "Npcap" utility is installed. Learn more about <a href="../ethernet-controllers/#networking">Mac OS and Windows Networking</a></li>
 <li>For Windows, make sure the "Win10Pcap" utility is NOT installed.</li>
 </ul>
@@ -2269,6 +2269,10 @@
 </ul>
 </li>
 </ul>
+<div class="admonition warning">
+<p class="admonition-title">Symantec Endpoint Protection</p>
+<p>Some Windows users have seen problems if Symantec Endpoint Protection is enabled. </p>
+</div>
 <h2 id="step-3-windows-os-issues">Step 3 - Windows OS Issues</h2>
 <p>Windows OS users have been able to solve problems using one or more of these steps.</p>
 <h4 id="updating-to-v-control-pro-3-from-v-control-pro-2">Updating To V-Control Pro 3 From V-Control Pro 2</h4>

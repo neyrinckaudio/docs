@@ -88,7 +88,7 @@ When you select the <b>Add Ethernet Device...</b> option in the <b>Add new...</b
 
 * Is the [Ethernet LED Indicator](#ethernet-led) on the surface active?
 * Is the ethernet port enabled in the computer?
-    * For Mac OS, open System Settings / Network. If the ethernet port is colored red, then it is not enabled. Using a low cost network switch between the computer and surface usually solves this.
+    * For Mac OS, open System Settings / Network. If the ethernet port is colored red, then it is not enabled. Using a low cost network switch between the computer and surface usually solves this. A "self-assigned IP address" is OK because legacy ethernet surfaces do not use TCP/IP networking.
     * For Windows, make sure the "Npcap" utility is installed. Learn more about [Mac OS and Windows Networking](./ethernet-controllers.md/#networking)
     * For Windows, make sure the "Win10Pcap" utility is NOT installed.
 * Is a Firewall active?
@@ -97,6 +97,9 @@ When you select the <b>Add Ethernet Device...</b> option in the <b>Add new...</b
     * If you need to use a Firewall you will need to set options to allow your surface to operate on the network.
         * Legacy Ethernet surfaces use Ethernet 2 packets with MAC hardware addressing.
         * iPad apps use IP networking and zero configuration networking.
+
+!!! warning "Symantec Endpoint Protection"
+    Some Windows users have seen problems if Symantec Endpoint Protection is enabled. 
 
 ## Step 3 - Windows OS Issues
 
