@@ -103,9 +103,9 @@ When you select the <b>Add Ethernet Device...</b> option in the <b>Add new...</b
 
 ## Step 3 - Windows OS Issues
 
-Windows OS users have been able to solve problems using one or more of these steps.
+Windows OS users have been able to solve problems using one or more of these steps. If you are using Mac OS, go to Step 4.
 
-#### Updating To V-Control Pro 3 From V-Control Pro 2
+#### I Updated From V-Control Pro 2 To V-Control Pro 3 And It Stopped Working
 
 Some DAWs, especially Pro Tools on Windows, keep track of MIDI ports by number rather than by name. V-Control Pro 3 changed the ports and Pro Tools can get confused if you are updating V-Control Pro.
 
@@ -115,30 +115,21 @@ Some DAWs, especially Pro Tools on Windows, keep track of MIDI ports by number r
 * Reset Pro Tools Midi Input Enables.
 * Reset Pro Tools Midi Peripherals.
 
-#### Updating To Windows 11 From Windows 10
+#### V-Control Pro Is Not Launching
 
-Some users have seen an issuee wher V-Control Pro is unable to launch when updating a WIndows 10 system to Windows 11.
+* Some users have seen an issue where V-Control Pro is unable to launch when updating a Windows 10 system to Windows 11. At least one user fixed it by installing Windows 11 from scratch.
 
-* Install Windows 11 from scratch
+#### The Control Surface Is Not Controlling The DAW
 
-## Resetting V-Control Pro 
+ * Did you update the BIOS?
+    * Open the <b>Device Manager</b> and select <b>Sound Video And Game Controllers</b>
+    * Select <b>Show Hidden Devices</b>
+    * Delete any V-Control Midi ports that were hidden.
+    * Restart your computer and verify the hidden ports have been deleted.
+
+#### Resetting V-Control Pro on Windows:
 
 Some issues with Setup or mapping configuration can be resolved by deleting the V-Control Pro Preference files. Follow the steps to reset the V-Control Pro Settings.
-
-#### Resetting on OSX:
-
-* Quit V-Control Pro and any DAW currently open.
-* Go to the Finder Application
-* Click on Go in the top menu bar for the Finder and with the Alt/Option key held down select Library.
-* In the Finder window navigate to Application Support.
-* Find the V-Control Pro folder send it to the trash bin.
-* Empty Trash.
-* Launch V-Control Pro.
-* Open the Setups window.
-* Add your surface(s) again.
-* launch the DAW.
-
-#### Resetting on Windows:
 
 * Quit V-Control Pro and any DAW currently open.
 * Open the Windows Explorer
@@ -151,6 +142,30 @@ Some issues with Setup or mapping configuration can be resolved by deleting the 
 * Add your surface(s) again.
 * launch the DAW.
 
-## Hardware Surface Fader, Button, Light, And Display Issues
+## Step 4 - Mac OS Issues
+
+#### V-Control Pro Is Not Launching On Mac OS
+
+* Remove V-Control Pro As A Startup Item.
+* Restart the computer.
+* Launch V-Control Pro manually.
+
+#### Resetting V-Control Pro on Mac OS:
+
+Some issues with Setup or mapping configuration can be resolved by deleting the V-Control Pro Preference files. Follow the steps to reset the V-Control Pro Settings.
+
+* Quit V-Control Pro and any DAW currently open.
+* Go to the Finder Application
+* Click on Go in the top menu bar for the Finder and with the Alt/Option key held down select Library.
+* In the Finder window navigate to Application Support.
+* Find the V-Control Pro folder send it to the trash bin.
+* Empty Trash.
+* Launch V-Control Pro.
+* Open the Setups window.
+* Add your surface(s) again.
+* launch the DAW.
+
+## Step 5 - Hardware Surface Fader, Button, Light, And Display Issues
 
 If a control surface feature is not operating correctly, there might be a problem with the surface hardware. Some surfaces have built-in diagnostics that acan help diagnose these problems. Please search for the surface user guide online for more information.
+

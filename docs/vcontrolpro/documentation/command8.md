@@ -5,6 +5,12 @@
 
 ### Setup
 
+#### Command 8 Driver For Windows
+
+Windows systems require a Command 8 driver to be installed. A driver can be downloaded from [HERE](http://akmedia.digidesign.com/support/compressed/Command8_Driver_Pro_Tools%20v90_69592.zip).
+
+#### Add Command 8 To The Setups Window
+
 First, you must add Command 8 as a controller in the V-Control Pro Setups window as described in [Setting Up Midi Controllers](./midi-controllers.md).
 
 #### Pro Tools
