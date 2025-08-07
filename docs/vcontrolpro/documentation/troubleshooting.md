@@ -1,7 +1,7 @@
 # Troubleshooting
 
 <a id="step-1"></a>
-## Step 1 - Verify The License
+## Verify The License
 
 V-Control Pro needs to be licensed for most systems, using either a trial license or a purchased license. [Learn more about Licensing](./v-control-pro-licensing.md)
 
@@ -27,13 +27,14 @@ V-Control Pro needs to be licensed for most systems, using either a trial licens
     * After activating, verify that V-Control Pro is licensed.
         * Quit V-Control Pro.
         * Go back to [Step 1 - Verify The License](#step-1)
-        * If the license is activated, go to [Step 2](#step-2)
 
 <a id="step-2"></a>
 
-## Step 2 - Make Sure Your Surface Is Added And Connected
+## Make Sure Your Surface Is Added To Setups
 
-V-Control Pro will only work if your control surface is added and is detected to be  in the Setups window.
+V-Control Pro will only work if your control surface is added to the Setups window. and is detected to be in the Setups window.
+
+#### Check If Your Control Surface Is Added
 
 * Launch V-Control Pro.
 * Select the V-Control Pro <b>Setups...</b> menu item to open the Setups window.
@@ -44,6 +45,7 @@ V-Control Pro will only work if your control surface is added and is detected to
 <a id="add-surface"></a>
 
 #### Add Your Control Surface
+
 * Launch V-Control Pro.
 * Select the V-Control Pro <b>Setups...</b> menu item to open the Setups window.
 * Click the <b>Add new...</b> button in the Controllers section at the lower left of the Setups window.
@@ -51,7 +53,9 @@ V-Control Pro will only work if your control surface is added and is detected to
 
 <a id="verify-connected"></a>
 
-#### Verify Your Control Surface Is Connected
+## Make Sure Your Surface Is Connected
+
+#### Check If Your Control Surface Is Connected
 
 * Launch V-Control Pro.
 * Select the V-Control Pro <b>Setups...</b> menu item to open the Setups window.
@@ -101,9 +105,25 @@ When you select the <b>Add Ethernet Device...</b> option in the <b>Add new...</b
 !!! warning "Symantec Endpoint Protection"
     Some Windows users have seen problems if Symantec Endpoint Protection is enabled. 
 
-## Step 3 - Windows OS Issues
+#### Troubleshooting Midi Controllers
 
-Windows OS users have been able to solve problems using one or more of these steps. If you are using Mac OS, go to Step 4.
+If a Midi control surface has been added to the Setups window, but it is "greyed out," then V-Control Pro is not detecting it. PLease check the Midi ports assigned to connect to the surface.
+
+##### Check The Midi Ports Assigned To The Midi Controller
+
+* Launch V-Control Pro.
+* Select the V-Control Pro <b>Setups...</b> menu item to open the Setups window.
+* Look at the Controllers section of the Setups window
+    * If the control surface name is "grayed out," then it is not connected.
+        * Click the surface name to see the configuration details.
+        * Check the Midi Input and Midi Output popup menus to confirm the correct ports are selected.
+    * If the control surface name is "bold," then it is connected 
+
+<a id="windows-os"></a>
+
+## Windows OS Issues
+
+Windows OS users have been able to solve problems using one or more of these steps. If you are using Mac OS, go to [Mac OS Issues](#mac-os).
 
 #### I Updated From V-Control Pro 2 To V-Control Pro 3 And It Stopped Working
 
@@ -142,7 +162,11 @@ Some issues with Setup or mapping configuration can be resolved by deleting the 
 * Add your surface(s) again.
 * launch the DAW.
 
-## Step 4 - Mac OS Issues
+<a id="mac-os"></a>
+
+## Mac OS Issues
+
+Mac OS users have been able to solve problems using one or more of these steps. If you are using Windowd OS, go to [Windows OS Issues](#windows-os).
 
 #### V-Control Pro Is Not Launching On Mac OS
 
@@ -165,7 +189,28 @@ Some issues with Setup or mapping configuration can be resolved by deleting the 
 * Add your surface(s) again.
 * launch the DAW.
 
-## Step 5 - Hardware Surface Fader, Button, Light, And Display Issues
+
+## Logic Pro Issues
+
+!!! info "Automatic Installation Must Be Enabled"
+    Logic Pro will not detect V-Control Pro surfaces unless Automatic Installation is enabled.
+
+#### Common Logic Pro Issues
+
+For these common issues, please review the [Logic Pro Setup Section](./logic-pro.md)
+
+#### Other Logic Pro Issues
+
+##### Corrupt Surface Configuration
+
+Some users have observed "strange" control behaviors that have been solved by deleting all surfaces set up in Logic and setting it up again.
+
+* Open Logic Pro <b>Control Surfaces / Setup</b> window.
+* Delete all surfaces.
+* Quit Logic.
+* Start Logic and follow the info in the [Logic Pro Setup Section](./logic-pro.md)
+
+## Hardware Fader, Button, Light, And Display Issues
 
 If a control surface feature is not operating correctly, there might be a problem with the surface hardware. Some surfaces have built-in diagnostics that acan help diagnose these problems. Please search for the surface user guide online for more information.
 

@@ -937,6 +937,19 @@
         
       
       
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    Logic Pro X
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
       <a href="./" class="md-nav__link md-nav__link--active">
         
   
@@ -948,6 +961,49 @@
   
 
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#ipv6-settings" class="md-nav__link">
+    <span class="md-ellipsis">
+      IPv6 Settings
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="IPv6 Settings">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#if-you-experience-one-way-communication-with-logic-pro" class="md-nav__link">
+    <span class="md-ellipsis">
+      If You Experience One-Way Communication With Logic Pro
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
       
     </li>
   
@@ -1946,6 +2002,18 @@
 
 <h1 id="setting-up-logic-pro-x">Setting Up Logic Pro X</h1>
 <p>Logic Pro will not be detected until it has connected to a control surface supported by V-Control Pro with Logic Pro. Follow these steps to connect it to a control surface.</p>
+<div class="admonition info">
+<p class="admonition-title">Automatic Installation Must Be Enabled</p>
+<p>Logic Pro will not detect V-Control Pro surfaces unless Automatic Installation is enabled.</p>
+</div>
+<div class="admonition info">
+<p class="admonition-title">Enable System Settings / Security / Network</p>
+<p>Mac OS Sequoia and later require V-Control Pro to be enabled.</p>
+</div>
+<div class="admonition info">
+<p class="admonition-title">One Way Communication Issue</p>
+<p>If Logic Pro has one-way communication with a V-Control Pro surface, try changing the <a href="#ipv6-setting">IPv6 Setting</a>.</p>
+</div>
 <ul>
 <li>Open the V-Control Pro Setups window and make sure your surface has been added to the Controllers... section and it is actively detected.</li>
 <li>Launch Logic Pro</li>
@@ -1960,6 +2028,18 @@
 </ul>
 </li>
 </ul>
+<p><a id="ipv6-setting"></a></p>
+<h4 id="ipv6-settings">IPv6 Settings</h4>
+<p>V-Control Pro uses UDP networking to communicate with Logic Pro. Users sometime see an issue where communication operates in one direction only. Typically, Logic Pro operates perfectly using IPv4 protocol. Other times it works perfectly using IPv6 protocol. </p>
+<h5 id="if-you-experience-one-way-communication-with-logic-pro">If You Experience One-Way Communication With Logic Pro</h5>
+<ul>
+<li>Quit Logic Pro.</li>
+<li>Select the V-Control Pro Preferences... menu item.</li>
+<li>Toggle the<b>Logic Pro - Use IPv6</b> item.</li>
+<li>Click OK</li>
+<li>Launch Logic Pro</li>
+</ul>
+<p>We have demosntrated this problem to the Logic Pro team and they have not acknowledged it.</p>
 
 
 
