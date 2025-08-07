@@ -197,6 +197,9 @@ Some issues with Setup or mapping configuration can be resolved by deleting the 
 
 #### Common Logic Pro Issues
 
+* Surface not detected by Logic Pro
+* One-way communication
+
 For these common issues, please review the [Logic Pro Setup Section](./logic-pro.md)
 
 #### Other Logic Pro Issues
