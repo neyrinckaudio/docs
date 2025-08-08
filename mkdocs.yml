@@ -53,6 +53,10 @@ nav:
         - Wwise: './vcontrolpro/documentation/wwise.md'
     - Using MIDI Mode: './vcontrolpro/documentation/midi-mode.md'
     - Using V-Window: './vcontrolpro/documentation/v-window.md'
+    - Feature Charts:
+      - D-Command:
+        - Pro Tools With D-Command: './vcontrolpro/documentation/feature-chart/d-command-pro-tools.md'
+        - Others: './vcontrolpro/documentation/feature-charts.md'
     - Troubleshooting: './vcontrolpro/documentation/troubleshooting.md'
     - Additional Resources: './vcontrolpro/documentation/getting-help.md'
   - Plug-Ins:
@@ -74,3 +78,6 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+   

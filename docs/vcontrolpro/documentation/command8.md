@@ -1,7 +1,7 @@
 # Avid/Digidesign Command 8
 
 !!! info "Control Features"
-    Please see the Command 8 feature charts online at [Feature Charts – C24](https://neyrinck.com/help-category/v-control-pro-help/).
+    Please see the Command 8 feature charts online at [Feature Charts](https://neyrinck.com/help-category/v-control-pro-help/).
 
 ### Setup
 
