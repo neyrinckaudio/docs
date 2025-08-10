@@ -8,8 +8,8 @@ V-Control Pro is a Mac OS / Windows application that connects control surfaces t
 [Installers](https://neyrinck.com/download/v-control-pro/){ .md-button }
 [Compatibility Chart](https://neyrinck.com/vcpro-compatibility/){ .md-button }
 
-## Legacy Ethernet and MIDI Surfaces
-Digidesign and Avid manufactured several control surfaces that only connected to older versions of Pro Tools HD / Ultimate. V-Control Pro connects these surfaces to all modern versions of Pro Tools Studio and Pro Tools Ultimate. And V-Control Pro connects these surfaces to all popular audio, video, and MIDI applications such as Logic Pro, Cubase, Nuendo, Studio One, and many more.
+## Legacy Digidesign/Avid Surfaces
+Digidesign and Avid manufactured superb control surfaces that connected to Pro Tools HD / Ultimate. Over time, Avid has stopped supporting these surfaces. V-Control Pro connects these surfaces to all modern versions of Pro Tools Studio, Pro Tools Ultimate, Pro Tools First, etc. And V-Control Pro connects these surfaces to many other media applications such as Logic Pro, Cubase, Nuendo, Studio One, and many more audio, video, and MIDI applications.
 
 * [D-Command](./d-command.md)
 * [C24](./c24.md)

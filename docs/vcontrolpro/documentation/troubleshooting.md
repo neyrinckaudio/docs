@@ -217,3 +217,6 @@ Some users have observed "strange" control behaviors that have been solved by de
 
 If a control surface feature is not operating correctly, there might be a problem with the surface hardware. Some surfaces have built-in diagnostics that acan help diagnose these problems. Please search for the surface user guide online for more information.
 
+#### Command 8
+Press the F1 Utility switch to enter Utility mode.
+
