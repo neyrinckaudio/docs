@@ -57,6 +57,8 @@ nav:
       - D-Command:
         - Pro Tools With D-Command: './vcontrolpro/documentation/feature-chart/d-command-pro-tools.md'
         - Others: './vcontrolpro/documentation/feature-charts.md'
+        - C|24 With Ableton Live: './vcontrolpro/documentation/feature-chart/c24-ableton-live.md'
+        - Control|24 with Ableton Live: './vcontrolpro/documentation/feature-chart/control24-live-functions.md'
     - Troubleshooting: './vcontrolpro/documentation/troubleshooting.md'
     - Additional Resources: './vcontrolpro/documentation/getting-help.md'
   - Plug-Ins:
