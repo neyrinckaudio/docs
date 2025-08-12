@@ -102,7 +102,7 @@
     | Grab Tool | Toggles Follow |
 
 === "Soft Keys for (C|24)"
-    | **Soft Keys for (C|24)** | |
+    | **Soft Keys for (C\|24)** | |
     |---|---|
     | **Press the Soft keys button to enter soft keys mode.** | |
     | **Use the Ableton Live MIDI mapping mode to map keys to functions.** | |
