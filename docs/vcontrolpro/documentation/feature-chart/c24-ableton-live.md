@@ -135,3 +135,4 @@
     |------------|------------|
     | All | All monitoring features are analog circuits that are always active. |
     | Automatic TalkBack | This C\|24 feature is supported. Enable/disable on C\|24 by pressing Utility button. |
+
