@@ -1,18 +1,16 @@
 # Logic Pro X Control With 003
 
-## Track Buttons
-| Control | Function |
-|---------|----------|
+| Track Buttons |  |
+|---|---|
 | Solo | Solos the Channel. |
 | Mute | Mutes the Channel. |
 | Select | Sets the Channel to the Select state. |
 | Knob | Changes the assigned parameter. |
 | Meter | Toggles between Right and left channel meter display. |
-
-## Knob Mode Buttons
-| Control | Function |
-|---------|----------|
-| Knob Mode Buttons | The assignment buttons are used to assign controls to the Knobs. |
+|  |  |
+|  |  |
+| Knob Mode Buttons |  |
+| The assignment buttons are used to assign controls to the Knobs. |  |
 | Pan (Default) | Assigns Pan to knobs. |
 | Send | Enables Send editing and selection for buttons A-E. |
 | Insert (Console View) | Enables Insert editing for selected track. Use buttons A-E to select plug-in on track to edit. |
@@ -22,88 +20,62 @@
 | D | Assigns send 4 to knobs when in Sends mode. Assigns insert 4 of selected track to knobs when in Insert mode. |
 | E | Assigns send 5 to knobs when in Sends mode. Assigns insert 5 of selected track to knobs when in Insert mode. |
 | EQ | Shows EQ Parameters for the selected channel across the LCD. |
-| dyn | Shows Dynamics Parameters for the selected channel across the LCD. |
-
-## Flip
-| Control | Function |
-|---------|----------|
-| Flip | When Flip is active you can use the knobs to control the faders assigned parameter, in this case, channel volume. |
-
-## Bank Buttons
-| Control | Function |
-|---------|----------|
-| Bank L | Moves the DAW channel assignments for tracks 1-8 to the left by 8 channels. |
-| Bank R | Moves the DAW channel assignments for tracks 1-8 to the right by 8 channels. |
-| << | Moves the Control Layer in the current Bank Mode to the left by one. |
-| >> | Moves the Control Layer in the current Bank Mode to the right by one. |
-
-## Automation
-| Control | Function |
-|---------|----------|
-| Automation | The 003 has dedicated buttons for handling track automation. |
-| On | Turns global automation on / off. |
-| trim/off | Turns global automation off. |
-| Trim | Activates Trim automation mode globally. |
-| Latch | Sets the global automation mode to Latch. |
-| Write | Sets the global automation mode to Write (overwrite mode). |
-| Touch | Sets the global automation mode to Touch. |
-| Read | Sets the global automation mode to Read. |
-
-## Edit
-| Control | Function |
-|---------|----------|
-| Save | Saves the current project. |
-| Undo | Performs and Undo operation. |
-| F1 | n/a |
-| F2 | n/a |
-| F3 | n/a |
-| F4 | n/a |
-| F5 | n/a |
-| F6 | n/a |
-| F7 | n/a |
-| F8 | n/a |
-
-## Modifier
-| Control | Function |
-|---------|----------|
-| Ctrl | n/a |
-| Alt/Fine | Alt key modifier. |
-| Shift | Shift key modifier. |
-| Cmd/Edit | Command key modifier. |
-
-## Utility
-| Control | Function |
-|---------|----------|
-| ESC | n/a |
-| Enter | n/a |
-| Cursor Keys | n/a |
-| Scrub | n/a |
-| Edit | n/a |
-| Mix | n/a |
-
-## Transport
-| Control | Function |
-|---------|----------|
-| RTZ | Return to Zero. |
-| END | n/a |
-| ON Line | n/a |
-| LOOP | Turns cycle on/off. |
-| Quick Punch | n/a |
-| REW | Rewind. |
-| FFWD | Fast Forward. |
-| STOP | Stop. |
-| PLAY | Play. |
-| RECORD | Record. |
-
-## Status / Group
-| Control | Function |
-|---------|----------|
-| Status / Group | The Status / Group Buttons control various aspect of the Mix window and track grouping functions. |
-| . track | n/a |
-| . edit | n/a |
-| . mix | n/a |
-| . dsp | n/a |
-| . all | n/a |
-| . | n/a |
-| . | n/a |
-| . susp | n/a |
+| Insert (Channel View) | Displays all inserts for selected track. Touch knob to select Insert for editing. |
+| Pan/Sends/PRE | Assigns Sends of selected channel to the knobs. |
+| Flip | Flips knobs to faders. |
+| Display Mode | Displays values for knob assignment. |
+|  |  |
+| Master Fader Button |  |
+| Master Faders | Toggles last Channel Fader to be Master Fader |
+|  |  |
+| LCD/Display |  |
+| Track Meter | Displays metering for tracks. Press Meter button to toggle between left and right meters. |
+| Counter | Displays Counter for current session. |
+|  |  |
+|  |  |
+| Transport Buttons |  |
+| Play | Starts playhead at current position in Timeline. |
+| Stop | Stops playhead at current position in Timeline. |
+| Record | Starts Record Mode for playhead |
+| Rewind | Move playhead backwards in Timeline. |
+| Fast Forward | Moves playhead forward in Timeline. |
+| RTZ | Moves playhead to beginning of Timeline. |
+| Shift+RTZ | Moves playhead to end of Timeline. |
+| Loop Play | Toggles Loop mode for loop selection in Timeline. |
+| Quick Punch | Toggles Punch mode for selection in Timeline. |
+|  |  |
+| Utility Buttons |  |
+| Undo | Press to undo the last edit. |
+| Shift+Undo | Press to redo edit. |
+| Enter | Confirm selection |
+|  |  |
+| Navigation Buttons |  |
+| Nudge | Sets Left and Right cursors to scroll tracks left and right for channel mixer. |
+| Bank | Sets Left and Right cursors to bank tracks left and right for channel mixer. |
+| Up | Scrolls to next track in Arrangement. |
+| Down | Scrolls to previous track in Arrangement. |
+| Left | Scroll to previous track in MIxer. |
+| Right | Scroll to next track in Mixer. |
+| Zoom | Enables Zoom mode for the cursor keys. Left/Right zooms horizontal for the Arrangement window. Up/Down zooms vertical for the Arrangement window. |
+| MemLoc | Enables Marker Mode for the cursor keys. Left/Right navigate between marker, Down creates marker at playhead position. |
+|  |  |
+| Automation Buttons |  |
+| Read | Set the automation for the selected track to Read. |
+| Write | Set the automation for the selected track to Write. |
+| Touch | Set the automation for the selected track to Touch. |
+| Latch | Set the automation for the selected track to Latch. |
+|  |  |
+| Window Buttons |  |
+| Mix | Displays Mixer Window |
+| Edit | Displays Arrange Window |
+|  |  |
+| Modifier Buttons |  |
+| Shift | Enables Shift Modifier. |
+| Option | Enables Option Modifier. |
+| Control | Enables Control Modifier. |
+| Command | Enables Command Modifier. |
+|  |  |
+| Bank Buttons |  |
+| Bank Left | Banks 24 tracks left/Scrolls 1 track left in Nudge mode |
+| Bank Right | Banks 24 tracks right/Scrolls 1 track right in Nudge mode |
+| Nudge | Toggles Nudge mode On/Off |

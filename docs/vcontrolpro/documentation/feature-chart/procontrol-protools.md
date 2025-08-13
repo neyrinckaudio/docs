@@ -1,200 +1,180 @@
-# Pro Tools Control With ProControl
+# ProControl ProTools
 
-## MIDI Mode
-| Control | Function |
-|---------|----------|
-| MIDI Mode | MIDI Mode converts the surfaces faders, knobs, and buttons into assignable MIDI Controls that can be mapped in the DAW. |
+| MIDI Mode |  |
+|---|---|
+| MIDI Mode converts the surfaces faders, knobs, and buttons into assignable MIDI Controls that can be mapped in the DAW. |  |
 | Mon/0 | Toggles surface between DAW Mode and Midi Mode |
 | Select (Group Button) | Toggles the DSP Section between DAW Mode and MIDI Mode. |
-
-## V-Window Mode
-| Control | Function |
-|---------|----------|
-| V-Window Mode | With the V-Window feature, users can instantly control any plug-ins or controls on screen through their control surface's channel strip with a touch of a button. |
-| Master Fader | Press once to enable Master Fader control. Press a second time to enable V-Window mode for the 8th channel fader. Press a 3rd time to cycle back to basic channel control. |
+| V-Window Mode |  |
+| With the V-Window feature, users can instantly control any plug-ins or controls on screen through their control surface's channel strip with a touch of a button. |  |
+| Master Fader | Press once to enable V-Window mode for the 8th channel fader. Press a 2nd time to cycle back to basic channel control. |
 | Mute | While in V-Window mode, the Mute button on the last channel strip will cycle through the various V-Window Modes which are listed below: |
-| VButton | Use this mode to interact with button controls. The mouse will stay in its place and activate a button press when the fader is touched. |
-| VButtonSet | Use this mode to create and cycle through different button set points. With the mouse hovering above the on screen button's position press Shift+Solo on the control surface to set a Pin at that location. Using the fader in this mode will cylce between multiple Pins to use with VButton mode. |
-| VWKnob | Use this mode when interacting with knob controls on the plug-ins GUI. |
-| VFader | Use this mode when interacting with fader controls on the plug-ins GUI. |
-| VXY | Use this mode when interacting with XY Pad controls. |
-
-## Track Buttons
-| Control | Function |
-|---------|----------|
+|  | VButton: Use this mode to interact with button controls. The mouse will stay in its place and activate a button press when the fader is touched. |
+|  | VButtonSet: Use this mode to create and cycle through different button set points. With the mouse hovering above the on screen button's position press Shift+Solo on the control surface to set a Pin at that location. Using the fader in this mode will cylce between multiple Pins to use with VButton mode. |
+|  | VWKnob: Use this mode when interacting with knob controls on the plug-ins GUI. |
+|  | VWHSlider: Use this mode when interacting with horizontal slider controls on the plug-ins GUI. |
+|  | VWVSlider: Use this mode when interacting with vertically slider controls on the plug-ins GUI. |
+| Solo | While in V-Window Mode, pressing the Solo button will pin the mouse location and revert to that location any time the fader is touched. Once the fader is released, the mouse is also returned to that pin position. This way it is very easy to pin a parameter and instantly control it without having to worry with the mouse cursor is on the screen. |
+| Select | Use the Select button while in V-Window mode to reset the fader position. |
+|  |  |
+| Track Buttons |  |
+| Record | Arms the assigned audio track of the Channel. |
+| Insert | Enables insert editor for selected Channel. |
 | Solo | Solos the Channel. |
 | Mute | Mutes the Channel. |
+| Auto | Enables Automation selection. Hold down button to make selection using 2 different methods. |
+|  | With Auto on channelstrip held down. Select Automation mode from the Automation section. |
+|  | With Auto on channelstrip held down. Press channel select button to cycle through automation modes for channel. |
 | Select | Sets the Channel to the Select state. |
 | Knob | Changes the assigned parameter. |
-| Meter | Toggles between Right and left channel meter display. |
-
-## Fader Strip
-| Control | Function |
-|---------|----------|
-| Fader | Channel level Control. |
-
-## Knob Mode Buttons
-| Control | Function |
-|---------|----------|
-| Knob Mode Buttons | The assignment buttons are used to assign controls to the Knobs. |
-| Pan (Default) | Assigns Pan to knobs. |
-| Send | Enables Send editing and selection for buttons A-E. |
-| Insert (Console View) | Enables Insert editing for selected track. Use buttons A-E to select plug-in on track to edit. |
-| A | Assigns send 1 to knobs when in Sends mode. Assigns insert 1 of selected track to knobs when in Insert mode. |
-| B | Assigns send 2 to knobs when in Sends mode. Assigns insert 2 of selected track to knobs when in Insert mode. |
-| C | Assigns send 3 to knobs when in Sends mode. Assigns insert 3 of selected track to knobs when in Insert mode. |
-| D | Assigns send 4 to knobs when in Sends mode. Assigns insert 4 of selected track to knobs when in Insert mode. |
-| E | Assigns send 5 to knobs when in Sends mode. Assigns insert 5 of selected track to knobs when in Insert mode. |
-| F | Assigns send 6 to knobs when in Sends mode. Assigns insert 6 of selected track to knobs when in Insert mode. |
-| G | Assigns send 7 to knobs when in Sends mode. Assigns insert 7 of selected track to knobs when in Insert mode. |
-| H | Assigns send 8 to knobs when in Sends mode. Assigns insert 8 of selected track to knobs when in Insert mode. |
-| EQ | Shows EQ Parameters for the selected channel across the LCD. |
-| dyn | Shows Dynamics Parameters for the selected channel across the LCD. |
-
-## Flip
-| Control | Function |
-|---------|----------|
-| Flip | When Flip is active you can use the knobs to control the faders assigned parameter, in this case, channel volume. |
-
-## Bank Buttons
-| Control | Function |
-|---------|----------|
-| Bank L | Moves the DAW channel assignments for tracks 1-8 to the left by 8 channels. |
-| Bank R | Moves the DAW channel assignments for tracks 1-8 to the right by 8 channels. |
-| << | Moves the Control Layer in the current Bank Mode to the left by one. |
-| >> | Moves the Control Layer in the current Bank Mode to the right by one. |
-
-## Automation
-| Control | Function |
-|---------|----------|
-| Automation | The ProControl has dedicated buttons for handling track automation. |
-| On | Turns global automation on / off. |
-| off | Turns global automation off. |
-| Trim | Activates Trim automation mode globally. |
-| Latch | Sets the global automation mode to Latch. |
-| Write | Sets the global automation mode to Write (overwrite mode). |
-| Touch | Sets the global automation mode to Touch. |
-| Read | Sets the global automation mode to Read. |
-
-## Master Section
-| Control | Function |
-|---------|----------|
-| Master Fader | Master Output fader for the mix |
-| Talkback | Press and hold for Talkback activation. |
-| Dim | Press to dim the monitor mix. |
-| Mono | Press to sum monitor mix to mono. |
-
-## Edit
-| Control | Function |
-|---------|----------|
-| Save | Saves the current project. |
-| Undo | Performs and Undo operation. |
-| Cancel | n/a |
-| Enter | n/a |
-| F1 | Zoom In command. |
-| F2 | Zoom Out command. |
-| F3 | Zoom Toggle command. |
-| F4 | Edit Window command. |
-| F5 | Mix Window command. |
-| F6 | Switch to next higher track view. |
-| F7 | Switch to next lower track view. |
-| F8 | All Edit Window Views command. |
-
-## Modifier
-| Control | Function |
-|---------|----------|
-| Ctrl | n/a |
-| Option | Option key modifier. |
-| Shift | Shift key modifier. |
-| Cmd | Command key modifier. |
-
-## Nudge
-| Control | Function |
-|---------|----------|
-| - | Nudges selected regions left by the nudge value. |
-| + | Nudges selected regions right by the nudge value. |
-| User 1 | User assignable. |
-| User 2 | User assignable. |
-
-## Numeric Keypad
-| Control | Function |
-|---------|----------|
-| 0 | Number 0. |
-| 1 | Number 1. |
-| 2 | Number 2. |
-| 3 | Number 3. |
-| 4 | Number 4. |
-| 5 | Number 5. |
-| 6 | Number 6. |
-| 7 | Number 7. |
-| 8 | Number 8. |
-| 9 | Number 9. |
-| +/- | Positive / Negative. |
-| . | Decimal. |
-
-## Cursor Keys
-| Control | Function |
-|---------|----------|
-| Up | Cursor Up. |
-| Dn | Cursor Down. |
-| L | Cursor Left. |
-| R | Cursor Right. |
-
-## Utility
-| Control | Function |
-|---------|----------|
-| Escape | Esc key |
-| Clear | Clear key |
-| In | Punch In. |
-| Out | Punch Out. |
-| Pre | Skip to previous marker. |
-| Nxt | Skip to next marker. |
-| Mark | Insert marker. |
-| To | Go to the position highlighted in the transport. |
-| Clr | Clear solo states. |
-| Solo | Set solo on selected channel(s). |
-| Mute | Set mute on selected channel(s). |
-| Edit | Place the tool focus on the selected track in the track area. |
-| Mix | Place the tool focus on the selected track in the mixer. |
-| All | Toggle the selected track's Track Mute, Solo, Automation Mode, Record Enable and Input Monitoring all ON or all OFF. |
-| Tab | Tab over to the next audio window. |
-| Shift Tab | Tab over to the previous audio window. |
-| Zoom | Zoom tool. |
-| Scrub | Scrub tool. |
-
-## Transport
-| Control | Function |
-|---------|----------|
-| RTZ | Return to Zero. |
-| End | Go to end of project. |
-| On Line | n/a |
-| Loop | Turns cycle on/off. |
-| Quick Punch | Turns Quick Punch in/out on/off. |
-| Pre Roll | Activates pre-roll. |
-| Post Roll | Activates post-roll. |
-| REW | Rewind. |
-| FFWD | Fast Forward. |
-| STOP | Stop. |
-| PLAY | Play. |
-| RECORD | Record. |
-
-## Status / Group
-| Control | Function |
-|---------|----------|
-| Status / Group | The Status / Group Buttons control various aspect of the Mix window and track grouping functions. |
-| track | Show/hide track view status lights. |
-| edit | Show/hide edit view status lights. |
-| mix | Show/hide mix view status lights. |
-| dsp | Show/hide dsp view status lights. |
-| all | Toggle all status lights on or off. |
-| phase | Enable/disable phase invert on channel. |
-| group | Enable/disable group assignment on channel. |
-| susp | Suspend all assignments to groups. |
-
-## Machine Control
-| Control | Function |
-|---------|----------|
-| Arm Tracks | Arms selected tracks for recording. |
-| Safe | Set Safe mode on selected tracks. |
-| Mem Loc | Memory location. |
-| Drop | Drop/replace on the record enabled track. |
+| Knob Button | Sets assign selection/Toggles insert parameters/Toggles prepost/Toggles Send Mute |
+| Master Record | Record Enables all available channels. |
+|  |  |
+| Knob Mode Buttons |  |
+| The assignment buttons are used to assign controls to the Knobs. |  |
+| Pan (Default) | Assigns knobs to control pan position. For stereo tracks, press pan button again to access other side. |
+| Send A | Assigns Send A to knobs. |
+| Send B | Assigns Send B to knobs. |
+| Send C | Assigns Send C to knobs. |
+| Send D | Assigns Send D to knobs. |
+| Send E | Assigns Send E to knobs. |
+| Input | Shows Channel Inputs across LCD when held down. Enter Assign mode first to change channel input with knobs. |
+| Output | Shows Channel Outputs across LCD. Enter Assign mode first to change channel output with knobs. |
+| Assign | Enables knobs to change assignment when in Sends, input, or output mode. Use knob button to confirm selection. |
+| PrePost | Sets knob buttons to PrePost mode when in Sends Mode. |
+| Send Mute | Sets knob buttons to Send Mute mode when in Sends Mode. |
+| Insert Bypass | Enables Bypass mode. Bypass mode assigns Insert button on channel strip to bypass all inserts. |
+| Flip | Flips knobs to faders. |
+|  |  |
+| LCD/Display |  |
+| Track Meters | Displays Stereo metering for tracks. |
+| Counter | Displays Counter for current session. Counter mode can be changed in DAW. |
+|  |  |
+| Automation Buttons |  |
+| Hold down Auto button channel strip to select automation modes. |  |
+| Read | Sets selected Channel in to Read Mode |
+| Write | Sets selected Channel to Write Mode |
+| Touch | Sets selected Channel to Touch Mode |
+| Trim | Enables Trim to selected Channel. |
+| Latch | Sets selected Channel to Latch Mode |
+| Off | Sets selected Channel to Off Mode |
+| Volume | Toggles Enable for Volume Automation |
+| Pan | Toggles Enable for Pan Automation |
+| Mute | Toggles Enable for Mute Automation |
+| Send LvL | Toggles Enable for Send Level Automation |
+| Plug-In | Toggles Enable for Plug-In Automation |
+|  |  |
+| Transport Buttons |  |
+| Play | Starts playhead at current position in Timeline. |
+| Stop | Stops playhead at current position in Timeline. |
+| Record | Starts Record Mode for playhead |
+| Rewind | Move playhead backwards in Timeline. |
+| Fast Forward | Moves playhead forward in Timeline. |
+| RTZ | Returns playhead to beginning of Timeline. |
+| GTE | Sends playhead to end of Timeline. |
+| Pre Roll | Enables Pre Roll |
+| Post Roll | Enables Post Roll |
+| Mark In | Sets start point of selection in Timeline. |
+| Mark Out | Sets end point of selection in Timeline. |
+| Loop Play | Enables Loop playback. |
+| Loop Record | Enables Loop Record. |
+| Quick Punch | Enables Punch Mode. |
+| Audition | Enables Audition Mode. |
+| Online | Enables Online Mode for transport. |
+| Scrub | Enables Scrub Mode for the Wheel |
+| Shuttle | Enables Shuttle Mode for the Wheel |
+|  |  |
+| DSP Edit Section for ProControl |  |
+| Insert/Params | Displays selected insert parameters. Press again to go back to insert selection for channel. |
+| Assign 1-8 | Enables Assign for Inserts A-E. Use knobs in DSP Edit section change selection. |
+| Select 1-8 | Selects Insert A-E for editing. Toggles insert parameters. |
+| Bypass 1-8 | Bypasses Inserts A-E. |
+| Compare | Compares current plug-in setting with previous. |
+| Master Bypass | Bypass current plugin being edited |
+|  |  |
+| Status Buttons for ProControl |  |
+| The Status buttons change the assignment for the Channel Matrix. |  |
+| Select | Assigns the channel matrix buttons to Channel Strip select. |
+| Mute | Assigns the channel matrix buttons to Channel strip mute. |
+| Solo | Assigns the channel matrix buttons to Channel Strip solo. |
+| Rec/Rdy | Assigns the channel matrix buttons to Channel Strip Record Arm. |
+| Param/Pages | Assigns the channel matrix buttons 1 and 2 to scroll through insert parameter pages. |
+|  |  |
+| Channel Matrix for ProControl |  |
+| Goto | Enables Marker Mode for Channel Matrix. Use Matrix 1-32 to jump to marker points. |
+| 1/A | Use to scroll through pages for insert parameters. |
+| 2/B | Use to scroll through pages for insert parameters. |
+|  |  |
+| Group Buttons |  |
+| Create | Creates group of selected tracks. |
+| Status | Displays Group Assignment. |
+| Select | Switches the DSP Section from DAW Mode to MIDI Mode. |
+| Suspend | Suspends Group function. |
+|  |  |
+| Utility Buttons |  |
+| Save | Press the Save button to save. |
+|  | Press Shift + Save button to open the Save As dialog. |
+| Undo | Press to undo the last edit. |
+| Cancel | Cancel selection |
+| Solo Clear | Clears all Solos on Channel Strip. |
+|  |  |
+| Keypad Buttons |  |
+| 0 | Start/Stop Playback |
+| 1 | Rewind |
+| 2 | Fast Forward |
+| 3 | Record Enable |
+| 4 | Loop Playback |
+| 5 | Loop Record |
+| 6 | Quick Punch |
+| 7 | Click |
+| 8 | Count Off |
+| 9 | MIDI Merge |
+| . | Inputs Decimal Point |
+| + | Inputs Plus sign |
+| - | Inputs Subtract |
+| * | Inputs Asterisk |
+| / | Inputs Divide |
+| Enter | Creates Marker at current position |
+| Clr | Clear numerical input. |
+|  |  |
+| Modifier Buttons |  |
+| Shift | Enables Shift Modifier. |
+| Option | Enables Option Modifier. |
+| Control | Enables Control Modifier. When held down, enables fine knob mode. |
+| Command | Enables Command Modifier. |
+|  |  |
+| Navigation Buttons |  |
+| Up | Scrolls Up in Edit Window. |
+| Down | Scrolls Down in Edit Window. |
+| Left | Scrolls Left in Edit Window. |
+| Right | Scrolls Right in Edit Window. |
+| Zoom | Enables Zoom mode for the cursor keys. Left/Right zooms horizontal for the Edit window. Up/Down zooms vertical for the Edit window. |
+|  |  |
+| Window Buttons |  |
+| Mix | Displays Mixer Window. |
+| Edit | Displays Edit Window. |
+| MemLoc | Displays Marker Window. |
+| Transport | Displays Transport Window. |
+| Plug-In | Displays Plug-In Window. |
+| Status | Displays Setup Window. |
+|  |  |
+| Edit Buttons |  |
+| Copy | Copy selected region in Edit Window. |
+| Delete | Deletes selected region in Edit Window. |
+| Cut | Cuts selected region in Edit Window. |
+| Paste | Pastes region in Edit Window. |
+| Capture | Captures selected region. |
+| Separate | Separates region at playhead. |
+| Shuffle | Enables Shuffle Mode in Edit Window. |
+| Slip | Enables Slip Mode in Edit Window. |
+| Spot | Enables Spot Mode in Edit Window. |
+| Grid | Enables Grid Mode in Edit Window. |
+| Trim | Enables Trim Tool in Edit Window. |
+| Select | Enables Select Tool in Edit Window. |
+| Grab | Enables Grab Tool in Edit Window. |
+| Pencil | Enables Pencil Tool in Edit Window. |
+|  |  |
+| Bank Buttons |  |
+| Bank Left | Banks tracks left/Scrolls 1 track left in Nudge mode |
+| Bank Right | Banks tracks right/Scrolls 1 track right in Nudge mode |
+| Nudge | Toggles Nudge mode On/Off |

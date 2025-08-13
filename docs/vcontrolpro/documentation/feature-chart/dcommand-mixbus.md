@@ -1,130 +1,111 @@
-# MixBus With DCommand
+# D-Command Mixbus
 
-## Midi Mode
-| Control | Function |
-|---------|----------|
 | Midi Mode | V-Control Midi Mode port connects surface as a Midi controller |
+|---|---|
 | MIDI Events List | Toggles surface between DAW Mode and Midi Mode |
 | EQ Section | All encoders are assigned to Midi Mode |
 | Dyn Section | All encoders are assigned to Midi Mode |
 | Top Row Encoders | All encoders are assigned to Midi Mode |
-| Secondary Encoders | All encoders are assigned to Midi Mode |
-| Channel Encoders | All encoders are assigned to Midi Mode |
-| Aux Encoders | All encoders are assigned to Midi Mode |
-| Master Encoders | All encoders are assigned to Midi Mode |
-| Channel Faders | All faders are assigned to Midi Mode |
-| Aux Faders | All faders are assigned to Midi Mode |
-| Master Fader | All faders are assigned to Midi Mode |
-| Automation | All automation buttons are assigned to Midi Mode |
-| Channel | All channel buttons are assigned to Midi Mode |
-| Solo Clear | Solo clear is assigned to Midi Mode |
-| Mute Clear | Mute clear is assigned to Midi Mode |
-| Transport | All transport buttons are assigned to Midi Mode |
-| Jog Wheel | Jog wheel is assigned to Midi Mode |
-
-## V-Window Mode
-| Control | Function |
-|---------|----------|
-| V-Window Mode | With the V-Window feature, users can instantly control any plug-ins or controls on screen through their control surface's channel strip with a touch of a button. |
-| Master Fader | Press once to enable Master Fader control. Press a second time to enable V-Window mode for the Master fader. Press a 3rd time to cycle back to basic channel control. |
+|  |  |
+| V-Window Mode |  |
+| With the V-Window feature, users can instantly control any plug-ins or controls on screen through their control surface's channel strip with a touch of a button. |  |
+| Master Fader | Press once to enable Master Fader control. Press a second time to enable V-Window mode for the last channel fader. Press a 3rd time to cycle back to basic channel control. |
 | Mute | While in V-Window mode, the Mute button on the last channel strip will cycle through the various V-Window Modes which are listed below: |
-| VButton | Use this mode to interact with button controls. The mouse will stay in its place and activate a button press when the fader is touched. |
-| VButtonSet | Use this mode to create and cycle through different button set points. With the mouse hovering above the on screen button's position press Shift+Solo on the control surface to set a Pin at that location. Using the fader in this mode will cylce between multiple Pins to use with VButton mode. |
-| VWKnob | Use this mode when interacting with knob controls on the plug-ins GUI. |
-| VFader | Use this mode when interacting with fader controls on the plug-ins GUI. |
-| VXY | Use this mode when interacting with XY Pad controls. |
-
-## Track Buttons
-| Control | Function |
-|---------|----------|
+|  | VButton: Use this mode to interact with button controls. The mouse will stay in its place and activate a button press when the fader is touched. |
+|  | VButtonSet: Use this mode to create and cycle through different button set points. With the mouse hovering above the on screen button's position press Shift+Solo on the control surface to set a Pin at that location. Using the fader in this mode will cylce between multiple Pins to use with VButton mode. |
+|  | VWKnob: Use this mode when interacting with knob controls on the plug-ins GUI. |
+|  | VWHSlider: Use this mode when interacting with horizontal slider controls on the plug-ins GUI. |
+|  | VWVSlider: Use this mode when interacting with vertically slider controls on the plug-ins GUI. |
+| Solo | While in V-Window Mode, pressing the Solo button will pin the mouse location and revert to that location any time the fader is touched. Once the fader is released, the mouse is also returned to that pin position. This way it is very easy to pin a parameter and instantly control it without having to worry with the mouse cursor is on the screen. |
+| Select | Use the Select button while in V-Window mode to reset the fader position. |
+|  |  |
+| Track Buttons |  |
+| Pan | Assigns Pan control to the knobs. |
+| Insert | Assigns Plug-in Editor for selected channel across channel knobs. Select plug-in with knob buttons. |
+| Send | Assigns Sends to knobs. Press repeatedly to cycle through additional sends. |
+| Record | Arms the assigned audio track of the Channel. |
 | Solo | Solos the Channel. |
 | Mute | Mutes the Channel. |
+| Auto | Cycles through Automation modes on the select |
+| Insert | Assigns plug-in editing to the knobs.  Assign parameters using the Control Link feature in Studio One. |
 | Select | Sets the Channel to the Select state. |
-| Rec | Arms the Channel for recording. |
-| EQ ON/OFF | Toggles EQ on/off for the channel. |
-| Dyn ON/OFF | Toggles dynamics processing on/off for the channel. |
-
-## Fader Strip
-| Control | Function |
-|---------|----------|
-| Fader | Channel level Control. |
-| Aux Faders | Auxiliary send level controls. |
-
-## EQ Section
-| Control | Function |
-|---------|----------|
-| EQ Section | The EQ section provides control over the channel's EQ parameters. |
-| HF Gain | High frequency gain control. |
-| HF Freq | High frequency frequency control. |
-| HMF Gain | High mid frequency gain control. |
-| HMF Freq | High mid frequency frequency control. |
-| HMF Q | High mid frequency Q control. |
-| LMF Gain | Low mid frequency gain control. |
-| LMF Freq | Low mid frequency frequency control. |
-| LMF Q | Low mid frequency Q control. |
-| LF Gain | Low frequency gain control. |
-| LF Freq | Low frequency frequency control. |
-| HPF | High pass filter control. |
-
-## Dynamics Section
-| Control | Function |
-|---------|----------|
-| Dynamics Section | The dynamics section provides control over the channel's dynamics processing. |
-| Threshold | Compressor/gate threshold control. |
-| Ratio | Compressor ratio control. |
-| Attack | Compressor attack control. |
-| Release | Compressor release control. |
-| Gain | Make-up gain control. |
-| Key Listen | Key input monitoring control. |
-
-## Automation
-| Control | Function |
-|---------|----------|
-| Automation | The D-Command provides comprehensive automation control. |
-| Auto Enable | Enables automation for the channel. |
-| Auto Mode | Cycles through automation modes (Off, Read, Touch, Latch, Write). |
-| Auto Safe | Sets automation safe mode for the channel. |
-
-## Bank Buttons
-| Control | Function |
-|---------|----------|
-| Bank L | Moves the channel assignments to the left by the bank size. |
-| Bank R | Moves the channel assignments to the right by the bank size. |
-| Flip | Flips the assignment between faders and encoders. |
-
-## Transport
-| Control | Function |
-|---------|----------|
-| RTZ | Return to zero (beginning of timeline). |
-| REW | Rewind. |
-| FFWD | Fast forward. |
-| STOP | Stop playback/recording. |
-| PLAY | Start playback. |
-| RECORD | Start recording. |
-| Jog Wheel | Jog/shuttle control for precise positioning. |
-
-## Master Section
-| Control | Function |
-|---------|----------|
-| Master Fader | Overall mix level control. |
-| Monitor Level | Control room monitor level. |
-| Headphone Level | Headphone output level. |
-| Talkback | Talkback microphone control. |
-| Slate | Slate microphone control. |
-| Dim | Monitor dim control. |
-| Mono | Monitor mono sum control. |
-
-## Function Keys
-| Control | Function |
-|---------|----------|
-| F1-F8 | Programmable function keys for custom assignments. |
-| Shift | Modifier key for accessing secondary functions. |
-| Alt | Alternative modifier key. |
-| Ctrl | Control modifier key. |
-
-## Display
-| Control | Function |
-|---------|----------|
-| LCD Displays | Channel information and parameter values. |
-| LED Meters | Signal level indication for each channel. |
-| Status LEDs | Automation, solo, mute, and record status indicators. |
+| Knob | Changes the assigned parameter. |
+| Knob Button | Changes the assigned parameter. |
+| Flip | Flips knobs to faders. |
+|  |  |
+| Master Fader Button |  |
+| Master Faders | Toggles last Channel Fader to be Master Fader |
+|  |  |
+| LCD/Display |  |
+| Track Meters | Displays Mono metering for tracks. |
+| Counter | Displays Counter for current session. |
+|  |  |
+| Automation Buttons |  |
+| Read | Sets selected Channel in to Play Mode |
+| Write | Sets selected Channel to Write Mode |
+| Touch | Sets selected Channel to Touch Mode |
+| Off | Sets selected Channel to Manual Mode |
+|  |  |
+| Transport Buttons |  |
+| Play | Starts playhead at current position in Timeline. |
+| Stop | Stops playhead at current position in Timeline. |
+| Record | Starts Record Mode for playhead |
+| Rewind | Move playhead backwards in Timeline. |
+| Fast Forward | Moves playhead forward in Timeline. |
+| RTZ | Go To Beginning |
+| GTE | Go To End |
+| Loop Play | Cycle |
+| Quick Punch | Autopunch |
+| Navigate | Toggles Marker Mode. Use Rewind and Fast Forward to navigate between Markers. Press Record to insert marker. |
+| Audition | Toggles Click |
+| Scrub | Enables Scrub mode for the wheel. |
+| Scroll | Enables Scroll mode for the wheel. |
+|  |  |
+| Utility Buttons |  |
+| Save | Press the Save button to save. |
+|  | Press Shift + Save button to open the Save As dialog. |
+| Undo | Press to undo the last edit. |
+| Redo | Press to redo edit. |
+| Solo Clear | Clears all track Solos in project. |
+|  |  |
+| Group Buttons |  |
+| Suspend | Toggles group suspend. |
+|  |  |
+| Navigation Buttons |  |
+| Up | Scrolls to next track in Arrangement. |
+| Down | Scrolls to previous track in Arrangement. |
+| Left | Scroll to previous track in MIxer. |
+| Right | Scroll to next track in Mixer. |
+| Zoom | Enables Zoom mode for the cursor keys. Left/Right zooms horizontal for the Arrangement window. Up/Down zooms vertical for the Arrangement window. |
+|  |  |
+|  |  |
+| Window Button |  |
+| Mix | Show/Hide the MIxer |
+|  |  |
+| Soft Keys |  |
+| F1 |  |
+| F2 |  |
+| F3 |  |
+| F4 |  |
+| F5 |  |
+| F6 |  |
+| F7 |  |
+| F8 |  |
+|  |  |
+| Edit Buttons |  |
+| Copy | Copy selected region in Arrange Window |
+| Delete | Deletes selected region in Arrange Window |
+| Cut | Cuts selected region in Arrange Window |
+| Paste | Pastes region in Arrange Window |
+|  |  |
+| Modifier Buttons |  |
+| Shift | Enables Shift Modifier. |
+| Option | Enables Option Modifier. |
+| Control | Enables Control Modifier. |
+| Command | Enables Command Modifier. |
+|  |  |
+| Bank Buttons |  |
+| Bank Left | Banks 8 tracks left. |
+| Bank Right | Banks 8 tracks right. |
+| Nudge Left | Scrolls 1 track left. |
+| Nudge Right | Scrolls 1 track right. |

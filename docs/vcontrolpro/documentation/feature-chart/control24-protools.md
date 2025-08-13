@@ -1,9 +1,9 @@
-# C24 ProTools
+# Control24 ProTools
 
 | MIDI Mode |  |
 |---|---|
 | MIDI Mode converts the surfaces faders, knobs, and buttons into assignable MIDI Controls that can be mapped in the DAW. |  |
-| Focus | Toggles surface between DAW Mode and Midi Mode |
+| Mon/0 | Toggles surface between DAW Mode and Midi Mode |
 |  |  |
 | V-Window Mode |  |
 | With the V-Window feature, users can instantly control any plug-ins or controls on screen through their control surface's channel strip with a touch of a button. |  |

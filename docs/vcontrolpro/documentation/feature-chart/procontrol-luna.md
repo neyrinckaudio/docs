@@ -1,4 +1,4 @@
-# Luna with ProControl
+# ProControl Luna
 
 | MIDI Mode |  |
 |---|---|
@@ -12,24 +12,67 @@
 |  | VButton: Use this mode to interact with button controls. The mouse will stay in its place and activate a button press when the fader is touched. |
 |  | VButtonSet: Use this mode to create and cycle through different button set points. With the mouse hovering above the on screen button's position press Shift+Solo on the control surface to set a Pin at that location. Using the fader in this mode will cylce between multiple Pins to use with VButton mode. |
 |  | VWKnob: Use this mode when interacting with knob controls on the plug-ins GUI. |
-|  | VFader: Use this mode when interacting with fader controls on the plug-ins GUI. |
-|  | VXY: Use this mode when interacting with XY Pad controls. |
+|  | VWHSlider: Use this mode when interacting with horizontal slider controls on the plug-ins GUI. |
+|  | VWVSlider: Use this mode when interacting with vertically slider controls on the plug-ins GUI. |
+| Solo | While in V-Window Mode, pressing the Solo button will pin the mouse location and revert to that location any time the fader is touched. Once the fader is released, the mouse is also returned to that pin position. This way it is very easy to pin a parameter and instantly control it without having to worry with the mouse cursor is on the screen. |
+| Select | Use the Select button while in V-Window mode to reset the fader position. |
 |  |  |
 | Track Buttons |  |
-| Solo | Solos the Channel. |
-| Mute | Mutes the Channel. |
+| Record | Arms the assigned audio track of the Channel. |
+| Insert | Assigns plug-in mode to knobs. |
+| EQ (Hold)+Knob Button | Single Cue V-Pot mode. Press and hold the EQ button on a channel strip and then press the specified knob button to display that Cue across all V-pots. |
+| Solo | Solos the Channel (with Momentary mode). |
+| Mute | Mutes the Channel (with Momentary mode). |
 | Select | Sets the Channel to the Select state. |
 | Knob | Changes the assigned parameter. |
-| Meter | Toggles between Right and left channel meter display. |
+| Knob Button | Sets assigned parameter to default value |
+| Solo Clear | When lit, pressing clears all active solos. |
 |  |  |
-| Fader Strip |  |
-| Fader | Channel level Control.  |
+| Bank Mode |  |
+| There are two ways to use the Send Mode button to assign Sends to the knobs. |  |
+| Send A (Hold)+Knob Button | Single Sends V-Pot mode. Press and hold the Send A button and then press the specified knob button to display that Send across all V-pots. |
+| Send A | Expanded Sends V-Pot mode. Press Send A to cycle through Send overview and detail pages, which allow control over the selected track's parameters. |
+| Pan | Assigns pan position to knobs |
 |  |  |
+| Flip | Flips V-Pot control to Faders. |
 |  |  |
-| Knob Mode Buttons |  |
-| The assignment buttons are used to assign controls to the Knobs. |  |
-| Pan (Default) | Assigns Pan to knobs. |
-| Send | Enables Send editing and selection for buttons A-E. |
-| Insert (Console View) | Enables Insert editing for selected track. Use buttons A-E to select plug-in on track to edit. |
-| A | Assigns send 1 to knobs when in Sends mode. Assigns insert 1 of selected track to knobs when in Insert mode. |
-| B | Assigns send 2 to knobs when in Sends mode. Assigns insert 2 of selected track to knobs when in Insert mode.
+| Master Fader Button |  |
+| Master Faders | Press first time to toggle Master fader to be assigned to last fader on controller. Master Fader light will be solid in this mode. |
+|  | Press second time to enable V-Window feature for last fader on controller. Master Fader Light will be flashing in this mode. |
+|  |  |
+| LCD/Display |  |
+| Track Meters | Displays metering for tracks. Currenlty supports one meter per channel. |
+| Counter | Displays Counter for current session. Counter mode can be changed in DAW. |
+|  |  |
+| Automation Buttons |  |
+| Touch | Sets Automation to Touch mode for the selected Channel. |
+| Read | Sets Automation to Read mode for the selected Channel. |
+| Trim | Toggles Trim Mode for the selected Channel. |
+|  |  |
+| Transport Buttons |  |
+| Play | Starts playhead at current position in Timeline. |
+| Stop | Stops playhead at current position in Timeline. (Press twice to Return to Zero) |
+| Record | Starts Record Mode for playhead |
+| Rewind | Move playhead backwards in Timeline. |
+| Fast Forward | Moves playhead forward in Timeline. |
+| RTZ | Moves playhead to start of timeline |
+| GTE | Moves playhead to end of timeline |
+|  |  |
+| The cursor buttons operate in several modes. |  |
+| Zoom | Horizontal and vertical zoom when zoom button is enabled. |
+| Up | Moves up track selection or list/Zooms out vertically |
+| Down | Moves down track selection or list/Zooms in vertically |
+| Left | Moves to previous marker/Zooms out horizontally |
+| Right | Moves to next marker/Zooms in horizontally |
+|  |  |
+| Utility Buttons |  |
+| Save | Press the Save button to save. |
+|  | Press Shift + Save button to open the Save As dialog. |
+| Undo | Press to undo the last edit. |
+| Enter | Confirm selection |
+| Cancel | Cancel selection |
+|  |  |
+| Bank Buttons |  |
+| Bank Left | Banks tracks left/Scrolls 1 track left in Nudge mode |
+| Bank Right | Banks tracks right/Scrolls 1 track right in Nudge mode |
+| Nudge | Toggles Nudge mode On/Off |

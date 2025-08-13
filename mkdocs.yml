@@ -62,6 +62,7 @@ nav:
         - MixBus With D-Command: './vcontrolpro/documentation/feature-chart/dcommand-mixbus.md'
       - C|24:
         - Pro Tools With C|24: './vcontrolpro/documentation/feature-chart/c24-protools.md'
+        - Pro Tools With C|24 New: './vcontrolpro/documentation/feature-chart/c24-protools-converted.md'
         - Logic Pro With C|24: './vcontrolpro/documentation/feature-chart/c24-logic.md'
         - Ableton Live With C|24: './vcontrolpro/documentation/feature-chart/c24-ableton-live.md'
         - MixBus With C|24: './vcontrolpro/documentation/feature-chart/c24-mixbus.md'
@@ -71,7 +72,7 @@ nav:
         - LUNA With C|24: './vcontrolpro/documentation/feature-chart/c24-luna.md'
       - Control 24:
         - Ableton Live With Control 24: './vcontrolpro/documentation/feature-chart/control24-ableton-live.md'
-        - Pro Tools With Control 24: './vcontrolpro/documentation/feature-chart/control24-pro-tools.md'
+        - Pro Tools With Control 24: './vcontrolpro/documentation/feature-chart/control24-protools.md'
         - Logic Pro With Control 24: './vcontrolpro/documentation/feature-chart/control24-logic.md'
         - Ableton Live With Control 24: './vcontrolpro/documentation/feature-chart/control24-ableton-live.md'
         - MixBus With Control 24: './vcontrolpro/documentation/feature-chart/control24-mixbus.md'
@@ -80,7 +81,7 @@ nav:
         - Digital Performer With Control 24: './vcontrolpro/documentation/feature-chart/control24-performer.md'
         - LUNA With Control 24: './vcontrolpro/documentation/feature-chart/control24-luna.md'
       - Pro Control:
-        - Pro Tools With Pro Control: './vcontrolpro/documentation/feature-chart/procontrol-pro-tools.md'
+        - Pro Tools With Pro Control: './vcontrolpro/documentation/feature-chart/procontrol-protools.md'
         - Logic Pro With Pro Control: './vcontrolpro/documentation/feature-chart/procontrol-logic.md'
         - Ableton Live With Pro Control: './vcontrolpro/documentation/feature-chart/procontrol-ableton-live.md'
         - MixBus With Pro Control: './vcontrolpro/documentation/feature-chart/procontrol-mixbus.md'
@@ -89,14 +90,14 @@ nav:
         - Digital Performer With Pro Control: './vcontrolpro/documentation/feature-chart/procontrol-performer.md'
         - LUNA With Pro Control: './vcontrolpro/documentation/feature-chart/procontrol-luna.md'
       - Command 8:
-        - Pro Tools With Command 8: './vcontrolpro/documentation/feature-chart/command8-pro-tools.md'
+        - Pro Tools With Command 8: './vcontrolpro/documentation/feature-chart/command8-protools.md'
         - Logic Pro With Command 8: './vcontrolpro/documentation/feature-chart/command8-logic.md'
         - Ableton Live With Command 8: './vcontrolpro/documentation/feature-chart/command8-ableton-live.md'
         - Studio One With Command 8: './vcontrolpro/documentation/feature-chart/command8-studio-one.md'
         - Cubase / Nuendo With Command 8: './vcontrolpro/documentation/feature-chart/command8-steinberg.md'
         - LUNA With Command 8: './vcontrolpro/documentation/feature-chart/command8-luna.md'
       - Digi 003:
-        - Pro Tools With 003: './vcontrolpro/documentation/feature-chart/003-pro-tools.md'
+        - Pro Tools With 003: './vcontrolpro/documentation/feature-chart/003-protools.md'
         - Logic Pro With 003: './vcontrolpro/documentation/feature-chart/003-logic.md'
         - Ableton Live With 003: './vcontrolpro/documentation/feature-chart/003-ableton-live.md'
         - MixBus With 003: './vcontrolpro/documentation/feature-chart/003-mixbus.md'

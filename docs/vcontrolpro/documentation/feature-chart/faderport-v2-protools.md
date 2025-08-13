@@ -1,78 +1,64 @@
-# Pro Tools Control With FaderPort V2
+# FaderPort V2 ProTools
 
-## Track Buttons
-| Control | Function |
-|---------|----------|
+| Track Buttons |  |
+|---|---|
 | Solo | Solos the Channel. |
 | Mute | Mutes the Channel. |
 | Arm | Arms the assigned audio track of the Channel. |
 | Bypass | Flips knob assignment to be controlled by the fader. |
-
-## Fader Strip
-| Control | Function |
-|---------|----------|
-| Fader | Channel level Control. |
-
-## Knob Assignments
-| Control | Function |
-|---------|----------|
-| Knob Assignments | The knob can be assigned to different parameters using the assignment buttons. |
-| Pan | Assigns Pan to knob. |
-| Send A | Assigns Send A level to knob. |
-| Send B | Assigns Send B level to knob. |
-| Send C | Assigns Send C level to knob. |
-| Send D | Assigns Send D level to knob. |
-| Send E | Assigns Send E level to knob. |
-
-## Bank Buttons
-| Control | Function |
-|---------|----------|
-| Prev/Bank | Moves the channel assignment to the previous track. |
-| Next/Channel | Moves the channel assignment to the next track. |
-
-## Transport
-| Control | Function |
-|---------|----------|
-| Transport | The FaderPort V2 includes basic transport controls for Pro Tools. |
-| STOP | Stop playback. |
-| PLAY | Start playback. |
-| RECORD | Start recording on armed tracks. |
-
-## Automation
-| Control | Function |
-|---------|----------|
-| OFF | Turns automation off for the selected track. |
-| READ | Sets automation to Read mode for the selected track. |
-| WRITE | Sets automation to Write mode for the selected track. |
-| TOUCH | Sets automation to Touch mode for the selected track. |
-| LATCH | Sets automation to Latch mode for the selected track. |
-
-## Edit
-| Control | Function |
-|---------|----------|
-| UNDO | Performs an Undo operation. |
-| SHIFT | Shift modifier for additional functions. |
-| PUNCH | Enables punch recording. |
-| USER | User-assignable function. |
-| LOOP | Enables loop playback. |
-| REWIND | Rewind transport. |
-| FAST FWD | Fast forward transport. |
-
-## Mix Functions
-| Control | Function |
-|---------|----------|
-| MIX | Switches focus to mixer window. |
-| PROJ | Switches focus to project window. |
-| TRNS | Switches focus to transport window. |
-
-## Output
-| Control | Function |
-|---------|----------|
-| OUTPUT | Controls the main output level. |
-
-## Monitor
-| Control | Function |
-|---------|----------|
-| MONO | Toggles mono monitoring. |
-| MUTE | Mutes the monitor output. |
-| DIM | Dims the monitor output. |
+| Shift+Arm | Toggles record arm for all tracks. |
+| Knob | Changes the assigned parameter. |
+| Knob Press | Toggles between Left and Right stereo panners when in Pan mode. |
+|  | Toggles Pre/Post Fader when in Sends mode. |
+| Shift+Knob Button | Resets Pan Position to Center. |
+| Shift+Fader Touch | Resets Fader position to 0. |
+| Prev | Navigates to the previous track. |
+| Next | Navigates to the next track. |
+|  |  |
+| Automation Buttons |  |
+| Hold down Auto button channel strip to select automation modes. |  |
+| Touch | Enables Touch Mode Automation for the selected Channel. |
+| Shift+Touch | Enables Latch Mode Automation for the selected Channel. |
+| Write | Enables Write Mode Automation for the selected Channel. |
+| Shift+Write | Toggles Trim Mode Automation for the selected Channel. |
+| Read | Enables Automation selection. Hold down button to make selection using 2 different methods. |
+| Shift+Read | Enables Off Mode Automation for the selected Channel. |
+|  |  |
+| Knob Mode Buttons With Fader Flip |  |
+| The assignment buttons are used to assign controls to the Knobs. |  |
+| Pan (Default) | Assigns knobs to control pan position. For stereo tracks, press pan button again to access other side. |
+| Master | Assigns Send A to knob. |
+| Click | Assigns Send B to knob. |
+| Section | Assigns Send C to knob. |
+| Shift+Section | Assigns Send D to knob. |
+| Bypass | Flip knob control to fader. |
+|  |  |
+| Fast Focus and Refocus |  |
+| With V-Control Pro, the FaderPort automatically focuses to any track you select. V-Control Pro can widen the bank up to thirty-two tracks for instant focus, and if it loses focus it immediately blinks the Channel button. Simply tap the blinking button to automatically ReFocus. Now you can select any track at any time for a focused FaderPort. |  |
+| Channel | When selecting a track outside of the controlled banks, the Channel button will immediately blink on the Faderport. Press it to ReFocus to that track for control. |
+|  | When a track is selected within the controlled banks, press the channel button to enable the wheel for navigation. |
+|  |  |
+| V-Window Mode |  |
+| Link | Press Link to enable V-Window mode. V-Window mode is compatible with plug-in parameters that are adjustable by clicking and moving the mouse up or down. |
+|  |  |
+| Transport Buttons |  |
+| Play | Starts playhead at current position in Timeline. |
+| Stop | Stops playhead at current position in Timeline. |
+| Record | Starts Record Mode for playhead |
+| Rewind | Move playhead backwards in Timeline. |
+| Shift+Rewind | RTZ |
+| Fast Forward | Moves playhead forward in Timeline. |
+| Shift+Fast Forward | GTE |
+| Loop Play | Enables Loop playback. |
+| Control+Loop Play | Cycle through Record Modes. |
+| Scroll | Pressing one time will enable the knob for Scrub Mode. The Scroll button will be lit up solid in this mode. |
+|  | Pressing Scroll two times will enable the knob for Shuttle Mode. The Scroll button will blinking in this mode. |
+|  |  |
+| Utility |  |
+| Shift+Prev | Undo the last action. |
+| Shift+Next | Redo the last action. |
+| Shift+Master | Toggles between Mix/Edit window. |
+|  |  |
+| Dialog Buttons |  |
+| Prev | Press to Cancel the dialog. |
+| Next | Press to OK the dialog. |
