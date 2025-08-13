@@ -4,8 +4,9 @@
 |---|---|
 | MIDI Mode converts the surfaces faders, knobs, and buttons into assignable MIDI Controls that can be mapped in the DAW. |  |
 | Focus | Toggles surface between DAW Mode and Midi Mode |
-|  |  |
+
 | V-Window Mode |  |
+|---|---|
 | With the V-Window feature, users can instantly control any plug-ins or controls on screen through their control surface's channel strip with a touch of a button. |  |
 | Master Fader | Press once to enable Master Fader control. Press a second time to enable V-Window mode for the 24th channel fader. Press a 3rd time to cycle back to basic channel control. |
 | Mute | While in V-Window mode, the Mute button on the last channel strip will cycle through the various V-Window Modes which are listed below: |
@@ -16,8 +17,9 @@
 |  | VWVSlider: Use this mode when interacting with vertically slider controls on the plug-ins GUI. |
 | Solo | While in V-Window Mode, pressing the Solo button will pin the mouse location and revert to that location any time the fader is touched. Once the fader is released, the mouse is also returned to that pin position. This way it is very easy to pin a parameter and instantly control it without having to worry with the mouse cursor is on the screen. |
 | Select | Use the Select button while in V-Window mode to reset the fader position. |
-|  |  |
+
 | Track Buttons |  |
+|---|---|
 | EQ | Assigns EQ editor for selected channel across channel knobs. Use Channel Bar Scroll buttons to access additional parameters. |
 | Insert | Assigns Plug-in Editor for selected channel across channel knobs. Select plug-in with knob buttons. |
 | Send | Assigns Sends for selected channel across channel knobs. |
@@ -29,8 +31,9 @@
 | Select | Sets the Channel to the Select state. |
 | Knob | Changes the assigned parameter. |
 | Knob Button | Changes the assigned parameter. |
-|  |  |
+
 | Knob Mode Buttons |  |
+|---|---|
 | The assignment buttons are used to assign controls to the Knobs. |  |
 | Pan (Default) | Assigns Pan to knobs. |
 | Send A | Assigns Send 1 to knobs. Assigns Send 6 to knobs when F-J is enabled. Use Channel Bar Scroll Left and Right to switch parameters. |
@@ -45,15 +48,18 @@
 | PrePost | Sets knob buttons to PrePost mode when in Sends Mode. |
 | Send Mute | Sets knob buttons to Send Mute mode when in Sends Mode. |
 | Flip | Flips knobs to faders. |
-|  |  |
+
 | Master Fader Button |  |
+|---|---|
 | Master Faders | Toggles last Channel Fader to be Master Fader |
-|  |  |
+
 | LCD/Display |  |
+|---|---|
 | Track Meters | Displays Stereo metering for tracks. |
 | Counter | Displays Counter for current session. |
-|  |  |
+
 | Automation Buttons |  |
+|---|---|
 | Read | Sets selected Channel in to Read Mode |
 | Write | Sets selected Channel to Write Mode |
 | Touch | Sets selected Channel to Touch Mode |
@@ -64,8 +70,9 @@
 | Mute | Toggles Enable for Mute Automation |
 | Send LvL | Toggles Enable for Send Level Automation |
 | Plug-In | Toggles Enable for Plug-In Automation |
-|  |  |
+
 | Transport Buttons |  |
+|---|---|
 | Play | Starts playhead at current position in Timeline. |
 | Stop | Stops playhead at current position in Timeline. |
 | Record | Starts Record Mode for playhead |
@@ -85,8 +92,9 @@
 | Audition | Toggles Replace |
 | Dyn Trans | Toggles Metronome |
 | Counter Mode Select | Changes Counter Mode in Counter LCD. |
-|  |  |
+
 | Utility Buttons |  |
+|---|---|
 | Save | Press the Save button to save. |
 |  | Press Shift + Save button to open the Save As dialog. |
 | Undo | Press to undo the last edit. |
@@ -94,24 +102,27 @@
 | Enter | Confirm selection |
 | Cancel | Cancel selection |
 | Solo Clear | Clears all track Solos in project. |
-|  |  |
+
 | Group Buttons |  |
+|---|---|
 | Suspend | Toggles group suspend. |
-|  |  |
+
 | Navigation Buttons |  |
+|---|---|
 | Up | Scrolls to next track in Arrangement. |
 | Down | Scrolls to previous track in Arrangement. |
 | Left | Scroll to previous track in MIxer. |
 | Right | Scroll to next track in Mixer. |
 | Zoom | Enables Zoom mode for the cursor keys. Left/Right zooms horizontal for the Arrangement window. Up/Down zooms vertical for the Arrangement window. |
 | Navigate | Enables Marker Mode for the cursor keys. Left/Right navigate between marker, Down creates marker at playhead position. |
-|  |  |
+
 | Plug-in Buttons |  |
+|---|---|
 | Master Bypass | Bypass selected plug-in on Channel. |
 | Params | Show plug-in parameters for selected plug-in on Channel. Press again to display plug-ins on channel across LCD. |
-|  |  |
-|  |  |
+
 | Window Buttons |  |
+|---|---|
 | Mix | Displays Mixer Window |
 | Edit | Displays Arrange Window |
 | MemLoc | Displays Marker Window |
@@ -122,24 +133,28 @@
 | Zoom Preset 3 | Displays Screenset 3 |
 | Zoom Preset 4 | Displays Screenset 4 |
 | Zoom Preset 5 | Displays Screenset 5 |
-|  |  |
+
 | Edit Buttons |  |
+|---|---|
 | Copy | Copy selected region in Arrange Window |
 | Copy+Shift | Deletes selected region in Arrange Window |
 | Copy+Option | Cuts selected region in Arrange Window |
 | Paste | Pastes region in Arrange Window |
-|  |  |
+
 | Modifier Buttons |  |
+|---|---|
 | Shift | Enables Shift Modifier. |
 | Option | Enables Option Modifier. |
 | Control | Enables Control Modifier. |
 | Command | Enables Command Modifier. |
-|  |  |
+
 | Bank Buttons |  |
+|---|---|
 | Bank Left | Banks 24 tracks left/Scrolls 1 track left in Nudge mode |
 | Bank Right | Banks 24 tracks right/Scrolls 1 track right in Nudge mode |
 | Nudge | Toggles Nudge mode On/Off |
-|  |  |
+
 | Monitoring |  |
+|---|---|
 | All | All monitoring features are analog circuits that are always active. |
 | Automatic TalkBack | This C|24 feature is supported. Enable/disable on C|24 by pressing Utility button. |

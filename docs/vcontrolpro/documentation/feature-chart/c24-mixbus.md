@@ -4,8 +4,9 @@
 |---|---|
 | MIDI Mode converts the surfaces faders, knobs, and buttons into assignable MIDI Controls that can be mapped in the DAW. |  |
 | Focus | Toggles surface between DAW Mode and Midi Mode |
-|  |  |
+
 | V-Window Mode |  |
+|---|---|
 | With the V-Window feature, users can instantly control any plug-ins or controls on screen through their control surface's channel strip with a touch of a button. |  |
 | Master Fader | Press once to enable Master Fader control. Press a second time to enable V-Window mode for the 24th channel fader. Press a 3rd time to cycle back to basic channel control. |
 | Mute | While in V-Window mode, the Mute button on the last channel strip will cycle through the various V-Window Modes which are listed below: |
@@ -16,8 +17,9 @@
 |  | VWVSlider: Use this mode when interacting with vertically slider controls on the plug-ins GUI. |
 | Solo | While in V-Window Mode, pressing the Solo button will pin the mouse location and revert to that location any time the fader is touched. Once the fader is released, the mouse is also returned to that pin position. This way it is very easy to pin a parameter and instantly control it without having to worry with the mouse cursor is on the screen. |
 | Select | Use the Select button while in V-Window mode to reset the fader position. |
-|  |  |
+
 | Track Buttons |  |
+|---|---|
 | Record | Arms the assigned audio track of the Channel. |
 | Solo | Solos the Channel |
 | Mute | Mutes the Channel |
@@ -63,8 +65,10 @@
 | Post Roll | Sets Session Start/End from selection |
 | Dyn Trans | Toggles Click |
 | Counter Mode Select | Toggles Counter Display |
-|  |  |
+
 | Record | Arms the assigned audio track of the Channel. |
+|---|---|
+| Solo | Solos the Channel |
 | Solo | Solos the Channel |
 | Mute | Mutes the Channel |
 | Select | Sets the Channel to the Select state. |
@@ -95,16 +99,18 @@
 | Write | Enables Write Automation for the selected track. |
 | Touch | Enables Touch Automation for the selected track. |
 | Off | Enables Off/Manual Automation for the selected track. |
-|  |  |
+
 | Zoom Preset Buttons |  |
+|---|---|
 | The Zoom preset buttons change which tracks are in view on the channel strips. |  |
 | Zoom Preset 1 | Shows only MIDI tracks. Press again to return to default Mixer view. |
 | Zoom Preset 2 | Shows only Audio tracks. Press again to return to default Mixer view. |
 | Zoom Preset 3 | Shows only Busses. Press again to return to default Mixer view. |
 | Zoom Preset 4 | Shows only Aux tracks. Press again to return to default Mixer view. |
 | Zoom Preset 5 | Shows user selected tracks. Press again to return to default Mixer view. |
-|  |  |
+
 | Cursor Buttons |  |
+|---|---|
 | The cursor buttons operate in several modes. |  |
 | Navigate | Enables Marker Mode for the cursor arrows. |
 | Zoom | Enables zoom mode for the cursor keys. |
@@ -116,8 +122,9 @@
 |  | Moves to Previous marker when marker mode is active. |
 | Right | Zooms in Horizontally when zoom mode is active. |
 |  | Moves to Next Marker when marker mode is active. |
-|  |  |
+
 | Utility Buttons |  |
+|---|---|
 | Undo | Press to undo the last edit. |
 | Redo | Press to redo edit. |
 | Save | Saves Session |
@@ -125,8 +132,9 @@
 | Escape | Acts as ESC key. |
 | Do To All | Select All Tracks. |
 | Do To Selected | Deselect All Tracks. |
-|  |  |
+
 | Soft Keys for C|24 |  |
+|---|---|
 | Use the Function Keys editor in the MixBus Mackie Control Protocol Settings Window to assign commands |  |
 | Soft Keys | Switch the knob buttons to act as soft keys. |
 | Knob button 9 | F1 |
@@ -137,8 +145,9 @@
 | Knob button 14 | F6 |
 | Knob button 15 | F7 |
 | Knob button 16 | F8 |
-|  |  |
+
 | Bank Buttons |  |
+|---|---|
 | Bank Left | Banks tracks left/Scrolls 1 track left in Nudge mode |
 | Bank Right | Banks tracks right/Scrolls 1 track right in Nudge mode |
 | Nudge | Toggles Nudge mode On/Off |

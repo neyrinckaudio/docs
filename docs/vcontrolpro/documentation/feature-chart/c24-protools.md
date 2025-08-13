@@ -4,8 +4,9 @@
 |---|---|
 | MIDI Mode converts the surfaces faders, knobs, and buttons into assignable MIDI Controls that can be mapped in the DAW. |  |
 | Focus | Toggles surface between DAW Mode and Midi Mode |
-|  |  |
+
 | V-Window Mode |  |
+|---|---|
 | With the V-Window feature, users can instantly control any plug-ins or controls on screen through their control surface's channel strip with a touch of a button. |  |
 | Master Fader | Press once to enable V-Window mode for the 24th channel fader. Press a 2nd time to cycle back to basic channel control. |
 | Mute | While in V-Window mode, the Mute button on the last channel strip will cycle through the various V-Window Modes which are listed below: |
@@ -16,8 +17,9 @@
 |  | VWVSlider: Use this mode when interacting with vertically slider controls on the plug-ins GUI. |
 | Solo | While in V-Window Mode, pressing the Solo button will pin the mouse location and revert to that location any time the fader is touched. Once the fader is released, the mouse is also returned to that pin position. This way it is very easy to pin a parameter and instantly control it without having to worry with the mouse cursor is on the screen. |
 | Select | Use the Select button while in V-Window mode to reset the fader position. |
-|  |  |
+
 | Track Buttons |  |
+|---|---|
 | Record | Arms the assigned audio track of the Channel. |
 | Insert | Enables insert editor for selected Channel. |
 | Solo | Solos the Channel. |
@@ -29,8 +31,9 @@
 | Knob | Changes the assigned parameter. |
 | Knob Button | Sets assign selection/Toggles insert parameters/Toggles prepost/Toggles Send Mute |
 | Master Record | Record Enables all available channels. |
-|  |  |
+
 | Knob Mode Buttons |  |
+|---|---|
 | The assignment buttons are used to assign controls to the Knobs. |  |
 | Pan (Default) | Assigns knobs to control pan position. For stereo tracks, press pan button again to access other side. |
 | Send A | Assigns Send A to knobs. |
@@ -45,13 +48,14 @@
 | Send Mute | Sets knob buttons to Send Mute mode when in Sends Mode. |
 | Insert Bypass | Enables Bypass mode. Bypass mode assigns Insert button on channel strip to bypass all inserts. |
 | Flip | Flips knobs to faders. |
-|  |  |
+
 | LCD/Display |  |
+|---|---|
 | Track Meters | Displays Stereo metering for tracks. |
 | Counter | Displays Counter for current session. Counter mode can be changed in DAW. |
-|  |  |
-|  |  |
+
 | Automation Buttons |  |
+|---|---|
 | Hold down Auto button channel strip to select automation modes. |  |
 | Read | Sets selected Channel in to Read Mode |
 | Write | Sets selected Channel to Write Mode |
@@ -67,8 +71,9 @@
 | Write to Start | Enable Write to Start Automation. |
 | Wrtie to End | Enable Write to End Automation. |
 | Write to All | Enable Write to All Automation. |
-|  |  |
+
 | Transport Buttons |  |
+|---|---|
 | Play | Starts playhead at current position in Timeline. |
 | Stop | Stops playhead at current position in Timeline. |
 | Record | Starts Record Mode for playhead |

@@ -6,8 +6,9 @@
 | EQ Section | All encoders are assigned to Midi Mode |
 | Dyn Section | All encoders are assigned to Midi Mode |
 | Top Row Encoders | All encoders are assigned to Midi Mode |
-|  |  |
+
 | V-Window Mode |  |
+|---|---|
 | With the V-Window feature, users can instantly control any plug-ins or controls on screen through their control surface's channel strip with a touch of a button. |  |
 | Master Fader | Press once to enable Master Fader control. Press a second time to enable V-Window mode for the last channel fader. Press a 3rd time to cycle back to basic channel control. |
 | Mute | While in V-Window mode, the Mute button on the last channel strip will cycle through the various V-Window Modes which are listed below: |
@@ -18,8 +19,9 @@
 |  | VWVSlider: Use this mode when interacting with vertically slider controls on the plug-ins GUI. |
 | Solo | While in V-Window Mode, pressing the Solo button will pin the mouse location and revert to that location any time the fader is touched. Once the fader is released, the mouse is also returned to that pin position. This way it is very easy to pin a parameter and instantly control it without having to worry with the mouse cursor is on the screen. |
 | Select | Use the Select button while in V-Window mode to reset the fader position. |
-|  |  |
+
 | Track Buttons |  |
+|---|---|
 | Pan | Assigns Pan control to the knobs. |
 | Insert | Assigns Plug-in Editor for selected channel across channel knobs. Select plug-in with knob buttons. |
 | Send | Assigns Sends to knobs. Press repeatedly to cycle through additional sends. |
@@ -32,21 +34,25 @@
 | Knob | Changes the assigned parameter. |
 | Knob Button | Changes the assigned parameter. |
 | Flip | Flips knobs to faders. |
-|  |  |
+
 | Master Fader Button |  |
+|---|---|
 | Master Faders | Toggles last Channel Fader to be Master Fader |
-|  |  |
+
 | LCD/Display |  |
+|---|---|
 | Track Meters | Displays Mono metering for tracks. |
 | Counter | Displays Counter for current session. |
-|  |  |
+
 | Automation Buttons |  |
+|---|---|
 | Read | Sets selected Channel in to Play Mode |
 | Write | Sets selected Channel to Write Mode |
 | Touch | Sets selected Channel to Touch Mode |
 | Off | Sets selected Channel to Manual Mode |
-|  |  |
+
 | Transport Buttons |  |
+|---|---|
 | Play | Starts playhead at current position in Timeline. |
 | Stop | Stops playhead at current position in Timeline. |
 | Record | Starts Record Mode for playhead |
@@ -60,29 +66,33 @@
 | Audition | Toggles Click |
 | Scrub | Enables Scrub mode for the wheel. |
 | Scroll | Enables Scroll mode for the wheel. |
-|  |  |
+
 | Utility Buttons |  |
+|---|---|
 | Save | Press the Save button to save. |
 |  | Press Shift + Save button to open the Save As dialog. |
 | Undo | Press to undo the last edit. |
 | Redo | Press to redo edit. |
 | Solo Clear | Clears all track Solos in project. |
-|  |  |
+
 | Group Buttons |  |
+|---|---|
 | Suspend | Toggles group suspend. |
-|  |  |
+
 | Navigation Buttons |  |
+|---|---|
 | Up | Scrolls to next track in Arrangement. |
 | Down | Scrolls to previous track in Arrangement. |
 | Left | Scroll to previous track in MIxer. |
 | Right | Scroll to next track in Mixer. |
 | Zoom | Enables Zoom mode for the cursor keys. Left/Right zooms horizontal for the Arrangement window. Up/Down zooms vertical for the Arrangement window. |
-|  |  |
-|  |  |
+
 | Window Button |  |
+|---|---|
 | Mix | Show/Hide the MIxer |
-|  |  |
+
 | Soft Keys |  |
+|---|---|
 | F1 |  |
 | F2 |  |
 | F3 |  |
@@ -91,20 +101,23 @@
 | F6 |  |
 | F7 |  |
 | F8 |  |
-|  |  |
+
 | Edit Buttons |  |
+|---|---|
 | Copy | Copy selected region in Arrange Window |
 | Delete | Deletes selected region in Arrange Window |
 | Cut | Cuts selected region in Arrange Window |
 | Paste | Pastes region in Arrange Window |
-|  |  |
+
 | Modifier Buttons |  |
+|---|---|
 | Shift | Enables Shift Modifier. |
 | Option | Enables Option Modifier. |
 | Control | Enables Control Modifier. |
 | Command | Enables Command Modifier. |
-|  |  |
+
 | Bank Buttons |  |
+|---|---|
 | Bank Left | Banks 8 tracks left. |
 | Bank Right | Banks 8 tracks right. |
 | Nudge Left | Scrolls 1 track left. |
