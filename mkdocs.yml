@@ -63,6 +63,7 @@ nav:
       - Others: './vcontrolpro/documentation/feature-charts.md'
     - Troubleshooting: './vcontrolpro/documentation/troubleshooting.md'
     - Additional Resources: './vcontrolpro/documentation/getting-help.md'
+    - Release Notes: './vcontrolpro/documentation/release-notes.md'
   - Plug-Ins:
     - Spill:
       - Welcome To Spill: './spill/guide/index.md'
