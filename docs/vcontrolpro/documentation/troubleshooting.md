@@ -8,6 +8,9 @@ V-Control Pro needs to be licensed for most systems, using either a trial licens
 !!! note "RAVEN Info"
     RAVEN users do not need to use a V-Control Pro license.
 
+!!! note "Legacy iPad App V 1.9 Info"
+    The original V-Control Pro iPad app (version 1.9) users do not need to use a V-Control Pro license.
+
 #### Check If V-Control Pro Is Licensed
 
 * Launch V-Control Pro
