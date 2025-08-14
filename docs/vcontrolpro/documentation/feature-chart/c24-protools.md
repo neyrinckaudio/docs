@@ -54,7 +54,7 @@
 | Wrtie to End | Enable Write to End Automation. |
 | Write to All | Enable Write to All Automation. |
 
-| Transport Buttons |  |
+| Transport |  |
 |---|---|
 | Play | Starts playhead at current position in Timeline. |
 | Stop | Stops playhead at current position in Timeline. |

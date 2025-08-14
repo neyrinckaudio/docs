@@ -66,7 +66,7 @@
 | Master Bypass | F7 |
 | ESC | F8 |
 
-| Transport Buttons |  |
+| Transport |  |
 |---|---|
 | Play | Starts playhead at current position in Timeline. |
 | Stop | Stops playhead at current position in Timeline. (Press twice to Return to Zero) |

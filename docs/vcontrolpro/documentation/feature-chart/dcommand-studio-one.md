@@ -32,7 +32,7 @@
 | Latch | Sets selected Channel to Latch Mode |
 | Off | Sets selected Channel to Off Mode |
 
-| Transport Buttons |  |
+| Transport |  |
 |---|---|
 | Play | Starts playhead at current position in Timeline. |
 | Stop | Stops playhead at current position in Timeline. |

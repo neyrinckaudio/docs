@@ -46,7 +46,7 @@
 | EQ | Toggle Enable Send Mute Automation |
 | Plugin | Toggle Enable Plugin Automation |
 
-| Transport Buttons |  |
+| Transport |  |
 |---|---|
 | Play | Starts playhead at current position in Timeline. |
 | Stop | Stops playhead at current position in Timeline. |

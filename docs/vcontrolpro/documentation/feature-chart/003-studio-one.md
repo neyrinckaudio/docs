@@ -44,7 +44,7 @@
 | Latch | Sets Automation to Latch mode for the selected Channel. |
 | Read | Sets Automation to Read mode for the selected Channel. |
 
-| Transport Buttons |  |
+| Transport |  |
 |---|---|
 | Play | Starts playhead at current position in Timeline. |
 | Stop | Stops playhead at current position in Timeline. (Press twice to Return to Zero) |

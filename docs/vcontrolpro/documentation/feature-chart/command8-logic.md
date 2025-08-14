@@ -34,7 +34,7 @@
 | Track Meter | Displays metering for tracks. Press Meter button to toggle between left and right meters. |
 | Counter | Displays Counter for current session. |
 
-| Transport Buttons |  |
+| Transport |  |
 |---|---|
 | Play | Starts playhead at current position in Timeline. |
 | Stop | Stops playhead at current position in Timeline. |

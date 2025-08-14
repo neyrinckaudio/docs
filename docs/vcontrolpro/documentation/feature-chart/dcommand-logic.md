@@ -53,7 +53,7 @@
 | Send LvL | Toggles Enable for Send Level Automation |
 | Plug-In | Toggles Enable for Plug-In Automation |
 
-| Transport Buttons |  |
+| Transport |  |
 |---|---|
 | Play | Starts playhead at current position in Timeline. |
 | Stop | Stops playhead at current position in Timeline. |

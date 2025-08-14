@@ -33,7 +33,7 @@
 | A | Standard Track view and control |
 | B | Automation view and control for selected tracks. |
 
-| Transport Buttons |  |
+| Transport |  |
 |---|---|
 | Play | Starts playhead at current position in Timeline. |
 | Stop | Stops playhead at current position in Timeline. (Press twice to Return to Zero) |

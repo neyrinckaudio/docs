@@ -41,7 +41,7 @@
 | Channel | When selecting a track outside of the controlled banks, the Channel button will immediately blink on the Faderport. Press it to ReFocus to that track for control. |
 |  | When a track is selected within the controlled banks, press the channel button to enable the wheel for navigation. |
 
-| Transport Buttons |  |
+| Transport |  |
 |---|---|
 | Play | Starts playhead at current position in Timeline. |
 | Stop | Stops playhead at current position in Timeline. |

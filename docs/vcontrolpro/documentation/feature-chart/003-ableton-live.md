@@ -37,7 +37,7 @@
 | Track Meters | Displays Stereo metering for tracks. |
 | Counter | Displays Counter for current session. |
 
-| Transport Buttons |  |
+| Transport |  |
 |---|---|
 | Play | Starts playhead at current position in Timeline. |
 | Stop | Stops playhead at current position in Timeline. |

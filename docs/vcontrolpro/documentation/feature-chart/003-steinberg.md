@@ -50,7 +50,7 @@
 | Track Meters | Displays Stereo metering for tracks. |
 | Counter | Displays Counter for current session. Counter mode can be changed in DAW. |
 
-| Transport Buttons |  |
+| Transport |  |
 |---|---|
 | Play | Starts playhead at current position in Timeline. |
 | Stop | Stops playhead at current position in Timeline. |

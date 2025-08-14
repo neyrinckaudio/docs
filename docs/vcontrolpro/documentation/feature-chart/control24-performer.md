@@ -42,7 +42,7 @@
 | Read | Sets Automation to Read mode for the selected Channel. |
 | Trim | Sets Automation to Trim Touch mode for selected Channel. |
 
-| Transport Buttons |  |
+| Transport |  |
 |---|---|
 | Play | Starts playhead at current position in Timeline. |
 | Stop | Stops playhead at current position in Timeline. (Press twice to Return to Zero) |

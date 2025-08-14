@@ -31,7 +31,7 @@
 | Touch | Sets selected Channel to Touch Mode |
 | Off | Sets selected Channel to Manual Mode |
 
-| Transport Buttons |  |
+| Transport |  |
 |---|---|
 | Play | Starts playhead at current position in Timeline. |
 | Stop | Stops playhead at current position in Timeline. |

@@ -30,7 +30,7 @@
 | Track Meters | Displays metering for tracks. Currenlty supports one meter per channel. |
 | Counter | Displays Counter for current session. Counter mode can be changed in DAW. |
 
-| Transport Buttons |  |
+| Transport |  |
 |---|---|
 | Play | Starts playhead at current position in Timeline. |
 | Stop | Stops playhead at current position in Timeline. (Press twice to Return to Zero) |
