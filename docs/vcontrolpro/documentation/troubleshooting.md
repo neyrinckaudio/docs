@@ -1,5 +1,10 @@
 # Troubleshooting
 
+<a id="step-0"></a>
+## Update Your Old Version
+
+If you are using an old version of V-Control Pro, it might not support the surface you are trying to use. Installer downloads are available at the [Neyrinck Downloads Page](https://neyrinck.com/downloads/v-control-pro).
+
 <a id="step-1"></a>
 ## Verify The License
 
