@@ -41,10 +41,6 @@
 | Channel | When selecting a track outside of the controlled banks, the Channel button will immediately blink on the Faderport. Press it to ReFocus to that track for control. |
 |  | When a track is selected within the controlled banks, press the channel button to enable the wheel for navigation. |
 
-| V-Window Mode |  |
-|---|---|
-| Link | Press Link to enable V-Window mode. V-Window mode is compatible with plug-in parameters that are adjustable by clicking and moving the mouse up or down. |
-
 | Transport Buttons |  |
 |---|---|
 | Play | Starts playhead at current position in Timeline. |
@@ -69,3 +65,7 @@
 |---|---|
 | Prev | Press to Cancel the dialog. |
 | Next | Press to OK the dialog. |
+
+| V-Window Mode |  |
+|---|---|
+| Link | Press Link to enable V-Window mode. V-Window mode is compatible with plug-in parameters that are adjustable by clicking and moving the mouse up or down. |

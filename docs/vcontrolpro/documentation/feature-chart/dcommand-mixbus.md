@@ -1,25 +1,5 @@
 # D-Command Mixbus
 
-| Midi Mode | V-Control Midi Mode port connects surface as a Midi controller |
-|---|---|
-| MIDI Events List | Toggles surface between DAW Mode and Midi Mode |
-| EQ Section | All encoders are assigned to Midi Mode |
-| Dyn Section | All encoders are assigned to Midi Mode |
-| Top Row Encoders | All encoders are assigned to Midi Mode |
-
-| V-Window Mode |  |
-|---|---|
-| With the V-Window feature, users can instantly control any plug-ins or controls on screen through their control surface's channel strip with a touch of a button. |  |
-| Master Fader | Press once to enable Master Fader control. Press a second time to enable V-Window mode for the last channel fader. Press a 3rd time to cycle back to basic channel control. |
-| Mute | While in V-Window mode, the Mute button on the last channel strip will cycle through the various V-Window Modes which are listed below: |
-|  | VButton: Use this mode to interact with button controls. The mouse will stay in its place and activate a button press when the fader is touched. |
-|  | VButtonSet: Use this mode to create and cycle through different button set points. With the mouse hovering above the on screen button's position press Shift+Solo on the control surface to set a Pin at that location. Using the fader in this mode will cylce between multiple Pins to use with VButton mode. |
-|  | VWKnob: Use this mode when interacting with knob controls on the plug-ins GUI. |
-|  | VWHSlider: Use this mode when interacting with horizontal slider controls on the plug-ins GUI. |
-|  | VWVSlider: Use this mode when interacting with vertically slider controls on the plug-ins GUI. |
-| Solo | While in V-Window Mode, pressing the Solo button will pin the mouse location and revert to that location any time the fader is touched. Once the fader is released, the mouse is also returned to that pin position. This way it is very easy to pin a parameter and instantly control it without having to worry with the mouse cursor is on the screen. |
-| Select | Use the Select button while in V-Window mode to reset the fader position. |
-
 | Track Buttons |  |
 |---|---|
 | Pan | Assigns Pan control to the knobs. |
@@ -122,3 +102,23 @@
 | Bank Right | Banks 8 tracks right. |
 | Nudge Left | Scrolls 1 track left. |
 | Nudge Right | Scrolls 1 track right. |
+
+| V-Window Mode |  |
+|---|---|
+| With the V-Window feature, users can instantly control any plug-ins or controls on screen through their control surface's channel strip with a touch of a button. |  |
+| Master Fader | Press once to enable Master Fader control. Press a second time to enable V-Window mode for the last channel fader. Press a 3rd time to cycle back to basic channel control. |
+| Mute | While in V-Window mode, the Mute button on the last channel strip will cycle through the various V-Window Modes which are listed below: |
+|  | VButton: Use this mode to interact with button controls. The mouse will stay in its place and activate a button press when the fader is touched. |
+|  | VButtonSet: Use this mode to create and cycle through different button set points. With the mouse hovering above the on screen button's position press Shift+Solo on the control surface to set a Pin at that location. Using the fader in this mode will cylce between multiple Pins to use with VButton mode. |
+|  | VWKnob: Use this mode when interacting with knob controls on the plug-ins GUI. |
+|  | VWHSlider: Use this mode when interacting with horizontal slider controls on the plug-ins GUI. |
+|  | VWVSlider: Use this mode when interacting with vertically slider controls on the plug-ins GUI. |
+| Solo | While in V-Window Mode, pressing the Solo button will pin the mouse location and revert to that location any time the fader is touched. Once the fader is released, the mouse is also returned to that pin position. This way it is very easy to pin a parameter and instantly control it without having to worry with the mouse cursor is on the screen. |
+| Select | Use the Select button while in V-Window mode to reset the fader position. |
+
+| Midi Mode | V-Control Midi Mode port connects surface as a Midi controller |
+|---|---|
+| MIDI Events List | Toggles surface between DAW Mode and Midi Mode |
+| EQ Section | All encoders are assigned to Midi Mode |
+| Dyn Section | All encoders are assigned to Midi Mode |
+| Top Row Encoders | All encoders are assigned to Midi Mode |
