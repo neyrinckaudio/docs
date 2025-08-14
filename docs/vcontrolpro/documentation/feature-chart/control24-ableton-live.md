@@ -4,8 +4,9 @@
 |---|---|
 | MIDI Mode converts the surfaces faders, knobs, and buttons into assignable MIDI Controls that can be mapped in the DAW. |  |
 | Mon/0 | Toggles surface between DAW Mode and Midi Mode |
-|  |  |
+
 | V-Window Mode |  |
+|---|---|
 | With the V-Window feature, users can instantly control any plug-ins or controls on screen through their control surface's channel strip with a touch of a button. |  |
 | Master Fader | Press once to enable Master Fader control. Press a second time to enable V-Window mode for the 24th channel fader. Press a 3rd time to cycle back to basic channel control. |
 | Mute | While in V-Window mode, the Mute button on the last channel strip will cycle through the various V-Window Modes which are listed below: |
@@ -16,8 +17,9 @@
 |  | VWVSlider: Use this mode when interacting with vertically slider controls on the plug-ins GUI. |
 | Solo | While in V-Window Mode, pressing the Solo button will pin the mouse location and revert to that location any time the fader is touched. Once the fader is released, the mouse is also returned to that pin position. This way it is very easy to pin a parameter and instantly control it without having to worry with the mouse cursor is on the screen. |
 | Select | Use the Select button while in V-Window mode to reset the fader position. |
-|  |  |
+
 | Track Buttons |  |
+|---|---|
 | Record | Arms the assigned audio track of the Channel. |
 | Solo | Solos the Channel |
 | Mute | Mutes the Channel |
@@ -26,6 +28,7 @@
 | Knob Button | Sets assigned parameter to default value |
 |  | When in Plug-In Mode, selects plug-in to edit. |
 | Knob Mode Buttons |  |
+|---|---|
 | The assignment buttons are used to assign controls to the Knobs. |  |
 | Pan (Default) | Shows the track names in the LED strip and assigns Knobs to Channel Pan. |
 | Send A,B,C,D,E | Assigns Knob to Sends |
@@ -35,15 +38,18 @@
 | Insert/Params | Sets the V-Pots to PlugIn Edit mode. |
 | Flip | Flips knob assignment to faders. |
 | Show Channel Names | Shows Track names when in Plug-in Edit mode. |
-|  |  |
+
 | Master Fader Button |  |
+|---|---|
 | Master Faders | Toggles last Channel Fader to be Master Fader |
-|  |  |
+
 | LCD/Display |  |
+|---|---|
 | Track Meters | Displays metering for tracks. Currenlty supports one meter per channel. |
 | Counter | Displays Counter for current session. Counter mode can be changed in DAW. |
-|  |  |
+
 | Transport Buttons |  |
+|---|---|
 | Play | Starts playhead at current position in Timeline. |
 | Stop | Stops playhead at current position in Timeline. (Press twice to Return to Zero) |
 | Record | Starts Record Mode for playhead |
@@ -53,16 +59,18 @@
 | In | Toggles Punch In for Arrangement |
 | Out | Toggles Punch Out for Arrangement |
 | Counter Mode Select | Toggles Counter Display |
-|  |  |
+
 | Trigger Buttons |  |
+|---|---|
 | Post Roll | Triggers selected Clip to play. |
 | Quick Punch | Triggers selected Scene to play. |
 | PrePost | Triggers selected Scene to play. |
 | Scrub | Triggers selected Scene to play. |
 | Send Mute | Stops all clips. |
 | Ext Trans | Triggers Back to Arrangement when in clip play. |
-|  |  |
+
 | Cursor Buttons |  |
+|---|---|
 | The cursor buttons operate in several modes. |  |
 | Zoom | Switches cursor keys to Zoom mode. |
 | Navigate | Switches cursor keys to Marker mode. |
@@ -75,19 +83,22 @@
 | Right | Moves Right Selection in Session View. |
 |  | Zooms In in Arrangement View |
 |  | Moves to Next Marker in Arrangement. |
-|  |  |
+
 | Wheel Modes |  |
+|---|---|
 | There are two modes to use with the wheel |  |
 | Scrub | Changes the Wheel to Scene mode. Wheel moves up and down the scenes in Session view. |
 | Shuttle | Changes the Wheel to Navigation mode.  Wheel moves playhead forward and back through timeline. |
-|  |  |
+
 | Utility Buttons |  |
+|---|---|
 | Undo | Press to undo the last edit. |
 | Shift+Undo | Press to redo edit. |
 | Pencil Tool | Toggles Draw |
 | Grab Tool | Toggles Follow |
-|  |  |
+
 | Soft Keys for Control|24 |  |
+|---|---|
 | Use the Ableton Live MIDI mapping mode to map keys to functions. |  |
 | F1 | Maps F#2 key |
 | F2 | Maps G2 key |
@@ -99,9 +110,10 @@
 | F8 | Maps C#3 key |
 | F9 | Maps D3 key |
 | F10 | Maps D#3 key |
-|  |  |
-|  |  |
+
+
 | Bank Buttons |  |
+|---|---|
 | Bank Left | Banks tracks left/Scrolls 1 track left in Nudge mode |
 | Bank Right | Banks tracks right/Scrolls 1 track right in Nudge mode |
 | Nudge | Toggles Nudge mode On/Off |

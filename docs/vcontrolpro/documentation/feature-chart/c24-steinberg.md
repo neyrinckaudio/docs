@@ -4,8 +4,9 @@
 |---|---|
 | MIDI Mode converts the surfaces faders, knobs, and buttons into assignable MIDI Controls that can be mapped in the DAW. |  |
 | Focus | Toggles surface between DAW Mode and Midi Mode |
-|  |  |
+
 | V-Window Mode |  |
+|---|---|
 | With the V-Window feature, users can instantly control any plug-ins or controls on screen through their control surface's channel strip with a touch of a button. |  |
 | Master Fader | Press once to enable Master Fader control. Press a second time to enable V-Window mode for the 24th channel fader. Press a 3rd time to cycle back to basic channel control. |
 | Mute | While in V-Window mode, the Mute button on the last channel strip will cycle through the various V-Window Modes which are listed below: |
@@ -16,8 +17,9 @@
 |  | VWVSlider: Use this mode when interacting with vertically slider controls on the plug-ins GUI. |
 | Solo | While in V-Window Mode, pressing the Solo button will pin the mouse location and revert to that location any time the fader is touched. Once the fader is released, the mouse is also returned to that pin position. This way it is very easy to pin a parameter and instantly control it without having to worry with the mouse cursor is on the screen. |
 | Select | Use the Select button while in V-Window mode to reset the fader position. |
-|  |  |
+
 | Channel Strip Buttons |  |
+|---|---|
 | EQ | Assigns EQ editor for selected channel across channel knobs. Use Channel Bar Scroll buttons to access additional parameters. |
 | Insert | Assigns Plug-in Editor for selected channel across channel knobs. Use Channel Bar Scroll buttons to access plug-in parameters. |
 | Send | Assigns Sends for selected channel across channel knobs. |
@@ -28,8 +30,9 @@
 | Select | Sets the Channel to the Select state. |
 | Knob | Changes the assigned parameter. |
 | Knob Button |  |
-|  |  |
+
 | Knob Mode Buttons |  |
+|---|---|
 | The assignment buttons are used to assign controls to the Knobs. |  |
 | Pan (Default) | Shows pan position in LED Strip. Knob controls pan position. |
 | Send A | Assigns Send 1 to knobs. Assigns Send 6 to knobs when F-J is enabled. Use Channel Bar Scroll Left and Right to switch parameters. |
@@ -52,16 +55,18 @@
 |  | 5th parameter is phase invert. |
 | Softkeys | Assigns knob buttons on Channel strips to be soft key buttons. |
 | Flip | Flips knobs to faders. |
-|  |  |
+
 | Master Faders |  |
+|---|---|
 | Master Faders | Enables Master Fader control on the 24th channel of C|24. |
-|  |  |
+
 | LCD/Display |  |
+|---|---|
 | Track Meters | Displays Stereo metering for tracks. |
 | Counter | Displays Counter for current session. Counter mode can be changed in DAW. |
-|  |  |
-|  |  |
+
 | Automation Buttons |  |
+|---|---|
 | Write | Toggles Write automation for all channels. |
 | Touch | Sets Automation to Touch automation for all channels. When in Touch mode, pressing again enables Cross-over automation mode. |
 | Latch | Sets Automation to Latch mode for all channels. When in Latch mode, pressing again enables Cross-over automation mode. |
@@ -70,8 +75,9 @@
 | Write To End | Enables Write To End Automation. |
 | Write To All | Enables Loop Automation. |
 | Auto Suspend | Suspends Automation |
-|  |  |
+
 | Automation Enable Buttons |  |
+|---|---|
 | There is no indication if Automation enables are On/Off |  |
 | Vol | Toggle Enable Volume Automation |
 | Pan | Toggle Enable Pan Automation |
@@ -79,8 +85,9 @@
 | Sends | Toggle Enable Sends Automation |
 | EQ | Toggle Enable Send Mute Automation |
 | Plugin | Toggle Enable Plugin Automation |
-|  |  |
+
 | Transport Buttons |  |
+|---|---|
 | Play | Starts playhead at current position in Timeline. |
 | Stop | Stops playhead at current position in Timeline. |
 | Record | Starts Record Mode for playhead |
@@ -94,26 +101,30 @@
 | Mark Out | Sets end point of selection in Timeline. |
 | Loop Play/Loop Rec | Toggles Loop mode for loop selection in Timeline. |
 | Quick Punch | Toggles Punch mode for selection in Timeline. |
-|  |  |
+
 | Edit Buttons |  |
+|---|---|
 | Copy | Copy Selected Region |
 | Copy+Option | Cut Selected Region |
 | Copy+Shift | Delete Selected Region |
 | Copy+Control | Duplicate Selected Region |
 | Copy+Command | Separate Region at Playhead |
 | Paste | Paste Region |
-|  |  |
+
 | Utility Buttons |  |
+|---|---|
 | Save | Save the current session. |
 | Undo | Undo the last action. |
 | Redo | Redo the last action. |
-|  |  |
+
 | Window Buttons |  |
+|---|---|
 | Mix | Opens MixConsole Window |
 | WinCfg | Opens Status Window |
 | Memloc | Opens Memory Locator Window |
-|  |  |
+
 | Navigation Buttons/Wheel |  |
+|---|---|
 | There are several different modes available for the cursor keys and wheel. |  |
 | Scrub | Enables Scrub mode for the wheel. |
 | Shuttle | Enables Shuttle Mode for the wheel. |
@@ -122,22 +133,27 @@
 | Zoom+Shift | Enables Track Zoom for the wheel and cursor keys. Track zoom increases/decreases track height. |
 | Zoom+Option | Enables Wave Zoom for the wheel and cursor keys. Wave zoom increases waveform view in region. |
 | Trim | Enables Nudge trim mode for the wheel and cursor keys. Use Left/Right cursor keys to change between start/end of region.  Use Up/Down cursor keys or wheel to trim. |
-|  |  |
+
 | Softkeys Button |  |
+|---|---|
 | Softkeys | Enables the knob buttons on the channel strips to become softkeys.  Softkeys can be mapped in the Studio Setups window of Cubase when the C|24 is selected. |
-|  |  |
+
 | View Buttons |  |
+|---|---|
 | Focus | Toggles Banking mode follow for Bank and Scroll buttons. |
 |  | When Follow mode is on, Mixer in Cubase moves to match what is shown on Control surface. (Must have track count in Cubase view match control surface layout.) |
-|  |  |
+
 | Bank Buttons |  |
+|---|---|
 | Bank Left | Banks tracks left/Scrolls 1 track left in Nudge mode |
 | Bank Right | Banks tracks right/Scrolls 1 track right in Nudge mode |
 | Nudge | Toggles Nudge mode On/Off |
-|  |  |
+
 | Output Meters |  |
+|---|---|
 | Output Meters | Displays the Master Meter. |
-|  |  |
+
 | Monitoring |  |
+|---|---|
 | All | All monitoring features are analog circuits that are always active. |
 | Automatic TalkBack | This C|24 feature is supported. Enable/disable on C|24 by pressing Utility button. |

@@ -12,8 +12,9 @@
 |  | VWVSlider: Use this mode when interacting with vertically slider controls on the plug-ins GUI. |
 | Solo | While in V-Window Mode, pressing the Solo button will pin the mouse location and revert to that location any time the fader is touched. Once the fader is released, the mouse is also returned to that pin position. This way it is very easy to pin a parameter and instantly control it without having to worry with the mouse cursor is on the screen. |
 | Select | Use the Select button while in V-Window mode to reset the fader position. |
-|  |  |
+
 | Track Buttons |  |
+|---|---|
 | Record | Arms the assigned audio track of the Channel. |
 | Solo | Solos the Channel (with Momentary mode). |
 | Mute | Mutes the Channel (with Momentary mode). |
@@ -22,8 +23,9 @@
 | Knob | Changes the assigned parameter. |
 | Default+Select | Sets assigned parameter to default value |
 | Display Mode | Changes display on LCD to show parameters |
-|  |  |
+
 | Knob Mode Buttons |  |
+|---|---|
 | The assignment buttons are used to assign controls to the Knobs. |  |
 | Pan (Default) | Shows the track names in the LED strip and assigns Knobs to Channel Pan. |
 | Send | Assigns Knob to Sends |
@@ -35,15 +37,18 @@
 | D | Soft Keys Mode (Use channel view buttons) |
 | Insert | Sets the V-Pots to Control Link mode. |
 | Flip | Flips knob assignment to faders. |
-|  |  |
+
 | Master Fader Button |  |
+|---|---|
 | Master Faders | Toggles last Channel Fader to be Master Fader |
-|  |  |
+
 | LCD/Display |  |
+|---|---|
 | Track Meters | Displays metering for tracks. Currenlty supports one meter per channel. |
 | Counter | Displays Counter for current session. Counter mode can be changed in DAW. |
-|  |  |
+
 | Channel Type Selection Mode |  |
+|---|---|
 | When Console Mode B is selected, Channel View buttons change Channel Type |  |
 | EQ | Sets Channel view to All Types. |
 | Dynamics | Sets Channel view to Audio Tracks only. |
@@ -52,16 +57,18 @@
 | Page Left | Sets Channel View to Bus Track only. |
 | Page Right | Sets Channel View to Output channels only. |
 | Master Bypass | Sets Channel View to Remote tracks only. |
-|  |  |
+
 | Automation Mode |  |
+|---|---|
 | When Console Mode C is selected, Channel View buttons change Automation |  |
 | EQ | Sets Automation to Off for the selected Channel. |
 | Dynamics | Sets Automation to Read mode for the selected Channel. |
 | Insert (Channel View) | Sets Automation to Touch mode for the selected Channel. |
 | Send/Pre | Sets Automation to Latch mode for the selected Channel. |
 | Page Left | Sets Automation to Write mode for the selected Channel. |
-|  |  |
+
 | Soft Keys Mode |  |
+|---|---|
 | When Console Mode C is selected, Channel View buttons act as Soft Keys |  |
 | EQ | F1 |
 | Dynamics | F2 |
@@ -71,8 +78,9 @@
 | Page Right | F6 |
 | Master Bypass | F7 |
 | ESC | F8 |
-|  |  |
+
 | Transport Buttons |  |
+|---|---|
 | Play | Starts playhead at current position in Timeline. |
 | Stop | Stops playhead at current position in Timeline. (Press twice to Return to Zero) |
 | Record | Starts Record Mode for playhead |
@@ -81,8 +89,9 @@
 | RTZ | Return to zero. |
 | Loop Play | Toggles Loop mode for loop selection in Timeline. |
 | Quick Punch | Toggles Punch mode for selection in Timeline. |
-|  |  |
+
 | Cursor Buttons |  |
+|---|---|
 | The cursor buttons operate in several modes. |  |
 | Zoom | Horizontal and vertical zoom when zoom button is enabled. |
 | Bank | Enables Left/Right arrows to bank tracks. |
@@ -91,8 +100,9 @@
 | Down | Moves down track selection or list/Zooms in vertically |
 | Left | Moves up track selection or list/Zooms out horizontally |
 | Right | Moves down track selection or list/Zooms in horizontally |
-|  |  |
+
 | Utility Buttons |  |
+|---|---|
 | Save | Press the Save button to save. |
 |  | Press Shift + Save button to open the Save As dialog. |
 | Undo | Press to undo the last edit. |

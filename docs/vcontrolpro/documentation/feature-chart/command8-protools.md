@@ -12,16 +12,18 @@
 |  | VWVSlider: Use this mode when interacting with vertically slider controls on the plug-ins GUI. |
 | Solo | While in V-Window Mode, pressing the Solo button will pin the mouse location and revert to that location any time the fader is touched. Once the fader is released, the mouse is also returned to that pin position. This way it is very easy to pin a parameter and instantly control it without having to worry with the mouse cursor is on the screen. |
 | Select | Use the Select button while in V-Window mode to reset the fader position. |
-|  |  |
+
 | Track Buttons |  |
+|---|---|
 | Record | Arms the assigned audio track of the Channel. |
 | Solo | Solos the Channel. |
 | Mute | Mutes the Channel. |
 | Select | Sets the Channel to the Select state. |
 | Knob | Changes the assigned parameter. |
 | Knob Button | Sets assign selection/Toggles insert parameters/Toggles prepost/Toggles Send Mute |
-|  |  |
+
 | Knob Mode Buttons |  |
+|---|---|
 | The assignment buttons are used to assign controls to the Knobs. |  |
 | Pan (Default) | Assigns knobs to control pan position. For stereo tracks, press pan button again to access other side. |
 | Send A | Assigns Send A to knobs. |
@@ -30,12 +32,14 @@
 | Send D | Assigns Send D to knobs. |
 | Send E | Assigns Send E to knobs. |
 | Flip | Flips knobs to faders. |
-|  |  |
+
 | LCD/Display |  |
+|---|---|
 | Track Meters | Displays Stereo metering for tracks. |
 | Counter | Displays Counter for current session. Counter mode can be changed in DAW. |
-|  |  |
+
 | Transport Buttons |  |
+|---|---|
 | Play | Starts playhead at current position in Timeline. |
 | Stop | Stops playhead at current position in Timeline. |
 | Record | Starts Record Mode for playhead |
@@ -46,19 +50,22 @@
 | Loop Play | Enables Loop playback. |
 | Loop Record | Enables Loop Record. |
 | Quick Punch | Enables Punch Mode. |
-|  |  |
+
 | Utility Buttons |  |
+|---|---|
 | Undo | Press to undo the last edit. |
 | Redo | Press to undo the last edit. |
 | Cancel | Cancel selection |
-|  |  |
+
 | Modifier Buttons |  |
+|---|---|
 | Shift | Enables Shift Modifier. |
 | Option | Enables Option Modifier. |
 | Control | Enables Control Modifier. When held down, enables fine knob mode. |
 | Command | Enables Command Modifier. |
-|  |  |
+
 | Navigation Buttons |  |
+|---|---|
 |  |  |
 | Nudge | Sets Left and Right cursors to scroll tracks left and right for channel mixer. |
 | Bank | Sets Left and Right cursors to bank tracks left and right for channel mixer. |
@@ -67,8 +74,9 @@
 | Down | Scrolls Down in Edit Window. |
 | Left | Scrolls Left in Edit Window. |
 | Right | Scrolls Right in Edit Window. |
-|  |  |
+
 | Window Buttons |  |
+|---|---|
 | Mix | Displays Mixer Window. |
 | Edit | Displays Edit Window. |
 | Plug-In | Displays Plug-In Window. |

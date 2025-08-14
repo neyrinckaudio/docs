@@ -7,9 +7,9 @@
 | Select | Sets the Channel to the Select state. |
 | Knob | Changes the assigned parameter. |
 | Meter | Toggles between Right and left channel meter display. |
-|  |  |
-|  |  |
+
 | Knob Mode Buttons |  |
+|---|---|
 | The assignment buttons are used to assign controls to the Knobs. |  |
 | Pan (Default) | Assigns Pan to knobs. |
 | Send | Enables Send editing and selection for buttons A-E. |
@@ -24,16 +24,18 @@
 | Pan/Sends/PRE | Assigns Sends of selected channel to the knobs. |
 | Flip | Flips knobs to faders. |
 | Display Mode | Displays values for knob assignment. |
-|  |  |
+
 | Master Fader Button |  |
+|---|---|
 | Master Faders | Toggles last Channel Fader to be Master Fader |
-|  |  |
+
 | LCD/Display |  |
+|---|---|
 | Track Meter | Displays metering for tracks. Press Meter button to toggle between left and right meters. |
 | Counter | Displays Counter for current session. |
-|  |  |
-|  |  |
+
 | Transport Buttons |  |
+|---|---|
 | Play | Starts playhead at current position in Timeline. |
 | Stop | Stops playhead at current position in Timeline. |
 | Record | Starts Record Mode for playhead |
@@ -43,13 +45,15 @@
 | Shift+RTZ | Moves playhead to end of Timeline. |
 | Loop Play/Loop Rec | Toggles Loop mode for loop selection in Timeline. |
 | Quick Punch | Toggles Punch mode for selection in Timeline. |
-|  |  |
+
 | Utility Buttons |  |
+|---|---|
 | Undo | Press to undo the last edit. |
 | Shift+Undo | Press to redo edit. |
 | Enter | Confirm selection |
-|  |  |
+
 | Navigation Buttons |  |
+|---|---|
 | Nudge | Sets Left and Right cursors to scroll tracks left and right for channel mixer. |
 | Bank | Sets Left and Right cursors to bank tracks left and right for channel mixer. |
 | Up | Scrolls to next track in Arrangement. |
@@ -58,13 +62,14 @@
 | Right | Scroll to next track in Mixer. |
 | Zoom | Enables Zoom mode for the cursor keys. Left/Right zooms horizontal for the Arrangement window. Up/Down zooms vertical for the Arrangement window. |
 | MemLoc | Enables Marker Mode for the cursor keys. Left/Right navigate between marker, Down creates marker at playhead position. |
-|  |  |
-|  |  |
+
 | Window Buttons |  |
+|---|---|
 | Mix | Displays Mixer Window |
 | Edit | Displays Arrange Window |
-|  |  |
+
 | Modifier Buttons |  |
+|---|---|
 | Shift | Enables Shift Modifier. |
 | Option | Enables Option Modifier. |
 | Control | Enables Control Modifier. |
