@@ -1,6 +1,6 @@
 # ProControl Luna
 
-| Track Buttons |  |
+| Channel Strips |  |
 |---|---|
 | Record | Arms the assigned audio track of the Channel. |
 | Insert | Assigns plug-in mode to knobs. |
@@ -55,7 +55,7 @@
 | Left | Moves to previous marker/Zooms out horizontally |
 | Right | Moves to next marker/Zooms in horizontally |
 
-| Utility Buttons |  |
+| Utility |  |
 |---|---|
 | Save | Press the Save button to save. |
 |  | Press Shift + Save button to open the Save As dialog. |

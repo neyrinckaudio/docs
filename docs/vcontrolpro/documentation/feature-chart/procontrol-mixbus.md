@@ -1,6 +1,6 @@
 # ProControl Mixbus
 
-| Track Buttons |  |
+| Channel Strips |  |
 |---|---|
 | Record | Arms the assigned audio track of the Channel. |
 | Solo | Solos the Channel |
@@ -69,7 +69,7 @@
 | Assign 4 | Shows only Aux tracks. Press again to return to default Mixer view. |
 | Assign 5 | Shows user selected tracks. Press again to return to default Mixer view. |
 
-| Cursor Buttons |  |
+| Navigation |  |
 |---|---|
 | The cursor buttons operate in several modes. |  |
 | Zoom | Press once to enable Zoom Mode |
@@ -84,7 +84,7 @@
 | Right | Zooms in Horizontally when zoom mode is active. |
 |  | Moves to Next Marker when Navigation mode is active. |
 
-| Utility Buttons |  |
+| Utility |  |
 |---|---|
 | Undo | Press to undo the last edit. |
 | Shift+Undo | Press to redo edit. |

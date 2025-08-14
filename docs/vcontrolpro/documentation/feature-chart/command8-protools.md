@@ -1,6 +1,6 @@
 # Command8 ProTools
 
-| Track Buttons |  |
+| Channel Strips |  |
 |---|---|
 | Record | Arms the assigned audio track of the Channel. |
 | Solo | Solos the Channel. |
@@ -38,20 +38,20 @@
 | Loop Record | Enables Loop Record. |
 | Quick Punch | Enables Punch Mode. |
 
-| Utility Buttons |  |
+| Utility |  |
 |---|---|
 | Undo | Press to undo the last edit. |
 | Redo | Press to undo the last edit. |
 | Cancel | Cancel selection |
 
-| Modifier Buttons |  |
+| Modifiers |  |
 |---|---|
 | Shift | Enables Shift Modifier. |
 | Option | Enables Option Modifier. |
 | Control | Enables Control Modifier. When held down, enables fine knob mode. |
 | Command | Enables Command Modifier. |
 
-| Navigation Buttons |  |
+| Navigation |  |
 |---|---|
 |  |  |
 | Nudge | Sets Left and Right cursors to scroll tracks left and right for channel mixer. |

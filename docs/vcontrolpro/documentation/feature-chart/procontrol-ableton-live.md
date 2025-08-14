@@ -1,6 +1,6 @@
 # ProControl Ableton Live
 
-| Track Buttons |  |
+| Channel Strips |  |
 |---|---|
 | Record | Arms the assigned audio track of the Channel. |
 | Solo | Solos the Channel |
@@ -50,7 +50,7 @@
 | Send Mute | Stops all clips. |
 | Delete | Triggers Back to Arrangement when in clip play. |
 
-| Cursor Buttons |  |
+| Navigation |  |
 |---|---|
 | The cursor buttons operate in several modes. |  |
 | Zoom | First press switches to Zoom mode. Second press switches to Marker mode.  Third press returns to normal mode. |
@@ -64,13 +64,13 @@
 |  | Zooms In in Arrangement View |
 |  | Moves to Next Marker in Arrangement. |
 
-| Wheel Modes |  |
+| Wheel |  |
 |---|---|
 | There are two modes to use with the wheel |  |
 | Scrub | Changes the Wheel to Scene mode. Wheel moves up and down the scenes in Session view. |
 | Shuttle | Changes the Wheel to Navigation mode.  Wheel moves playhead forward and back through timeline. |
 
-| Utility Buttons |  |
+| Utility |  |
 |---|---|
 | Undo | Press to undo the last edit. |
 | Shift+Undo | Press to redo edit. |

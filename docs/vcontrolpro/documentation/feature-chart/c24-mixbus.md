@@ -1,6 +1,6 @@
 # C24 Mixbus
 
-| Track Buttons |  |
+| Channel Strips |  |
 |---|---|
 | Record | Arms the assigned audio track of the Channel. |
 | Solo | Solos the Channel |
@@ -70,7 +70,7 @@
 | Zoom Preset 4 | Shows only Aux tracks. Press again to return to default Mixer view. |
 | Zoom Preset 5 | Shows user selected tracks. Press again to return to default Mixer view. |
 
-| Cursor Buttons |  |
+| Navigation |  |
 |---|---|
 | The cursor buttons operate in several modes. |  |
 | Navigate | Enables Marker Mode for the cursor arrows. |
@@ -84,7 +84,7 @@
 | Right | Zooms in Horizontally when zoom mode is active. |
 |  | Moves to Next Marker when marker mode is active. |
 
-| Utility Buttons |  |
+| Utility |  |
 |---|---|
 | Undo | Press to undo the last edit. |
 | Redo | Press to redo edit. |

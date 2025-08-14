@@ -1,6 +1,6 @@
 # D-Command ProTools
 
-| Track Buttons |  |
+| Channel Strips |  |
 |---|---|
 | Pan | Assigns Pan control to the knobs. |
 | Send | Assigns Sends to knobs. Use Page Up and Page Down buttons to change Send assignment. |
@@ -56,7 +56,7 @@
 | Loop Play | Toggles Loop mode for loop selection in Timeline. |
 | Quick Punch | Toggles Punch mode for selection in Timeline. |
 
-| Utility Buttons |  |
+| Utility |  |
 |---|---|
 | Save | Press the Save button to save. |
 |  | Press Shift + Save button to open the Save As dialog. |
@@ -68,7 +68,7 @@
 | Edit | Opens Edit Window |
 | Memloc | Opens Memory Locator Window |
 
-| Navigation Buttons/Wheel |  |
+| Navigation |  |
 |---|---|
 | Scrub | Enables Scrub mode for the wheel. |
 |  | Normal Mode - Use Shift at any time to adjust start or end of a selection with wheel. |

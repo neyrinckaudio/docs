@@ -1,6 +1,6 @@
 # D-Command Steinberg
 
-| Track Buttons |  |
+| Channel Strips |  |
 |---|---|
 | Pan | Assigns Pan control to the knobs. |
 | Insert | Assigns Plug-in Editor for selected channel across channel knobs. Select plug-in with knob buttons. |
@@ -62,7 +62,7 @@
 | Loop Play/Loop Rec | Toggles Loop mode for loop selection in Timeline. |
 | Quick Punch | Toggles Punch mode for selection in Timeline. |
 
-| Utility Buttons |  |
+| Utility |  |
 |---|---|
 | Save | Press the Save button to save. |
 |  | Press Shift + Save button to open the Save As dialog. |
@@ -74,7 +74,7 @@
 | WinCfg | Opens Status Window |
 | Memloc | Opens Memory Locator Window |
 
-| Navigation Buttons/Wheel |  |
+| Navigation |  |
 |---|---|
 | There are several different modes available for the cursor keys and wheel. |  |
 | Navigate | Enables Wheel and cursor to default mode. |

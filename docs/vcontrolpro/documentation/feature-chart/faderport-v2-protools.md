@@ -1,6 +1,6 @@
 # FaderPort V2 ProTools
 
-| Track Buttons |  |
+| Channel Strips |  |
 |---|---|
 | Solo | Solos the Channel. |
 | Mute | Mutes the Channel. |

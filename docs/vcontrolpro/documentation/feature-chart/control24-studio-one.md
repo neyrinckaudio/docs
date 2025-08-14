@@ -1,6 +1,6 @@
 # Control24 Studio One
 
-| Track Buttons |  |
+| Channel Strips |  |
 |---|---|
 | Record | Arms the assigned audio track of the Channel. |
 | Solo | Solos the Channel (with Momentary mode). |
@@ -79,7 +79,7 @@
 | F7 | Show Inserts Window |
 | F8 | Toggle Floating Window |
 
-| Cursor Buttons |  |
+| Navigation |  |
 |---|---|
 | The cursor buttons operate in several modes. |  |
 | Zoom | Horizontal and vertical zoom when zoom button is enabled. |
@@ -88,7 +88,7 @@
 | Left | Moves up track selection or list/Zooms out horizontally |
 | Right | Moves down track selection or list/Zooms in horizontally |
 
-| Utility Buttons |  |
+| Utility |  |
 |---|---|
 | Save | Press the Save button to save. |
 |  | Press Shift + Save button to open the Save As dialog. |

@@ -1,6 +1,6 @@
 # Command8 Ableton Live
 
-| Track Buttons |  |
+| Channel Strips |  |
 |---|---|
 | Solo | Solos the Channel. |
 | Mute | Mutes the Channel. |
@@ -59,7 +59,7 @@
 | Ext Trans | Toggles Metronome |
 | Counter Mode Select | Changes Counter Mode in Counter LCD. |
 
-| Utility Buttons |  |
+| Utility |  |
 |---|---|
 | Save | Press the Save button to save. |
 |  | Press Shift + Save button to open the Save As dialog. |
@@ -73,7 +73,7 @@
 |---|---|
 | Suspend | Toggles group suspend. |
 
-| Navigation Buttons |  |
+| Navigation |  |
 |---|---|
 | Up | Scrolls to next track in Arrangement. |
 | Down | Scrolls to previous track in Arrangement. |
@@ -89,14 +89,14 @@
 | MemLoc | Displays Marker Window |
 | Transport | Displays Transport |
 
-| Edit Buttons |  |
+| Edit |  |
 |---|---|
 | Copy | Copy selected region in Arrange Window |
 | Delete | Deletes selected region in Arrange Window |
 | Cut | Cuts selected region in Arrange Window |
 | Paste | Pastes region in Arrange Window |
 
-| Modifier Buttons |  |
+| Modifiers |  |
 |---|---|
 | Shift | Enables Shift Modifier. |
 | Option | Enables Option Modifier. |

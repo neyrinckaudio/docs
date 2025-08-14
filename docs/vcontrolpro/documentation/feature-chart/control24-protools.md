@@ -1,6 +1,6 @@
 # Control24 ProTools
 
-| Track Buttons |  |
+| Channel Strips |  |
 |---|---|
 | Record | Arms the assigned audio track of the Channel. |
 | Insert | Enables insert editor for selected Channel. |
@@ -90,7 +90,7 @@
 | Suspend | Suspends Group function. |
 | Status | Displays Group Assignment. |
 
-| Utility Buttons |  |
+| Utility |  |
 |---|---|
 | Save | Press the Save button to save. |
 |  | Press Shift + Save button to open the Save As dialog. |
@@ -118,14 +118,14 @@
 | Enter | Creates Marker at current position |
 | Clr | Clear numerical input. |
 
-| Modifier Buttons |  |
+| Modifiers |  |
 |---|---|
 | Shift | Enables Shift Modifier. |
 | Option | Enables Option Modifier. |
 | Control | Enables Control Modifier. When held down, enables fine knob mode. |
 | Command | Enables Command Modifier. |
 
-| Navigation Buttons |  |
+| Navigation |  |
 |---|---|
 | Up | Scrolls Up in Edit Window. |
 | Down | Scrolls Down in Edit Window. |
@@ -142,7 +142,7 @@
 | Plug-In | Displays Plug-In Window. |
 | Status | Displays Setup Window. |
 
-| Edit Buttons |  |
+| Edit |  |
 |---|---|
 | Copy | Copy selected region in Edit Window. |
 | Delete | Deletes selected region in Edit Window. |

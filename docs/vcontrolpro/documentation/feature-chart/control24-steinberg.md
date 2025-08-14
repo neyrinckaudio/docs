@@ -1,6 +1,6 @@
 # Control24 Steinberg
 
-| Channel Strip Buttons |  |
+| Channel Strips |  |
 |---|---|
 | EQ | Assigns EQ editor for selected channel across channel knobs. Use Channel Bar Scroll buttons to access additional parameters. |
 | Insert | Assigns Plug-in Editor for selected channel across channel knobs. Use Channel Bar Scroll buttons to access plug-in parameters. |
@@ -84,7 +84,7 @@
 | Loop Play/Loop Rec | Toggles Loop mode for loop selection in Timeline. |
 | Quick Punch | Toggles Punch mode for selection in Timeline. |
 
-| Edit Buttons |  |
+| Edit |  |
 |---|---|
 | Copy | Copy Selected Region |
 | Cut | Cut Selected Region |
@@ -93,7 +93,7 @@
 | Separate | Separate Region at Playhead |
 | Paste | Paste Region |
 
-| Utility Buttons |  |
+| Utility |  |
 |---|---|
 | Save | Save the current session. |
 | Undo | Undo the last action. |
@@ -105,7 +105,7 @@
 | WinCfg | Opens Status Window |
 | Memloc | Opens Memory Locator Window |
 
-| Navigation Buttons/Wheel |  |
+| Navigation |  |
 |---|---|
 | There are several different modes available for the cursor keys and wheel. |  |
 | Scrub | Enables Scrub mode for the wheel. |
@@ -120,7 +120,7 @@
 |---|---|
 | F1-F10 | Acts as softkeys for Steinberg. Can be mapped in the Studio Setups window when the Control|24 is selected. |
 
-| Edit Buttons |  |
+| Edit |  |
 |---|---|
 | Shuffle | Toggles Banking mode follow for Bank and Scroll buttons. |
 |  | When Follow mode is on, Mixer in Cubase moves to match what is shown on Control surface. (Must have track count in Cubase view match control surface layout.) |

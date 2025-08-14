@@ -8,7 +8,7 @@
 | Pan | Assign Pan position to knobs. |
 | Flip | Flips V-Pot control to Faders. |
 
-| Track Buttons |  |
+| Channel Strips |  |
 |---|---|
 | Record | Arms the assigned audio track of the Channel. |
 | Solo | Solos the Channel. |
@@ -41,7 +41,7 @@
 | Rewind | Move playhead backwards in Timeline. |
 | Fast Forward | Moves playhead forward in Timeline. |
 
-| Cursor Buttons |  |
+| Navigation |  |
 |---|---|
 | The cursor buttons operate in several modes. |  |
 | Bank | Toggles Bank mode On/Off for Left/Right Arrows |
@@ -52,7 +52,7 @@
 | Left | Moves up track selection or list/Zooms out horizontally |
 | Right | Moves down track selection or list/Zooms in horizontally |
 
-| Utility Buttons |  |
+| Utility |  |
 |---|---|
 | Save | Press the Save button to save. |
 |  | Press Shift + Save button to open the Save As dialog. |

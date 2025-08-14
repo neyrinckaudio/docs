@@ -1,6 +1,6 @@
 # Command8 Steinberg
 
-| Channel Strip Buttons |  |
+| Channel Strips |  |
 |---|---|
 | Record | Arms the assigned audio track of the Channel. |
 | Solo | Solos the Channel. |
@@ -54,7 +54,7 @@
 | Loop Play/Loop Rec | Toggles Loop mode for loop selection in Timeline. |
 | Quick Punch | Toggles Punch mode for selection in Timeline. |
 
-| Utility Buttons |  |
+| Utility |  |
 |---|---|
 | Undo | Undo the last action. |
 | Shift+Undo | Redo the last action. |
@@ -63,7 +63,7 @@
 |---|---|
 | Mix | Opens MixConsole Window |
 
-| Navigation Buttons/Wheel |  |
+| Navigation |  |
 |---|---|
 | There are several different modes available for the cursor keys and wheel. |  |
 | MemLoc | Enables Marker Mode. Use Wheel or Left/Right cursor keys to navigate between markers. Down cursor key creates marker at playhead. |

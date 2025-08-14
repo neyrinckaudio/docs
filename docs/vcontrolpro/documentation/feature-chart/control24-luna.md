@@ -1,6 +1,6 @@
 # Control24 Luna
 
-| Track Buttons |  |
+| Channel Strips |  |
 |---|---|
 | Record | Arms the assigned audio track of the Channel. |
 | Solo | Solos the Channel. |
@@ -43,7 +43,7 @@
 | RTZ | Moves playhead to start of timeline |
 | GTE | Moves playhead to end of timeline |
 
-| Cursor Buttons |  |
+| Navigation |  |
 |---|---|
 | The cursor buttons operate in several modes. |  |
 | Zoom | Horizontal and vertical zoom when zoom button is enabled. |
@@ -52,7 +52,7 @@
 | Left | Moves to previous marker/Zooms out horizontally |
 | Right | Moves to next marker/Zooms in horizontally |
 
-| Utility Buttons |  |
+| Utility |  |
 |---|---|
 | Save | Press the Save button to save. |
 |  | Press Shift + Save button to open the Save As dialog. |

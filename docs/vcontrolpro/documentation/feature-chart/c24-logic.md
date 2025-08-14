@@ -1,6 +1,6 @@
 # C24 Logic
 
-| Track Buttons |  |
+| Channel Strips |  |
 |---|---|
 | EQ | Assigns EQ editor for selected channel across channel knobs. Use Channel Bar Scroll buttons to access additional parameters. |
 | Insert | Assigns Plug-in Editor for selected channel across channel knobs. Select plug-in with knob buttons. |
@@ -75,7 +75,7 @@
 | Dyn Trans | Toggles Metronome |
 | Counter Mode Select | Changes Counter Mode in Counter LCD. |
 
-| Utility Buttons |  |
+| Utility |  |
 |---|---|
 | Save | Press the Save button to save. |
 |  | Press Shift + Save button to open the Save As dialog. |
@@ -89,7 +89,7 @@
 |---|---|
 | Suspend | Toggles group suspend. |
 
-| Navigation Buttons |  |
+| Navigation |  |
 |---|---|
 | Up | Scrolls to next track in Arrangement. |
 | Down | Scrolls to previous track in Arrangement. |
@@ -116,14 +116,14 @@
 | Zoom Preset 4 | Displays Screenset 4 |
 | Zoom Preset 5 | Displays Screenset 5 |
 
-| Edit Buttons |  |
+| Edit |  |
 |---|---|
 | Copy | Copy selected region in Arrange Window |
 | Copy+Shift | Deletes selected region in Arrange Window |
 | Copy+Option | Cuts selected region in Arrange Window |
 | Paste | Pastes region in Arrange Window |
 
-| Modifier Buttons |  |
+| Modifiers |  |
 |---|---|
 | Shift | Enables Shift Modifier. |
 | Option | Enables Option Modifier. |

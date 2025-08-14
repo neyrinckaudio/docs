@@ -1,6 +1,6 @@
 # C24 Luna
 
-| Track Buttons |  |
+| Channel Strips |  |
 |---|---|
 | Record | Arms the assigned audio track of the Channel. |
 | Solo | Solos the Channel. |
@@ -44,7 +44,7 @@
 | RTZ | Move playhead to the start of the timeline |
 | GTE | Move playhead to the end of the timeline |
 
-| Cursor Buttons |  |
+| Navigation |  |
 |---|---|
 | The cursor buttons operate in several modes. |  |
 | Navigate | Opens the Marker browser. |
@@ -54,7 +54,7 @@
 | Left | Moves to previous marker/Zoom out on timeline |
 | Right | Moves to next marker/Zoom in on timeline |
 
-| Utility Buttons |  |
+| Utility |  |
 |---|---|
 | Save | Press the Save button to save. |
 |  | Press Shift + Save button to open the Save As dialog. |

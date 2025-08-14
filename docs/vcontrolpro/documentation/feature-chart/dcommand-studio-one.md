@@ -1,6 +1,6 @@
 # D-Command Studio One
 
-| Track Buttons |  |
+| Channel Strips |  |
 |---|---|
 | Pan | Assigns Pan control to the knobs. |
 | Insert | Assigns Plug-in Editor for selected channel across channel knobs. Select plug-in with knob buttons. |
@@ -47,7 +47,7 @@
 | Scrub | Enables Scrub mode for the wheel. |
 | Scroll | Enables Scroll mode for the wheel. |
 
-| Utility Buttons |  |
+| Utility |  |
 |---|---|
 | Save | Press the Save button to save. |
 |  | Press Shift + Save button to open the Save As dialog. |
@@ -59,7 +59,7 @@
 |---|---|
 | Suspend | Toggles group suspend. |
 
-| Navigation Buttons |  |
+| Navigation |  |
 |---|---|
 | Up | Scrolls to next track in Arrangement. |
 | Down | Scrolls to previous track in Arrangement. |
@@ -82,14 +82,14 @@
 | F7 |  |
 | F8 |  |
 
-| Edit Buttons |  |
+| Edit |  |
 |---|---|
 | Copy | Copy selected region in Arrange Window |
 | Delete | Deletes selected region in Arrange Window |
 | Cut | Cuts selected region in Arrange Window |
 | Paste | Pastes region in Arrange Window |
 
-| Modifier Buttons |  |
+| Modifiers |  |
 |---|---|
 | Shift | Enables Shift Modifier. |
 | Option | Enables Option Modifier. |

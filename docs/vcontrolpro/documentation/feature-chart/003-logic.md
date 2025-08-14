@@ -1,6 +1,6 @@
 # Logic Pro X Control With 003
 
-| Track Buttons |  |
+| Channel Strips |  |
 |---|---|
 | Solo | Solos the Channel. |
 | Mute | Mutes the Channel. |
@@ -46,13 +46,13 @@
 | Loop Play | Toggles Loop mode for loop selection in Timeline. |
 | Quick Punch | Toggles Punch mode for selection in Timeline. |
 
-| Utility Buttons |  |
+| Utility |  |
 |---|---|
 | Undo | Press to undo the last edit. |
 | Shift+Undo | Press to redo edit. |
 | Enter | Confirm selection |
 
-| Navigation Buttons |  |
+| Navigation |  |
 |---|---|
 | Nudge | Sets Left and Right cursors to scroll tracks left and right for channel mixer. |
 | Bank | Sets Left and Right cursors to bank tracks left and right for channel mixer. |
@@ -75,7 +75,7 @@
 | Mix | Displays Mixer Window |
 | Edit | Displays Arrange Window |
 
-| Modifier Buttons |  |
+| Modifiers |  |
 |---|---|
 | Shift | Enables Shift Modifier. |
 | Option | Enables Option Modifier. |
