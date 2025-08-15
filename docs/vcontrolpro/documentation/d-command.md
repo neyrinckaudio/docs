@@ -3,7 +3,7 @@
 V-Control Pro supports D-Command Main and Fader Module devices. Up to two devices can be used for 24 channels of control First, you must add the D-Command devices as controllers in the V-Control Pro Setups window as described in [Setting Up Ethernet Controllers](./ethernet-controllers.md).
 
 !!! info "Control Features"
-    Please see the D-Command feature charts online at [Feature Charts – D-Command](https://neyrinck.com/help-category/v-control-pro-help/).
+    Please see the D-Command feature charts online at [Feature Charts – D-Command](./feature-charts.md/#d-command).
 
 
 ### Setup

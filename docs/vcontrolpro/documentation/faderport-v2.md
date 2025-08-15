@@ -9,7 +9,7 @@ V-Control Pro supercharges the single fader FaderPort V2 / iOStation 24c for use
     In the Pro Tools MIDI Input Devices Window, disable the Faderport. It is used by V-control Pro and can cause conflict if enabled in Pro Tools as well.
 
 !!! info "Control Features"
-    Please see the FaderPort V2 / ioStation 24c feature charts online at [Feature Charts](https://neyrinck.com/help-category/v-control-pro-help/).
+    Please see the FaderPort V2 / ioStation 24c feature charts online at [Feature Charts](./feature-charts.md/#faderport-v2--iostation24c).
 
 ### Setup
 

@@ -3,7 +3,7 @@
 V-Control Pro supports Pro Control Main and Faderpack devices. Up to four devices can be used, except for Logic where just one Main and one Faderpack can be used. First, you must add the Pro Control devices as controllers in the V-Control Pro Setups window as described in [Setting Up Ethernet Controllers](./ethernet-controllers.md).
 
 !!! info "Control Features"
-    Please see the Pro Control feature charts online at [Feature Charts – Pro Control](https://neyrinck.com/help-category/v-control-pro-help/).
+    Please see the Pro Control feature charts online at [Feature Charts – Pro Control](./feature-charts.md/#pro-control).
 
 ### Setup
 
