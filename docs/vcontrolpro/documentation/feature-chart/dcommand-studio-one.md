@@ -1,4 +1,6 @@
-# D-Command Studio One
+#
+
+### D-Command Studio One
 
 === "Channel Strips"
 

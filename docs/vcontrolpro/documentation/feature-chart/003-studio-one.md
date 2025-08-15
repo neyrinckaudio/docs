@@ -1,4 +1,6 @@
-# Studio One Control With 003
+#
+
+### Studio One Control With 003
 
 === "Channel Strips"
 

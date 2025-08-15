@@ -1,4 +1,6 @@
-# ProControl Luna
+#
+
+### ProControl Luna
 
 === "Channel Strips"
 

@@ -1,4 +1,6 @@
-# D-Command Logic
+#
+
+### D-Command Logic
 
 === "Channel Strips"
 

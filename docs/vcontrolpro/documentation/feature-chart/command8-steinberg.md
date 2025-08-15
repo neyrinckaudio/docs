@@ -1,4 +1,6 @@
-# Command8 Steinberg
+#
+
+### Command8 Steinberg
 
 === "Channel Strips"
 

@@ -1,4 +1,6 @@
-# ProControl Studio One
+#
+
+### ProControl Studio One
 
 === "Channel Strips"
 

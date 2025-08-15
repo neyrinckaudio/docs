@@ -1,4 +1,6 @@
-# Control24 Studio One
+#
+
+### Control24 Studio One
 
 === "Channel Strips"
 

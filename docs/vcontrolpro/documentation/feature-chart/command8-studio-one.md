@@ -1,4 +1,6 @@
-# Command8 Studio One
+#
+
+### Command8 Studio One
 
 === "Channel Strips"
 

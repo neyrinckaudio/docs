@@ -1,4 +1,6 @@
-# Control24 Performer
+#
+
+### Control24 Performer
 
 === "Channel Strips"
 

@@ -1,4 +1,6 @@
-# ProControl Logic
+#
+
+### ProControl Logic
 
 === "Channel Strips"
 

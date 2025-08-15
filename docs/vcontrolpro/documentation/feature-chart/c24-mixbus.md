@@ -1,4 +1,6 @@
-# C24 Mixbus
+#
+
+### C24 Mixbus
 
 === "Channel Strips"
 

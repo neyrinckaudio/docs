@@ -1,4 +1,6 @@
-# Control24 Luna
+#
+
+### Control24 Luna
 
 === "Channel Strips"
 

@@ -1,4 +1,6 @@
-# Control24 Logic
+#
+
+### Control24 Logic
 
 === "Channel Strips"
 

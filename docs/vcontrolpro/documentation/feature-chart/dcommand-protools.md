@@ -1,4 +1,6 @@
-# D-Command ProTools
+#
+
+### D-Command ProTools
 
 === "Channel Strips"
 

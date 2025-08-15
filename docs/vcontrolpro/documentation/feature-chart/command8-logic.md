@@ -1,4 +1,6 @@
-# Command8 Logic
+#
+
+### Command8 Logic
 
 === "Channel Strips"
 

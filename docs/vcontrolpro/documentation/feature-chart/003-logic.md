@@ -1,4 +1,6 @@
-# Logic Pro X Control With 003
+#
+
+### Logic Pro X Control With 003
 
 === "Channel Strips"
 

@@ -1,4 +1,6 @@
-# ProControl Steinberg
+#
+
+### ProControl Steinberg
 
 === "Channel Strips"
 

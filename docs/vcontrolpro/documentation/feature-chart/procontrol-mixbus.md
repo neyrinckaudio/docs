@@ -1,4 +1,6 @@
-# ProControl Mixbus
+#
+
+### ProControl Mixbus
 
 === "Channel Strips"
 

@@ -1,4 +1,6 @@
-# C24 Steinberg
+#
+
+### C24 Steinberg
 
 === "Channel Strips"
 

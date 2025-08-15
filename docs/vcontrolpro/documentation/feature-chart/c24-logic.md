@@ -1,4 +1,6 @@
-# C24 Logic
+#
+
+### C24 Logic
 
 === "Channel Strips"
 

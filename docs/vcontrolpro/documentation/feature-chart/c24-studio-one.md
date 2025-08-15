@@ -1,4 +1,6 @@
-# C24 Studio One
+#
+
+### C24 Studio One
 
 === "Channel Strips"
 
