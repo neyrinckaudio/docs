@@ -13,8 +13,9 @@
 | Knob | Changes the assigned parameter. |
 | Knob Button | Sets assign selection/Toggles insert parameters/Toggles prepost/Toggles Send Mute |
 | Master Record | Record Enables all available channels. |
+| Track Meters | Displays Stereo metering for tracks. |
 
-| Knob Mode Buttons |  |
+| Bank Mode |  |
 |---|---|
 | The assignment buttons are used to assign controls to the Knobs. |  |
 | Pan (Default) | Assigns knobs to control pan position. For stereo tracks, press pan button again to access other side. |
@@ -31,12 +32,7 @@
 | Insert Bypass | Enables Bypass mode. Bypass mode assigns Insert button on channel strip to bypass all inserts. |
 | Flip | Flips knobs to faders. |
 
-| LCD/Display |  |
-|---|---|
-| Track Meters | Displays Stereo metering for tracks. |
-| Counter | Displays Counter for current session. Counter mode can be changed in DAW. |
-
-| Automation Buttons |  |
+| Automation |  |
 |---|---|
 | Hold down Auto button channel strip to select automation modes. |  |
 | Read | Sets selected Channel in to Read Mode |
@@ -74,67 +70,59 @@
 | Online | Enables Online Mode for transport. |
 | Scrub | Enables Scrub Mode for the Wheel |
 | Shuttle | Enables Shuttle Mode for the Wheel |
-|  |  |
-| Plug-in Buttons for Control|24 |  |
+| Counter | Displays Counter for current session. Counter mode can be changed in DAW. |
+
+| Plug-in Buttons for Control 24 |  |
+|---|---|
 | Master Bypass | Bypass selected plug-in on Channel. |
 | Params | Show plug-in parameters for selected plug-in on Channel. Press again to display plug-ins on channel across LCD. |
 | Compare | Compares current plug-in setting with previous. |
 | Channel Bar Scroll Left | Scroll through pages of plug-in parameters. |
 | Channel Bar Scroll Right | Scroll through pages of plug-in parameters. |
-|  |  |
+
 | Group Buttons |  |
+|---|---|
 | Create | Creates group of selected tracks. |
 | Suspend | Suspends Group function. |
 | Status | Displays Group Assignment. |
-|  |  |
+
 | Utility |  |
+|---|---|
 | Save | Press the Save button to save. |
 |  | Press Shift + Save button to open the Save As dialog. |
 | Undo | Press to undo the last edit. |
 | Cancel | Cancel selection |
 | Solo Clear | Clears all Solos on Channel Strip. |
-|  |  |
-| Keypad Buttons |  |
-| 0 | Start/Stop Playback |
-| 1 | Rewind |
-| 2 | Fast Forward |
-| 3 | Record Enable |
-| 4 | Loop Playback |
-| 5 | Loop Record |
-| 6 | Quick Punch |
-| 7 | Click |
-| 8 | Count Off |
-| 9 | MIDI Merge |
-| . | Inputs Decimal Point |
-| + | Inputs Plus sign |
-| - | Inputs Subtract |
-| * | Inputs Asterisk |
-| / | Inputs Divide |
-| Enter | Creates Marker at current position |
-| Clr | Clear numerical input. |
-|  |  |
+
 | Modifiers |  |
+|---|---|
 | Shift | Enables Shift Modifier. |
 | Option | Enables Option Modifier. |
 | Control | Enables Control Modifier. When held down, enables fine knob mode. |
 | Command | Enables Command Modifier. |
-|  |  |
+
 | Navigation |  |
+|---|---|
+| Bank Left | Banks tracks left/Scrolls 1 track left in Nudge mode |
+| Bank Right | Banks tracks right/Scrolls 1 track right in Nudge mode |
+| Nudge | Toggles Nudge mode On/Off |
 | Up | Scrolls Up in Edit Window. |
 | Down | Scrolls Down in Edit Window. |
 | Left | Scrolls Left in Edit Window. |
 | Right | Scrolls Right in Edit Window. |
 | Zoom | Enables Zoom mode for the cursor keys. Left/Right zooms horizontal for the Edit window. Up/Down zooms vertical for the Edit window. |
-|  |  |
+
 | Window Buttons |  |
+|---|---|
 | Mix | Displays Mixer Window. |
 | Edit | Displays Edit Window. |
 | MemLoc | Displays Marker Window. |
 | Transport | Displays Transport Window. |
 | Plug-In | Displays Plug-In Window. |
 | Status | Displays Setup Window. |
-|  |  |
+
 | Edit |  |
+|---|---|
 | Copy | Copy selected region in Edit Window. |
 | Delete | Deletes selected region in Edit Window. |
 | Cut | Cuts selected region in Edit Window. |
@@ -149,11 +137,6 @@
 | Select | Enables Select Tool in Edit Window. |
 | Grab | Enables Grab Tool in Edit Window. |
 | Pencil | Enables Pencil Tool in Edit Window. |
-|  |  |
-| Bank Buttons |  |
-| Bank Left | Banks tracks left/Scrolls 1 track left in Nudge mode |
-| Bank Right | Banks tracks right/Scrolls 1 track right in Nudge mode |
-| Nudge | Toggles Nudge mode On/Off |
 
 | V-Window Mode |  |
 |---|---|

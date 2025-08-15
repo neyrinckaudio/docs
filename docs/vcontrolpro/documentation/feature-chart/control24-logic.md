@@ -12,8 +12,9 @@
 | Select | Sets the Channel to the Select state. |
 | Knob | Changes the assigned parameter. |
 | Knob Button | Changes the assigned parameter. |
+| Track Meters | Displays Stereo metering for tracks. |
 
-| Knob Mode Buttons |  |
+| Bank Mode |  |
 |---|---|
 | The assignment buttons are used to assign controls to the Knobs. |  |
 | Pan (Default) | Assigns Pan to knobs. |
@@ -31,17 +32,9 @@
 | Flip | Flips knobs to faders. |
 | Show Channel Names | Shows track name in Channel LCD when held down. |
 | Show Values | Shows value for assigned knob parameter. |
-
-| Master Fader Button |  |
-|---|---|
 | Master Faders | Toggles last Channel Fader to be Master Fader |
 
-| LCD/Display |  |
-|---|---|
-| Track Meters | Displays Stereo metering for tracks. |
-| Counter | Displays Counter for current session. |
-
-| Automation Buttons |  |
+| Automation |  |
 |---|---|
 | Read | Sets selected Channel in to Read Mode |
 | Write | Sets selected Channel to Write Mode |
@@ -75,6 +68,7 @@
 | Audition | Toggles Replace |
 | Ext Trans | Toggles Metronome |
 | Counter Mode Select | Changes Counter Mode in Counter LCD. |
+| Counter | Displays Counter for current session. |
 
 | Utility |  |
 |---|---|
@@ -92,6 +86,9 @@
 
 | Navigation |  |
 |---|---|
+| Bank Left | Banks 24 tracks left/Scrolls 1 track left in Nudge mode |
+| Bank Right | Banks 24 tracks right/Scrolls 1 track right in Nudge mode |
+| Nudge | Toggles Nudge mode On/Off |
 | Up | Scrolls to next track in Arrangement. |
 | Down | Scrolls to previous track in Arrangement. |
 | Left | Scroll to previous track in MIxer. |
@@ -99,7 +96,7 @@
 | Zoom | Enables Zoom mode for the cursor keys. Left/Right zooms horizontal for the Arrangement window. Up/Down zooms vertical for the Arrangement window. |
 | Navigate | Enables Marker Mode for the cursor keys. Left/Right navigate between marker, Down creates marker at playhead position. |
 
-| Plug-in Buttons for C|24 and Control|24 |  |
+| Plug-in Buttons for C24 and Control 24 |  |
 |---|---|
 | Master Bypass | Bypass selected plug-in on Channel. |
 | Params | Show plug-in parameters for selected plug-in on Channel. Press again to display plug-ins on channel across LCD. |
@@ -130,12 +127,6 @@
 | Option | Enables Option Modifier. |
 | Control | Enables Control Modifier. |
 | Command | Enables Command Modifier. |
-
-| Bank Buttons |  |
-|---|---|
-| Bank Left | Banks 24 tracks left/Scrolls 1 track left in Nudge mode |
-| Bank Right | Banks 24 tracks right/Scrolls 1 track right in Nudge mode |
-| Nudge | Toggles Nudge mode On/Off |
 
 | V-Window Mode |  |
 |---|---|

@@ -9,8 +9,9 @@
 | Select | Sets the Channel to the Select state. |
 | Knob | Changes the assigned parameter. |
 | Knob Button | Sets assigned parameter to default value |
+| Track Meters | Displays metering for tracks. Currenlty supports one meter per channel. |
 
-| Knob Mode Buttons |  |
+| Bank Mode |  |
 |---|---|
 | The assignment buttons are used to assign controls to the Knobs. |  |
 | Pan (Default) | Shows the track names in the LED strip and assigns Knobs to Channel Pan. |
@@ -27,17 +28,9 @@
 | Insert/Params | Sets the V-Pots to Control Link mode. |
 | Flip | Flips knob assignment to faders. |
 | Show Channel Names | Shows Track names when in Plug-in Edit mode. |
-
-| Master Fader Button |  |
-|---|---|
 | Master Faders | Toggles last Channel Fader to be Master Fader |
 
-| LCD/Display |  |
-|---|---|
-| Track Meters | Displays metering for tracks. Currenlty supports one meter per channel. |
-| Counter | Displays Counter for current session. Counter mode can be changed in DAW. |
-
-| Automation Buttons |  |
+| Automation |  |
 |---|---|
 | Write | Sets Automation to Write mode for the selected Channel. |
 | Touch | Sets Automation to Touch mode for the selected Channel. |
@@ -56,8 +49,9 @@
 | Loop Play/Loop Rec | Toggles Loop mode for loop selection in Timeline. |
 | Quick Punch | Toggles Punch mode for selection in Timeline. |
 | Online | Enables Marker Mode. Use Rewind to go to previous marker/Use Fast forward to go to next marker. |
+| Counter | Displays Counter for current session. Counter mode can be changed in DAW. |
 
-| Soft Keys for Control|24 |  |
+| Soft Keys |  |
 |---|---|
 | Press Show Values Button to access Views Mode |  |
 | Mixer View Buttons (Filters tracks shown on Channels) |  |
@@ -81,6 +75,9 @@
 
 | Navigation |  |
 |---|---|
+| Bank Left | Banks tracks left/Scrolls 1 track left in Nudge mode |
+| Bank Right | Banks tracks right/Scrolls 1 track right in Nudge mode |
+| Nudge | Toggles Nudge mode On/Off |
 | The cursor buttons operate in several modes. |  |
 | Zoom | Horizontal and vertical zoom when zoom button is enabled. |
 | Up | Moves up track selection or list/Zooms out vertically |
@@ -95,12 +92,6 @@
 | Undo | Press to undo the last edit. |
 | Enter | Confirm selection |
 | Cancel | Cancel selection |
-
-| Bank Buttons |  |
-|---|---|
-| Bank Left | Banks tracks left/Scrolls 1 track left in Nudge mode |
-| Bank Right | Banks tracks right/Scrolls 1 track right in Nudge mode |
-| Nudge | Toggles Nudge mode On/Off |
 
 | V-Window Mode |  |
 |---|---|

@@ -8,8 +8,9 @@
 | Select | Sets the Channel to the Select state. |
 | Knob | Changes the assigned parameter. |
 | Knob Button | Changes the assigned parameter. |
+| Track Meters | Displays Stereo metering for tracks. |
 
-| Knob Mode Buttons |  |
+| Bank Mode |  |
 |---|---|
 | The assignment buttons are used to assign controls to the Knobs. |  |
 | Pan (Default) | Assigns Pan to knobs. |
@@ -27,15 +28,7 @@
 | Flip | Flips knobs to faders. |
 | Show Channel Names | Shows track name in Channel LCD when held down. |
 | Show Values | Shows value for assigned knob parameter. |
-
-| Master Fader Button |  |
-|---|---|
 | Master Faders | Toggles last Channel Fader to be Master Fader |
-
-| LCD/Display |  |
-|---|---|
-| Track Meters | Displays Stereo metering for tracks. |
-| Counter | Displays Counter for current session. |
 
 | Transport |  |
 |---|---|
@@ -58,6 +51,7 @@
 | Audition | Toggles Replace |
 | Ext Trans | Toggles Metronome |
 | Counter Mode Select | Changes Counter Mode in Counter LCD. |
+| Counter | Displays Counter for current session. |
 
 | Utility |  |
 |---|---|
@@ -75,6 +69,9 @@
 
 | Navigation |  |
 |---|---|
+| Bank Left | Banks 24 tracks left/Scrolls 1 track left in Nudge mode |
+| Bank Right | Banks 24 tracks right/Scrolls 1 track right in Nudge mode |
+| Nudge | Toggles Nudge mode On/Off |
 | Up | Scrolls to next track in Arrangement. |
 | Down | Scrolls to previous track in Arrangement. |
 | Left | Scroll to previous track in MIxer. |
@@ -102,9 +99,3 @@
 | Option | Enables Option Modifier. |
 | Control | Enables Control Modifier. |
 | Command | Enables Command Modifier. |
-
-| Bank Buttons |  |
-|---|---|
-| Bank Left | Banks 24 tracks left/Scrolls 1 track left in Nudge mode |
-| Bank Right | Banks 24 tracks right/Scrolls 1 track right in Nudge mode |
-| Nudge | Toggles Nudge mode On/Off |

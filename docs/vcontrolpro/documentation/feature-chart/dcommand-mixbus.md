@@ -13,18 +13,11 @@
 | Select | Sets the Channel to the Select state. |
 | Knob | Changes the assigned parameter. |
 | Knob Button | Changes the assigned parameter. |
+| Track Meters | Displays Mono metering for tracks. |
 | Flip | Flips knobs to faders. |
-
-| Master Fader Button |  |
-|---|---|
 | Master Faders | Toggles last Channel Fader to be Master Fader |
 
-| LCD/Display |  |
-|---|---|
-| Track Meters | Displays Mono metering for tracks. |
-| Counter | Displays Counter for current session. |
-
-| Automation Buttons |  |
+| Automation |  |
 |---|---|
 | Read | Sets selected Channel in to Play Mode |
 | Write | Sets selected Channel to Write Mode |
@@ -46,6 +39,7 @@
 | Audition | Toggles Click |
 | Scrub | Enables Scrub mode for the wheel. |
 | Scroll | Enables Scroll mode for the wheel. |
+| Counter | Displays Counter for current session. |
 
 | Utility |  |
 |---|---|
@@ -61,6 +55,10 @@
 
 | Navigation |  |
 |---|---|
+| Bank Left | Banks 8 tracks left. |
+| Bank Right | Banks 8 tracks right. |
+| Nudge Left | Scrolls 1 track left. |
+| Nudge Right | Scrolls 1 track right. |
 | Up | Scrolls to next track in Arrangement. |
 | Down | Scrolls to previous track in Arrangement. |
 | Left | Scroll to previous track in MIxer. |
@@ -95,13 +93,6 @@
 | Option | Enables Option Modifier. |
 | Control | Enables Control Modifier. |
 | Command | Enables Command Modifier. |
-
-| Bank Buttons |  |
-|---|---|
-| Bank Left | Banks 8 tracks left. |
-| Bank Right | Banks 8 tracks right. |
-| Nudge Left | Scrolls 1 track left. |
-| Nudge Right | Scrolls 1 track right. |
 
 | V-Window Mode |  |
 |---|---|

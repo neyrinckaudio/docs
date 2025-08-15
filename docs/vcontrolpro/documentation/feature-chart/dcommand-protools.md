@@ -15,14 +15,10 @@
 | Select | Sets the Channel to the Select state. |
 | Knob | Changes the assigned parameter. |
 | Knob Button | Changes the assigned parameter. |
+| Track Meters | Displays Mono metering for tracks. |
 | Flip | Flips knobs to faders. |
 
-| LCD/Display |  |
-|---|---|
-| Track Meters | Displays Mono metering for tracks. |
-| Counter | Displays Counter for current session. |
-
-| Automation Buttons |  |
+| Automation |  |
 |---|---|
 | Hold down the Automation Mode and press the channel select button to assign that mode to the channel. |  |
 | Write | Assigns Write mode to selected channel. |
@@ -31,9 +27,6 @@
 | Latch | Assigns Latch mode to selected channel. |
 | Off | Sets Automation mode to Off |
 | Auto Suspend | Suspends Automation |
-
-| Automation Enable Buttons |  |
-|---|---|
 | There is no indication if Automation enables are On/Off |  |
 | Vol | Toggle Enable Volume Automation |
 | Pan | Toggle Enable Pan Automation |
@@ -55,6 +48,7 @@
 | Mark Out | Go To Right Locator |
 | Loop Play | Toggles Loop mode for loop selection in Timeline. |
 | Quick Punch | Toggles Punch mode for selection in Timeline. |
+| Counter | Displays Counter for current session. |
 
 | Utility |  |
 |---|---|
@@ -70,19 +64,16 @@
 
 | Navigation |  |
 |---|---|
+| Bank Left | Banks 8 tracks left. |
+| Bank Right | Banks 8 tracks right. |
+| Nudge Left | Scrolls 1 track left. |
+| Nudge Right | Scrolls 1 track right. |
 | Scrub | Enables Scrub mode for the wheel. |
 |  | Normal Mode - Use Shift at any time to adjust start or end of a selection with wheel. |
 |  | Edit Start Of Selection - Hold Shift and press Scrub. Use wheel to edit start of selection. |
 |  | Edit End Of Selection - Hold Shift+Option and press Scrub. Use wheel to edit end of selection. |
 | Shuttle | Enables Shuttle Mode for the wheel. |
 | Zoom | Enables Zoom mode for the cursor keys. |
-
-| Bank Buttons |  |
-|---|---|
-| Bank Left | Banks 8 tracks left. |
-| Bank Right | Banks 8 tracks right. |
-| Nudge Left | Scrolls 1 track left. |
-| Nudge Right | Scrolls 1 track right. |
 
 | V-Window Mode |  |
 |---|---|

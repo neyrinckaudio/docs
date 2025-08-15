@@ -12,8 +12,9 @@
 | Select | Sets the Channel to the Select state. |
 | Knob | Changes the assigned parameter. |
 | Knob Button |  |
+| Track Meters | Displays Stereo metering for tracks. |
 
-| Knob Mode Buttons |  |
+| Bank Mode |  |
 |---|---|
 | The assignment buttons are used to assign controls to the Knobs. |  |
 | Pan (Default) | Shows pan position in LED Strip. Knob controls pan position. |
@@ -37,17 +38,10 @@
 |  | 5th parameter is phase invert. |
 | Softkeys | Assigns knob buttons on Channel strips to be soft key buttons. |
 | Flip | Flips knobs to faders. |
+| Master Faders | Enables Master Fader control on the 24th channel of C24. |
+| Output Meters | Displays the Master Meter. |
 
-| Master Faders |  |
-|---|---|
-| Master Faders | Enables Master Fader control on the 24th channel of C|24. |
-
-| LCD/Display |  |
-|---|---|
-| Track Meters | Displays Stereo metering for tracks. |
-| Counter | Displays Counter for current session. Counter mode can be changed in DAW. |
-
-| Automation Buttons |  |
+| Automation |  |
 |---|---|
 | Write | Toggles Write automation for all channels. |
 | Touch | Sets Automation to Touch automation for all channels. When in Touch mode, pressing again enables Cross-over automation mode. |
@@ -57,9 +51,6 @@
 | Write To End | Enables Write To End Automation. |
 | Write To All | Enables Loop Automation. |
 | Auto Suspend | Suspends Automation |
-
-| Automation Enable Buttons |  |
-|---|---|
 | There is no indication if Automation enables are On/Off |  |
 | Vol | Toggle Enable Volume Automation |
 | Pan | Toggle Enable Pan Automation |
@@ -83,6 +74,8 @@
 | Mark Out | Sets end point of selection in Timeline. |
 | Loop Play/Loop Rec | Toggles Loop mode for loop selection in Timeline. |
 | Quick Punch | Toggles Punch mode for selection in Timeline. |
+| Counter | Displays Counter for current session. Counter mode can be changed in DAW. |
+| Automatic TalkBack | This C24 feature is supported. Enable/disable on C24 by pressing Utility button. |
 
 | Edit |  |
 |---|---|
@@ -107,6 +100,9 @@
 
 | Navigation |  |
 |---|---|
+| Bank Left | Banks tracks left/Scrolls 1 track left in Nudge mode |
+| Bank Right | Banks tracks right/Scrolls 1 track right in Nudge mode |
+| Nudge | Toggles Nudge mode On/Off |
 | There are several different modes available for the cursor keys and wheel. |  |
 | Scrub | Enables Scrub mode for the wheel. |
 | Shuttle | Enables Shuttle Mode for the wheel. |
@@ -118,27 +114,12 @@
 
 | Softkeys Button |  |
 |---|---|
-| Softkeys | Enables the knob buttons on the channel strips to become softkeys.  Softkeys can be mapped in the Studio Setups window of Cubase when the C|24 is selected. |
+| Softkeys | Enables the knob buttons on the channel strips to become softkeys.  Softkeys can be mapped in the Studio Setups window of Cubase when the C24 is selected. |
 
 | View Buttons |  |
 |---|---|
 | Focus | Toggles Banking mode follow for Bank and Scroll buttons. |
 |  | When Follow mode is on, Mixer in Cubase moves to match what is shown on Control surface. (Must have track count in Cubase view match control surface layout.) |
-
-| Bank Buttons |  |
-|---|---|
-| Bank Left | Banks tracks left/Scrolls 1 track left in Nudge mode |
-| Bank Right | Banks tracks right/Scrolls 1 track right in Nudge mode |
-| Nudge | Toggles Nudge mode On/Off |
-
-| Output Meters |  |
-|---|---|
-| Output Meters | Displays the Master Meter. |
-
-| Monitoring |  |
-|---|---|
-| All | All monitoring features are analog circuits that are always active. |
-| Automatic TalkBack | This C|24 feature is supported. Enable/disable on C|24 by pressing Utility button. |
 
 | V-Window Mode |  |
 |---|---|

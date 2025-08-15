@@ -9,8 +9,9 @@
 | Knob | Changes the assigned parameter. |
 | Record | Toggles Record enable mode for channel select buttons. |
 | Meter | Toggles meter display to left or right meter. |
+| Track Meters | Displays Stereo metering for tracks. |
 
-| Knob Mode Buttons |  |
+| Bank Mode |  |
 |---|---|
 | The assignment buttons are used to assign controls to the Knobs. |  |
 | Pan (Default) | Shows pan position in LED Strip. Knob controls pan position. |
@@ -33,9 +34,6 @@
 |  | 5th parameter is phase invert. |
 | Insert | Assigns knobs to edit selected track's inserts. |
 | Flip | Flips knobs to faders. |
-
-| Master Faders |  |
-|---|---|
 | Master Faders | Enables Master Fader control on the 7th channel of Command|8. |
 
 | Automation |  |
@@ -44,11 +42,6 @@
 | Read |  |
 | Touch |  |
 | Latch |  |
-
-| LCD/Display |  |
-|---|---|
-| Track Meters | Displays Stereo metering for tracks. |
-| Counter | Displays Counter for current session. Counter mode can be changed in DAW. |
 
 | Transport |  |
 |---|---|
@@ -61,6 +54,7 @@
 | Shift+RTZ | Sends playhead to end of Timeline. |
 | Loop Play | Toggles Loop mode for loop selection in Timeline. |
 | Quick Punch | Toggles Punch mode for selection in Timeline. |
+| Counter | Displays Counter for current session. Counter mode can be changed in DAW. |
 
 | Utility |  |
 |---|---|
@@ -74,14 +68,11 @@
 
 | Navigation |  |
 |---|---|
+| Bank Left | Banks tracks left/Scrolls 1 track left in Nudge mode |
+| Bank Right | Banks tracks right/Scrolls 1 track right in Nudge mode |
+| Nudge | Toggles Nudge mode On/Off |
 | There are several different modes available for the cursor keys and wheel. |  |
 | MemLoc | Enables Marker Mode. Use Wheel or Left/Right cursor keys to navigate between markers. Down cursor key creates marker at playhead. |
 | Zoom | Enables Zoom mode for the wheel and cursor keys. |
 | Zoom+Shift | Enables Track Zoom for the wheel and cursor keys. Track zoom increases/decreases track height. |
 | Zoom+Option | Enables Wave Zoom for the wheel and cursor keys. Wave zoom increases waveform view in region. |
-
-| Bank Buttons |  |
-|---|---|
-| Bank Left | Banks tracks left/Scrolls 1 track left in Nudge mode |
-| Bank Right | Banks tracks right/Scrolls 1 track right in Nudge mode |
-| Nudge | Toggles Nudge mode On/Off |

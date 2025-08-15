@@ -9,7 +9,9 @@
 | Knob | Changes the assigned parameter. |
 | Knob Button | Sets assigned parameter to default value |
 |  | When in Plug-In Mode, selects plug-in to edit. |
-| Knob Mode Buttons |  |
+| Track Meters | Displays metering for tracks. Currenlty supports one meter per channel. |
+
+| Bank Mode |  |
 |---|---|
 | The assignment buttons are used to assign controls to the Knobs. |  |
 | Pan (Default) | Shows the track names in the LED strip and assigns Knobs to Channel Pan. |
@@ -20,15 +22,7 @@
 | Insert/Params | Sets the V-Pots to PlugIn Edit mode. |
 | Flip | Flips knob assignment to faders. |
 | Show Channel Names | Shows Track names when in Plug-in Edit mode. |
-
-| Master Fader Button |  |
-|---|---|
 | Master Faders | Toggles last Channel Fader to be Master Fader |
-
-| LCD/Display |  |
-|---|---|
-| Track Meters | Displays metering for tracks. Currenlty supports one meter per channel. |
-| Counter | Displays Counter for current session. Counter mode can be changed in DAW. |
 
 | Transport |  |
 |---|---|
@@ -41,6 +35,7 @@
 | In | Toggles Punch In for Arrangement |
 | Out | Toggles Punch Out for Arrangement |
 | Counter Mode Select | Toggles Counter Display |
+| Counter | Displays Counter for current session. Counter mode can be changed in DAW. |
 
 | Trigger Buttons |  |
 |---|---|
@@ -53,6 +48,9 @@
 
 | Navigation |  |
 |---|---|
+| Bank Left | Banks tracks left/Scrolls 1 track left in Nudge mode |
+| Bank Right | Banks tracks right/Scrolls 1 track right in Nudge mode |
+| Nudge | Toggles Nudge mode On/Off |
 | The cursor buttons operate in several modes. |  |
 | Zoom | Switches cursor keys to Zoom mode. |
 | Navigate | Switches cursor keys to Marker mode. |
@@ -79,7 +77,7 @@
 | Pencil Tool | Toggles Draw |
 | Grab Tool | Toggles Follow |
 
-| Soft Keys for Control 24 |  |
+| Soft Keys |  |
 |---|---|
 | Use the Ableton Live MIDI mapping mode to map keys to functions. |  |
 | F1 | Maps F#2 key |
@@ -92,13 +90,6 @@
 | F8 | Maps C#3 key |
 | F9 | Maps D3 key |
 | F10 | Maps D#3 key |
-
-
-| Bank Buttons |  |
-|---|---|
-| Bank Left | Banks tracks left/Scrolls 1 track left in Nudge mode |
-| Bank Right | Banks tracks right/Scrolls 1 track right in Nudge mode |
-| Nudge | Toggles Nudge mode On/Off |
 
 | V-Window Mode |  |
 |---|---|

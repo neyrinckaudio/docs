@@ -13,8 +13,9 @@
 | Knob | Changes the assigned parameter. |
 | Knob Button | Sets assign selection/Toggles insert parameters/Toggles prepost/Toggles Send Mute |
 | Master Record | Record Enables all available channels. |
+| Track Meters | Displays Stereo metering for tracks. |
 
-| Knob Mode Buttons |  |
+| Bank Mode |  |
 |---|---|
 | The assignment buttons are used to assign controls to the Knobs. |  |
 | Pan (Default) | Assigns knobs to control pan position. For stereo tracks, press pan button again to access other side. |
@@ -31,13 +32,7 @@
 | Insert Bypass | Enables Bypass mode. Bypass mode assigns Insert button on channel strip to bypass all inserts. |
 | Flip | Flips knobs to faders. |
 
-| LCD/Display |  |
-|---|---|
-| Track Meters | Displays Stereo metering for tracks. |
-| Counter | Displays Counter for current session. Counter mode can be changed in DAW. |
-
-
-| Automation Buttons |  |
+| Automation |  |
 |---|---|
 | Hold down Auto button channel strip to select automation modes. |  |
 | Read | Sets selected Channel in to Read Mode |
@@ -75,8 +70,9 @@
 | Online | Enables Online Mode for transport. |
 | Scrub | Enables Scrub Mode for the Wheel |
 | Shuttle | Enables Shuttle Mode for the Wheel |
+| Counter | Displays Counter for current session. Counter mode can be changed in DAW. |
 
-| Plug-in Buttons for Control|24 |  |
+| Plug-in Buttons for Control 24 |  |
 |---|---|
 | Master Bypass | Bypass selected plug-in on Channel. |
 | Params | Show plug-in parameters for selected plug-in on Channel. Press again to display plug-ins on channel across LCD. |
@@ -127,6 +123,9 @@
 
 | Navigation |  |
 |---|---|
+| Bank Left | Banks tracks left/Scrolls 1 track left in Nudge mode |
+| Bank Right | Banks tracks right/Scrolls 1 track right in Nudge mode |
+| Nudge | Toggles Nudge mode On/Off |
 | Up | Scrolls Up in Edit Window. |
 | Down | Scrolls Down in Edit Window. |
 | Left | Scrolls Left in Edit Window. |
@@ -158,12 +157,6 @@
 | Select | Enables Select Tool in Edit Window. |
 | Grab | Enables Grab Tool in Edit Window. |
 | Pencil | Enables Pencil Tool in Edit Window. |
-
-| Bank Buttons |  |
-|---|---|
-| Bank Left | Banks tracks left/Scrolls 1 track left in Nudge mode |
-| Bank Right | Banks tracks right/Scrolls 1 track right in Nudge mode |
-| Nudge | Toggles Nudge mode On/Off |
 
 | V-Window Mode |  |
 |---|---|

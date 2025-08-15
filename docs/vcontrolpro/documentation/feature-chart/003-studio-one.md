@@ -10,8 +10,9 @@
 | Knob | Changes the assigned parameter. |
 | Default+Select | Sets assigned parameter to default value |
 | Display Mode | Changes display on LCD to show parameters |
+| Track Meters | Displays metering for tracks. Currenlty supports one meter per channel. |
 
-| Knob Mode Buttons |  |
+| Bank Mode |  |
 |---|---|
 | The assignment buttons are used to assign controls to the Knobs. |  |
 | Pan (Default) | Shows the track names in the LED strip and assigns Knobs to Channel Pan. |
@@ -27,17 +28,9 @@
 | Master Bypass | Bypass for Inserts 1-8 of the selected Channel. |
 | Insert | Sets the V-Pots to Control Link mode. |
 | Flip | Flips knob assignment to faders. |
-
-| Master Fader Button |  |
-|---|---|
 | Master Faders | Toggles last Channel Fader to be Master Fader |
 
-| LCD/Display |  |
-|---|---|
-| Track Meters | Displays metering for tracks. Currenlty supports one meter per channel. |
-| Counter | Displays Counter for current session. Counter mode can be changed in DAW. |
-
-| Automation Buttons |  |
+| Automation |  |
 |---|---|
 | Write | Sets Automation to Write mode for the selected Channel. |
 | Touch | Sets Automation to Touch mode for the selected Channel. |
@@ -54,6 +47,7 @@
 | RTZ | Return to zero. |
 | Loop Play | Toggles Loop mode for loop selection in Timeline. |
 | Quick Punch | Toggles Punch mode for selection in Timeline. |
+| Counter | Displays Counter for current session. Counter mode can be changed in DAW. |
 
 | Navigation |  |
 |---|---|

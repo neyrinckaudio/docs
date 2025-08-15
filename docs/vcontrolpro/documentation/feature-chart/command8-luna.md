@@ -7,6 +7,8 @@
 | Send | Expanded Sends V-Pot mode. Press Send A to cycle through Send overview and detail pages, which allow control over the selected track's parameters. |
 | Pan | Assign Pan position to knobs. |
 | Flip | Flips V-Pot control to Faders. |
+| Master Faders | Press first time to toggle Master fader to be assigned to last fader on controller. Master Fader light will be solid in this mode. |
+|  | Press second time to enable V-Window feature for last fader on controller. Master Fader Light will be flashing in this mode. |
 
 | Channel Strips |  |
 |---|---|
@@ -17,16 +19,7 @@
 | Knob | Changes the assigned parameter. |
 | Knob Button | Sets assigned parameter to default value |
 | Solo Clear | When lit, pressing clears all active solos. |
-
-| Master Fader Button |  |
-|---|---|
-| Master Faders | Press first time to toggle Master fader to be assigned to last fader on controller. Master Fader light will be solid in this mode. |
-|  | Press second time to enable V-Window feature for last fader on controller. Master Fader Light will be flashing in this mode. |
-
-| LCD/Display |  |
-|---|---|
 | Track Meters | Displays metering for tracks. Currenlty supports one meter per channel. |
-| Counter | Displays Counter for current session. Counter mode can be changed in DAW. |
 
 | Track View |  |
 |---|---|
@@ -40,6 +33,7 @@
 | Record | Starts Record Mode for playhead |
 | Rewind | Move playhead backwards in Timeline. |
 | Fast Forward | Moves playhead forward in Timeline. |
+| Counter | Displays Counter for current session. Counter mode can be changed in DAW. |
 
 | Navigation |  |
 |---|---|

@@ -9,8 +9,9 @@
 | Knob | Changes the assigned parameter. |
 | Knob Button | Sets assigned parameter to default value |
 |  | In Insert Mode the Knob button will toggle bypass on the plug-in. |
+| Track Meters | Displays metering for tracks. Currenlty supports one meter per channel. |
 
-| Knob Mode Buttons |  |
+| Bank Mode |  |
 |---|---|
 | The assignment buttons are used to assign controls to the Knobs. |  |
 | Pan (Default) | Shows the track names in the LED strip and assigns Knobs to Channel Pan. |
@@ -22,17 +23,9 @@
 | In/Edit | While in Insert Mode, hold down the In/Edit button and press the knob button on the |
 | Default | Hold down and use the knob to cycle through presets for the selected plug-in. |
 | Flip | Flips knob assignment to faders. |
-
-| Master Fader Button |  |
-|---|---|
 | Master Faders | Toggles last Channel Fader to be Master Fader |
 
-| LCD/Display |  |
-|---|---|
-| Track Meters | Displays metering for tracks. Currenlty supports one meter per channel. |
-| Counter | Displays Counter for current session. Counter mode can be changed in DAW. |
-
-| Automation Buttons |  |
+| Automation |  |
 |---|---|
 | To Assign automation to a channel. Hold down the automation button and press the Channel button you wish to assign automation to. |  |
 | Must be in Pan or Send Assignment mode for Automation Assignment to Work. |  |
@@ -53,9 +46,13 @@
 | In | Set Left |
 | Out | Set Right |
 | Quick Punch | Set Left Drop |
+| Counter | Displays Counter for current session. Counter mode can be changed in DAW. |
 
 | Navigation |  |
 |---|---|
+| Bank Left | Banks tracks left/Scrolls 1 track left in Nudge mode |
+| Bank Right | Banks tracks right/Scrolls 1 track right in Nudge mode |
+| Nudge | Toggles Nudge mode On/Off |
 | The cursor buttons operate in several modes. |  |
 | Zoom | Horizontal and vertical zoom when zoom button is enabled. |
 | Up | Moves up track selection or list/Zooms out vertically |
@@ -74,12 +71,6 @@
 | Undo | Press to undo the last edit. |
 | Enter | Confirm selection |
 | Cancel | Cancel selection |
-
-| Bank Buttons |  |
-|---|---|
-| Bank Left | Banks tracks left/Scrolls 1 track left in Nudge mode |
-| Bank Right | Banks tracks right/Scrolls 1 track right in Nudge mode |
-| Nudge | Toggles Nudge mode On/Off |
 
 | V-Window Mode |  |
 |---|---|

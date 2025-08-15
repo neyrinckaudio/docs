@@ -16,18 +16,11 @@
 | Select | Sets the Channel to the Select state. |
 | Knob | Changes the assigned parameter. |
 | Knob Button | Changes the assigned parameter. |
+| Track Meters | Displays Mono metering for tracks. |
 | Flip | Flips knobs to faders. |
-
-| Master Fader Button |  |
-|---|---|
 | Master Faders | Toggles last Channel Fader to be Master Fader |
 
-| LCD/Display |  |
-|---|---|
-| Track Meters | Displays Mono metering for tracks. |
-| Counter | Displays Counter for current session. |
-
-| Automation Buttons |  |
+| Automation |  |
 |---|---|
 | Write | Toggles Write automation for all channels. |
 | Read | Toggles Read automation for all channels. |
@@ -35,9 +28,6 @@
 | Latch | Sets Automation to Latch mode for all channels. |
 | Off | Sets Automation to Cross-over mode for all channels. |
 | Auto Suspend | Suspends Automation |
-
-| Automation Enable Buttons |  |
-|---|---|
 | There is no indication if Automation enables are On/Off |  |
 | Vol | Toggle Enable Volume Automation |
 | Pan | Toggle Enable Pan Automation |
@@ -61,6 +51,7 @@
 | Mark Out | Go To Right Locator |
 | Loop Play/Loop Rec | Toggles Loop mode for loop selection in Timeline. |
 | Quick Punch | Toggles Punch mode for selection in Timeline. |
+| Counter | Displays Counter for current session. |
 
 | Utility |  |
 |---|---|
@@ -76,6 +67,10 @@
 
 | Navigation |  |
 |---|---|
+| Bank Left | Banks 8 tracks left. |
+| Bank Right | Banks 8 tracks right. |
+| Nudge Left | Scrolls 1 track left. |
+| Nudge Right | Scrolls 1 track right. |
 | There are several different modes available for the cursor keys and wheel. |  |
 | Navigate | Enables Wheel and cursor to default mode. |
 | Scrub | Enables Scrub mode for the wheel. |
@@ -84,13 +79,6 @@
 | Zoom+Shift | Enables Track Zoom for the wheel and cursor keys. Track zoom increases/decreases track height. |
 | Zoom+Option | Enables Wave Zoom for the wheel and cursor keys. Wave zoom increases waveform view in region. |
 | Zoom+Control | Enables Nudge trim mode for the wheel and cursor keys. Use Left/Right cursor keys to change between start/end of region.  Use Up/Down cursor keys or wheel to trim. |
-
-| Bank Buttons |  |
-|---|---|
-| Bank Left | Banks 8 tracks left. |
-| Bank Right | Banks 8 tracks right. |
-| Nudge Left | Scrolls 1 track left. |
-| Nudge Right | Scrolls 1 track right. |
 
 | V-Window Mode |  |
 |---|---|

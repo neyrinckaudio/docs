@@ -7,8 +7,9 @@
 | Select | Sets the Channel to the Select state. |
 | Knob | Changes the assigned parameter. |
 | Meter | Toggles between Right and left channel meter display. |
+| Track Meter | Displays metering for tracks. Press Meter button to toggle between left and right meters. |
 
-| Knob Mode Buttons |  |
+| Bank Mode |  |
 |---|---|
 | The assignment buttons are used to assign controls to the Knobs. |  |
 | Pan (Default) | Assigns Pan to knobs. |
@@ -24,15 +25,7 @@
 | Pan/Sends/PRE | Assigns Sends of selected channel to the knobs. |
 | Flip | Flips knobs to faders. |
 | Display Mode | Displays values for knob assignment. |
-
-| Master Fader Button |  |
-|---|---|
 | Master Faders | Toggles last Channel Fader to be Master Fader |
-
-| LCD/Display |  |
-|---|---|
-| Track Meter | Displays metering for tracks. Press Meter button to toggle between left and right meters. |
-| Counter | Displays Counter for current session. |
 
 | Transport |  |
 |---|---|
@@ -45,6 +38,7 @@
 | Shift+RTZ | Moves playhead to end of Timeline. |
 | Loop Play/Loop Rec | Toggles Loop mode for loop selection in Timeline. |
 | Quick Punch | Toggles Punch mode for selection in Timeline. |
+| Counter | Displays Counter for current session. |
 
 | Utility |  |
 |---|---|

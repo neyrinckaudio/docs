@@ -9,7 +9,10 @@
 | Knob | Changes the assigned parameter. |
 | Knob Button | Sets assigned parameter to default value |
 |  | When in Plug-In Mode, selects plug-in to edit. |
-| Knob Mode Buttons |  |
+| Track Meters | Displays metering for tracks. Currenlty supports one meter per channel. |
+
+| Bank Mode |  |
+|---|---|
 | The assignment buttons are used to assign controls to the Knobs. |  |
 | Pan (Default) | Shows the track names in the LED strip and assigns Knobs to Channel Pan. |
 | Send A,B,C,D,E | Assigns Knob to Sends |
@@ -18,15 +21,7 @@
 |  | Press multiple times to cycle through input and output parameters |
 | Insert/Params | Sets the V-Pots to PlugIn Edit mode. |
 | Flip | Flips knob assignment to faders. |
-
-| Master Fader Button |  |
-|---|---|
 | Master Faders | Toggles last Channel Fader to be Master Fader |
-
-| LCD/Display |  |
-|---|---|
-| Track Meters | Displays metering for tracks. Currenlty supports one meter per channel. |
-| Counter | Displays Counter for current session. Counter mode can be changed in DAW. |
 
 | Transport |  |
 |---|---|
@@ -39,6 +34,8 @@
 | In | Toggles Punch In for Arrangement |
 | Out | Toggles Punch Out for Arrangement |
 | Counter Mode Select | Toggles Counter Display |
+| Counter | Displays Counter for current session. Counter mode can be changed in DAW. |
+| Automatic TalkBack | This C24 feature is supported. Enable/disable on C24 by pressing Utility button. |
 
 | Trigger Buttons |  |
 |---|---|
@@ -51,6 +48,9 @@
 
 | Navigation |  |
 |---|---|
+| Bank Left | Banks tracks left/Scrolls 1 track left in Nudge mode |
+| Bank Right | Banks tracks right/Scrolls 1 track right in Nudge mode |
+| Nudge | Toggles Nudge mode On/Off |
 | The cursor buttons operate in several modes. |  |
 | Zoom | Switches cursor keys to Zoom mode. |
 | Navigate | Switches cursor keys to Marker mode. |
@@ -73,12 +73,12 @@
 | Utility |  |
 |---|---|
 | Undo | Press to undo the last edit. |
-| Redo (C|24) | Press to redo edit. |
-| Shift+Undo (Control|24/ProControl) | Press to redo edit. |
+| Redo (C24) | Press to redo edit. |
+| Shift+Undo (Control 24/ProControl) | Press to redo edit. |
 | Pencil Tool | Toggles Draw |
 | Grab Tool | Toggles Follow |
 
-| Soft Keys for C|24 |  |
+| Soft Keys |  |
 |---|---|
 | Press the Soft keys button to enter soft keys mode. |  |
 | Use the Ableton Live MIDI mapping mode to map keys to functions. |  |
@@ -98,17 +98,6 @@
 | Knob Button 14 | Maps G3 key |
 | Knob Button 15 | Maps G#3 key |
 | Knob Button 16 | Maps A3 key |
-
-| Bank Buttons |  |
-|---|---|
-| Bank Left | Banks tracks left/Scrolls 1 track left in Nudge mode |
-| Bank Right | Banks tracks right/Scrolls 1 track right in Nudge mode |
-| Nudge | Toggles Nudge mode On/Off |
-
-| Monitoring |  |
-|---|---|
-| All | All monitoring features are analog circuits that are always active. |
-| Automatic TalkBack | This C|24 feature is supported. Enable/disable on C|24 by pressing Utility button. |
 
 | V-Window Mode |  |
 |---|---|

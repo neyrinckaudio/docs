@@ -15,6 +15,8 @@
 | Knob Button | Changes the assigned parameter. |
 | Flip | Flips knobs to faders. |
 | Softkey/1 | Toggles Fine knob mode control. |
+| Track Meters | Displays Stereo metering for tracks. |
+| Master Faders | Toggles last Channel Fader to be Master Fader |
 
 | EQ Section |  |
 |---|---|
@@ -31,16 +33,7 @@
 | Gain 3 | Adjust Band 3 Gain. |
 | Gain 4 | Adjust Band 4 Gain. |
 
-| Master Fader Button |  |
-|---|---|
-| Master Faders | Toggles last Channel Fader to be Master Fader |
-
-| LCD/Display |  |
-|---|---|
-| Track Meters | Displays Stereo metering for tracks. |
-| Counter | Displays Counter for current session. |
-
-| Automation Buttons |  |
+| Automation |  |
 |---|---|
 | Read | Sets selected Channel in to Read Mode |
 | Write | Sets selected Channel to Write Mode |
@@ -75,6 +68,7 @@
 | Online | Click |
 | Scrub | Enables Scrub mode for the wheel. |
 | Scroll | Enables Scroll mode for the wheel. |
+| Counter | Displays Counter for current session. |
 
 | Utility |  |
 |---|---|
@@ -90,6 +84,10 @@
 
 | Navigation |  |
 |---|---|
+| Bank Left | Banks 8 tracks left. |
+| Bank Right | Banks 8 tracks right. |
+| Nudge Left | Scrolls 1 track left. |
+| Nudge Right | Scrolls 1 track right. |
 | Up | Scrolls to next track in Arrangement. |
 | Down | Scrolls to previous track in Arrangement. |
 | Left | Scroll to previous track in MIxer. |
@@ -117,13 +115,6 @@
 | Option | Enables Option Modifier. |
 | Control | Enables Control Modifier. |
 | Command | Enables Command Modifier. |
-
-| Bank Buttons |  |
-|---|---|
-| Bank Left | Banks 8 tracks left. |
-| Bank Right | Banks 8 tracks right. |
-| Nudge Left | Scrolls 1 track left. |
-| Nudge Right | Scrolls 1 track right. |
 
 | V-Window Mode |  |
 |---|---|

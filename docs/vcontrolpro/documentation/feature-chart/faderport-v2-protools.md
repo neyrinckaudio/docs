@@ -1,6 +1,6 @@
 # FaderPort V2 ProTools
 
-| Channel Strips |  |
+| Channel Strip |  |
 |---|---|
 | Solo | Solos the Channel. |
 | Mute | Mutes the Channel. |
@@ -15,7 +15,7 @@
 | Prev | Navigates to the previous track. |
 | Next | Navigates to the next track. |
 
-| Automation Buttons |  |
+| Automation |  |
 |---|---|
 | Hold down Auto button channel strip to select automation modes. |  |
 | Touch | Enables Touch Mode Automation for the selected Channel. |
@@ -25,7 +25,7 @@
 | Read | Enables Automation selection. Hold down button to make selection using 2 different methods. |
 | Shift+Read | Enables Off Mode Automation for the selected Channel. |
 
-| Knob Mode Buttons With Fader Flip |  |
+| Bank Mode With Fader Flip |  |
 |---|---|
 | The assignment buttons are used to assign controls to the Knobs. |  |
 | Pan (Default) | Assigns knobs to control pan position. For stereo tracks, press pan button again to access other side. |

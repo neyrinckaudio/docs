@@ -9,6 +9,7 @@
 | Knob | Changes the assigned parameter. |
 | Knob Button | Sets assigned parameter to default value |
 | Solo Clear | When lit, pressing clears all active solos. |
+| Track Meters | Displays metering for tracks. Currenlty supports one meter per channel. |
 
 | Bank Mode |  |
 |---|---|
@@ -16,18 +17,10 @@
 | Send A (Hold)+Knob Button | Single Sends V-Pot mode. Press and hold the Send A button and then press the specified knob button to display that Send across all V-pots. |
 | Send A | Expanded Sends V-Pot mode. Press Send A to cycle through Send overview and detail pages, which allow control over the selected track's parameters. |
 | Flip | Flips V-Pot control to Faders. |
-
-| Master Fader Button |  |
-|---|---|
 | Master Faders | Press first time to toggle Master fader to be assigned to last fader on controller. Master Fader light will be solid in this mode. |
 |  | Press second time to enable V-Window feature for last fader on controller. Master Fader Light will be flashing in this mode. |
 
-| LCD/Display |  |
-|---|---|
-| Track Meters | Displays metering for tracks. Currenlty supports one meter per channel. |
-| Counter | Displays Counter for current session. Counter mode can be changed in DAW. |
-
-| Automation Buttons |  |
+| Automation |  |
 |---|---|
 | Touch | Sets Automation to Touch mode for the selected Channel. |
 | Read | Sets Automation to Read mode for the selected Channel. |
@@ -42,9 +35,13 @@
 | Fast Forward | Moves playhead forward in Timeline. |
 | RTZ | Moves playhead to start of timeline |
 | GTE | Moves playhead to end of timeline |
+| Counter | Displays Counter for current session. Counter mode can be changed in DAW. |
 
 | Navigation |  |
 |---|---|
+| Bank Left | Banks tracks left/Scrolls 1 track left in Nudge mode |
+| Bank Right | Banks tracks right/Scrolls 1 track right in Nudge mode |
+| Nudge | Toggles Nudge mode On/Off |
 | The cursor buttons operate in several modes. |  |
 | Zoom | Horizontal and vertical zoom when zoom button is enabled. |
 | Up | Moves up track selection or list/Zooms out vertically |
@@ -59,12 +56,6 @@
 | Undo | Press to undo the last edit. |
 | Enter | Confirm selection |
 | Cancel | Cancel selection |
-
-| Bank Buttons |  |
-|---|---|
-| Bank Left | Banks tracks left/Scrolls 1 track left in Nudge mode |
-| Bank Right | Banks tracks right/Scrolls 1 track right in Nudge mode |
-| Nudge | Toggles Nudge mode On/Off |
 
 | V-Window Mode |  |
 |---|---|

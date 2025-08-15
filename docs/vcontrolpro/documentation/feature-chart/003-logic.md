@@ -7,8 +7,9 @@
 | Select | Sets the Channel to the Select state. |
 | Knob | Changes the assigned parameter. |
 | Meter | Toggles between Right and left channel meter display. |
+| Track Meter | Displays metering for tracks. Press Meter button to toggle between left and right meters. |
 
-| Knob Mode Buttons |  |
+| Bank Mode |  |
 |---|---|
 | The assignment buttons are used to assign controls to the Knobs. |  |
 | Pan (Default) | Assigns Pan to knobs. |
@@ -24,15 +25,7 @@
 | Pan/Sends/PRE | Assigns Sends of selected channel to the knobs. |
 | Flip | Flips knobs to faders. |
 | Display Mode | Displays values for knob assignment. |
-
-| Master Fader Button |  |
-|---|---|
 | Master Faders | Toggles last Channel Fader to be Master Fader |
-
-| LCD/Display |  |
-|---|---|
-| Track Meter | Displays metering for tracks. Press Meter button to toggle between left and right meters. |
-| Counter | Displays Counter for current session. |
 
 | Transport |  |
 |---|---|
@@ -45,6 +38,7 @@
 | Shift+RTZ | Moves playhead to end of Timeline. |
 | Loop Play | Toggles Loop mode for loop selection in Timeline. |
 | Quick Punch | Toggles Punch mode for selection in Timeline. |
+| Counter | Displays Counter for current session. |
 
 | Utility |  |
 |---|---|
@@ -54,6 +48,9 @@
 
 | Navigation |  |
 |---|---|
+| Bank Left | Banks 24 tracks left/Scrolls 1 track left in Nudge mode |
+| Bank Right | Banks 24 tracks right/Scrolls 1 track right in Nudge mode |
+| Nudge | Toggles Nudge mode On/Off |
 | Nudge | Sets Left and Right cursors to scroll tracks left and right for channel mixer. |
 | Bank | Sets Left and Right cursors to bank tracks left and right for channel mixer. |
 | Up | Scrolls to next track in Arrangement. |
@@ -63,7 +60,7 @@
 | Zoom | Enables Zoom mode for the cursor keys. Left/Right zooms horizontal for the Arrangement window. Up/Down zooms vertical for the Arrangement window. |
 | MemLoc | Enables Marker Mode for the cursor keys. Left/Right navigate between marker, Down creates marker at playhead position. |
 
-| Automation Buttons |  |
+| Automation |  |
 |---|---|
 | Read | Set the automation for the selected track to Read. |
 | Write | Set the automation for the selected track to Write. |
@@ -81,9 +78,3 @@
 | Option | Enables Option Modifier. |
 | Control | Enables Control Modifier. |
 | Command | Enables Command Modifier. |
-
-| Bank Buttons |  |
-|---|---|
-| Bank Left | Banks 24 tracks left/Scrolls 1 track left in Nudge mode |
-| Bank Right | Banks 24 tracks right/Scrolls 1 track right in Nudge mode |
-| Nudge | Toggles Nudge mode On/Off |

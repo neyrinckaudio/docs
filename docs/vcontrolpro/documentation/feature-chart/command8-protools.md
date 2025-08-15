@@ -8,8 +8,9 @@
 | Select | Sets the Channel to the Select state. |
 | Knob | Changes the assigned parameter. |
 | Knob Button | Sets assign selection/Toggles insert parameters/Toggles prepost/Toggles Send Mute |
+| Track Meters | Displays Stereo metering for tracks. |
 
-| Knob Mode Buttons |  |
+| Bank Mode |  |
 |---|---|
 | The assignment buttons are used to assign controls to the Knobs. |  |
 | Pan (Default) | Assigns knobs to control pan position. For stereo tracks, press pan button again to access other side. |
@@ -19,11 +20,6 @@
 | Send D | Assigns Send D to knobs. |
 | Send E | Assigns Send E to knobs. |
 | Flip | Flips knobs to faders. |
-
-| LCD/Display |  |
-|---|---|
-| Track Meters | Displays Stereo metering for tracks. |
-| Counter | Displays Counter for current session. Counter mode can be changed in DAW. |
 
 | Transport |  |
 |---|---|
@@ -37,6 +33,7 @@
 | Loop Play | Enables Loop playback. |
 | Loop Record | Enables Loop Record. |
 | Quick Punch | Enables Punch Mode. |
+| Counter | Displays Counter for current session. Counter mode can be changed in DAW. |
 
 | Utility |  |
 |---|---|
